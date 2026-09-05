@@ -47,14 +47,6 @@ def get_arguments():
     )
 
     parser.add_argument(
-        "-c",
-        "--classic",
-        dest="do_load_classic",
-        action="store_true",
-        default=False,
-        help="Load bibstem/bibcode/doi/issn data from classic flat files",
-    )
-    parser.add_argument(
         "-m",
         "--completeness",
         dest="do_completeness",
@@ -62,6 +54,7 @@ def get_arguments():
         default=False,
         help="Calculate completeness summary for all harvested bibstems",
     )
+
     parser.add_argument(
         "-j",
         "--json",
@@ -70,6 +63,7 @@ def get_arguments():
         default=False,
         help="Export completeness summary to JSON file",
     )
+
     parser.add_argument(
         "-r",
         "--retry",
@@ -113,75 +107,11 @@ def get_logs(args):
     return logfiles
 
 
-def write_to_database(table_def, data):
-    try:
-        blocksize = conf.get("CLASSIC_DATA_BLOCKSIZE", 10000)
-        total_rows = len(data)
-        if data and table_def:
-            i = 0
-            while i < total_rows:
-                logger.debug(
-                    "Writing to db: %s of %s rows remaining" % (len(data) - i, total_rows)
-                )
-                insertblock = data[i : (i + blocksize)]
-                tasks.task_write_block(table_def, insertblock)
-                i += blocksize
-    except Exception as err:
-        raise DBWriteException(err)
-
-
-def load_classic_data():
-    try:
-        # Delete existing classic data store
-        tasks.task_clear_classic_data()
-    except Exception as err:
-        raise DBClearException(err)
-    else:
-        # load bibstem-ISSN map
-        infile = conf.get("JOURNALSDB_ISSN_BIBSTEM", None)
-        records = utils.load_journalsdb_issn_bibstem_list(infile)
-        if records:
-            table_def = issn_bibstem
-            write_to_database(table_def, records)
-        else:
-            raise LoadClassicDataException("No ISSN-bibstem data found.")
-
-        # load bibcode-DOI map
-        infile = conf.get("CLASSIC_DOI_FILE", None)
-        if infile:
-            records = utils.load_classic_doi_bib_map(infile)
-        else:
-            logger.warning("No CLASSIC_DOI_FILE name given.")
-        if records:
-            table_def = identifier_doi
-            write_to_database(table_def, records)
-        else:
-            raise LoadClassicDataException("No DOI-bibcode data found.")
-
-        # load alternate and deleted bibcode mappings
-        infile_can = conf.get("CLASSIC_CANONICAL", None)
-        infile_alt = conf.get("CLASSIC_ALTBIBS", None)
-        infile_del = conf.get("CLASSIC_DELBIBS", None)
-        infile_all = conf.get("CLASSIC_ALLBIBS", None)
-        records = utils.merge_bibcode_lists(infile_can, infile_alt, infile_del, infile_all)
-        if records:
-            table_def = alt_identifiers
-            write_to_database(table_def, records)
-        else:
-            raise LoadClassicDataException("No data from canonical/alt/deleted bibcode maps")
-
-
 def main():
     try:
         args = get_arguments()
 
-        if args.do_load_classic:
-            try:
-                load_classic_data()
-            except Exception as err:
-                logger.error("Failed to load classic data: %s" % err)
-
-        elif args.do_completeness:
+        if args.do_completeness:
             tasks.task_do_all_completeness()
         elif args.do_json_export:
             tasks.task_export_completeness_to_json()

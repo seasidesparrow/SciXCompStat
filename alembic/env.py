@@ -22,7 +22,7 @@ fileConfig(config.config_file_name)
 # target_metadata = mymodel.Base.metadata
 # target_metadata = None
 
-opath = os.path.abspath(os.path.join(os.path.dirname(__file__), "FML.."))
+opath = os.path.abspath(os.path.join(os.path.dirname(__file__), "../"))
 app_conf = load_config(proj_home=opath)
 
 if opath not in sys.path:

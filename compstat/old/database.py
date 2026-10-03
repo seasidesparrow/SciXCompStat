@@ -1,22 +1,24 @@
 import os
 
-from adsputils import load_config, setup_logging
+from SciXPipelineUtils.utils import load_config
 from sqlalchemy import func
 
-from adscompstat.models import CompStatAltIdents as alt_identifiers
-from adscompstat.models import CompStatIdentDoi as identifier_doi
-from adscompstat.models import CompStatIssnBibstem as issn_bibstem
-from adscompstat.models import CompStatMaster as master
-from adscompstat.models import CompStatSummary as summary
+from compstat.models import CompStatAltIdents as alt_identifiers
+from compstat.models import CompStatIdentDoi as identifier_doi
+from compstat.models import CompStatIssnBibstem as issn_bibstem
+from compstat.models import CompStatMaster as master
+from compstat.models import CompStatSummary as summary
 
 proj_home = os.path.realpath(os.path.join(os.path.dirname(__file__), "../"))
 config = load_config(proj_home=proj_home)
+"""
 logger = setup_logging(
     __name__,
     proj_home=proj_home,
     level=config.get("LOGGING_LEVEL", "INFO"),
     attach_stdout=config.get("LOG_STDOUT", False),
 )
+"""
 
 
 class DBClearClassicException(Exception):

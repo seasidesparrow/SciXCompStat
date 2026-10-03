@@ -1,7 +1,6 @@
 from datetime import datetime
 from dateutil import tz
 
-from SciXPipelineUtils.scix_uuid import scix_uuid as uuid
 from sqlalchemy import Column, Float, Integer, String, Text, JSON, Boolean, Index
 from sqlalchemy.ext.declarative import declarative_base
 
@@ -9,32 +8,6 @@ Base = declarative_base()
 
 def get_date():
     return datetime.utcnow().replace(tzinfo=tz.tzutc())
-
-class CompStatXMLData(Base):
-    __tablename__ = "xmldata"
-
-    dataid = Column(Integer, primary_key=True, unique=True)
-    record = Column(Text, nullable=True)
-    doi = Column(String, index=True, nullable=False)
-    indexed = Column(Boolean, nullable=False)
-    created = Column(UTCDateTime, index=True, default=get_date)
-    updated = Column(UTCDateTime, index=True, default=get_date)
-
-    def __repr__(self):
-        return "xmldata.dataid='{self.dataid}', xmldata.doi='{self.doi}', xmldata.indexed='{self.indexed}'".format(
-            self=self
-        )
-
-    def toJSON(self):
-        return {
-            "dataid": self.dataid,
-            "record": self.record,
-            "doi": self.doi,
-            "indexed": self.indexed,
-            "created": self.created,
-            "updated": self.updated
-        }
-
 
 
 class CompStatMaster(Base):
@@ -79,20 +52,6 @@ class CompStatMaster(Base):
             "updated": self.updated
         }
 
-"""
-    # THIS WILL DEPEND ON YOUR SELECT STATEMENT, SET UP LATER
-    def toRow(rowdat):
-        if len(rowdat) == 6:
-            return {"inst_iso_country": rowdat[0],
-                    "inst_country": rowdat[1],
-                    "inst_parents": rowdat[2],
-                    "inst_id": rowdat[3],
-                    "inst_abbreviation": rowdat[4],
-                    "inst_canonical": rowdat[5]}
-        else:
-            return {}
-"""
-
 
 class CompStatSummary(Base):
     __tablename__ = "summary"
@@ -109,7 +68,9 @@ class CompStatSummary(Base):
     updated = Column(UTCDateTime, onupdate=get_date)
 
     def __repr__(self):
-        return "summary.summaryid='{self.summaryid}', summary.complete_fraction='{self.summary.complete_fraction}'"
+        return "summary.summaryid='{self.summaryid}', summary.complete_fraction='{self.complete_fraction}'".format(
+            self=self
+        )
 
     def toJSON(self):
         return {
@@ -125,3 +86,33 @@ class CompStatSummary(Base):
             "updated": self.updated,
         }
 
+class CompStatSetIDs(Base):
+    __tablename__ = "setidents"
+
+    setidentid = Column(Integer, primary_key=True, unique=True)
+    bibstem = Column(String, nullable=True)
+    issn = Column(String, nullable=True)
+    journal = Column(String, nullable=True)
+    crossrefid = Column(String, nullable=False)
+    created = Column(UTCDateTime, default=get_date)
+    updated = Column(UTCDateTime, onupdate=get_date)
+
+    def __repr__(self):
+        return "setidents.setidentid='{self.setidentid}', setidents.bibstem='{self.bibstem}', setidents.crossrefid='{self.crossrefid}'".format(
+            self=self
+        )
+
+
+class CompStatHarvesterLog(Base):
+    __tablename__ = "harvestlog"
+
+    harvestid = Column(Integer, primary_key=True, unique=True)
+    crossrefid = Column(String, nullable=False)
+    recordcount = Column(Integer, nullable=False)
+    lastharvest = Column(UTCDateTime, default="2026-01-01 00:00:00")
+    currentharvest = Column(UTCDateTime, default=get_date)
+
+    def __repr__(self):
+        return "harvestlog.harvestid='{self.harvestid}', harvestlog.crossrefid='{self.crossrefid}', harvestlog.currentharvest='{self.currentharvest}'".format(
+            self=self
+        )

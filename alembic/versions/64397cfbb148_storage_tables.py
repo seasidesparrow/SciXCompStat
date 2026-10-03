@@ -24,29 +24,16 @@ def get_now():
 def upgrade():
     # storage for Crossref Set IDs for harvesting
     op.create_table(
-        "cr_sets",
-        sa.Column("uniqid", sa.Integer(), autoincrement=True, nullable=False),
-        sa.Column("bibstem", sa.String(), nullable=False),
-        sa.Column("setid", sa.String(), nullable=False),
-        sa.Column("collection", sa.String(), nullable=True),
+        "setidents",
+        sa.Column("setidentid", sa.Integer(), autoincrement=True, nullable=False),
+        sa.Column("bibstem", sa.String(), nullable=True),
+        sa.Column("issn", sa.JSON(), nullable=True),
+        sa.Column("journal", sa.String(), nullable=True),
+        sa.Column("crossrefid", sa.String(), nullable=False),
         sa.Column("created", sa.DateTime(), nullable=False, default=get_now()),
         sa.Column("updated", sa.DateTime(), nullable=False, onupdate=get_now()),
         sa.PrimaryKeyConstraint("uniqid"),
         sa.UniqueConstraint("uniqid"),
-    )
-
-    # storage for Crossref XML data
-    op.create_table(
-        "xmldata",
-        sa.Column("dataid", sa.Integer(), autoincrement=True, nullable=False),
-        sa.Column("record", sa.Text(), nullable=True),
-        sa.Column("doi", sa.String(), index=True, nullable=False),
-        sa.Column("indexed", sa.Boolean(), nullable=False),
-        sa.Column("created", sa.DateTime(), nullable=False, default=get_now()),
-        sa.Column("updated", sa.DateTime(), nullable=False, onupdate=get_now()),
-        sa.PrimaryKeyConstraint("dataid"),
-        sa.UniqueConstraint("doi"),
-        sa.UniqueConstraint("dataid"),
     )
 
     # master record for each doi
@@ -88,14 +75,26 @@ def upgrade():
         sa.UniqueConstraint("summaryid"),
     )
 
+    # harvest log, one row per setid per harvest
+    op.create_table(
+        "harvestlog",
+        sa.Column("harvestid", sa.Integer(), autoincrement=True, nullable=False),
+        sa.Column("crossrefid", sa.String(), nullable=False),
+        sa.Column("recordcount", sa.Integer(), nullable=False),
+        sa.Column("lastharvest", sa.DateTime(), nullable=False, default="2026-01-01Z00:00:00"),
+        sa.Column("currentharvest", sa.DateTime(), nullable=False, onupdate=get_now()),
+        sa.PrimaryKeyConstraing("harvestid"),
+        sa.UniqueConstraint("harvestid"),
+    )
+
     # ### end Alembic upgrade commands ###
 
 
 def downgrade():
 
+    op.drop_table("harvestlog")
     op.drop_table("summary")
     op.drop_table("master")
-    op.drop_table("xmldata")
-    op.drop_table("cr_sets")
+    op.drop_table("setidents")
 
     # ### end Alembic downgrade commands ###

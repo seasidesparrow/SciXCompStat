@@ -91,7 +91,7 @@ class CompStatSetIDs(Base):
 
     setidentid = Column(Integer, primary_key=True, unique=True)
     bibstem = Column(String, nullable=True)
-    issn = Column(String, nullable=True)
+    issn = Column(JSON, nullable=True)
     journal = Column(String, nullable=True)
     crossrefid = Column(String, nullable=False)
     created = Column(UTCDateTime, default=get_date)

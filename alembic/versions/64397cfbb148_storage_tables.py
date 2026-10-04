@@ -32,8 +32,8 @@ def upgrade():
         sa.Column("crossrefid", sa.String(), nullable=False),
         sa.Column("created", sa.DateTime(), nullable=False, default=get_now()),
         sa.Column("updated", sa.DateTime(), nullable=False, onupdate=get_now()),
-        sa.PrimaryKeyConstraint("uniqid"),
-        sa.UniqueConstraint("uniqid"),
+        sa.PrimaryKeyConstraint("setidentid"),
+        sa.UniqueConstraint("setidentid"),
     )
 
     # master record for each doi
@@ -49,7 +49,7 @@ def upgrade():
         sa.Column("scix_id", sa.String(), nullable=True),
         sa.Column("is_valid", sa.Boolean(), default=False, nullable=False),
         sa.Column("doi_found", sa.Boolean(), default=False, nullable=False),
-        sa.Column("meta_found", sa.Boolean(), default=False, nullable=False)
+        sa.Column("meta_found", sa.Boolean(), default=False, nullable=False),
         sa.Column("notes", sa.String(), nullable=True),
         sa.Column("created", sa.DateTime(), nullable=True, default=get_now()),
         sa.Column("updated", sa.DateTime(), nullable=True, onupdate=get_now()),
@@ -83,7 +83,7 @@ def upgrade():
         sa.Column("recordcount", sa.Integer(), nullable=False),
         sa.Column("lastharvest", sa.DateTime(), nullable=False, default="2026-01-01Z00:00:00"),
         sa.Column("currentharvest", sa.DateTime(), nullable=False, onupdate=get_now()),
-        sa.PrimaryKeyConstraing("harvestid"),
+        sa.PrimaryKeyConstraint("harvestid"),
         sa.UniqueConstraint("harvestid"),
     )
 

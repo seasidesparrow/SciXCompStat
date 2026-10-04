@@ -1,7 +1,7 @@
 from datetime import datetime
 from dateutil import tz
 
-from sqlalchemy import Column, Float, Integer, String, Text, JSON, Boolean, Index
+from sqlalchemy import Column, Float, Integer, String, Text, JSON, Boolean, Index, DateTime
 from sqlalchemy.ext.declarative import declarative_base
 
 Base = declarative_base()
@@ -14,20 +14,18 @@ class CompStatMaster(Base):
     __tablename__ = "master"
 
     masterid = Column(Integer, primary_key=True, unique=True)
-    dataid = Column(Integer, ForeignKey('xmldata.dataid'),
-                    primary_key=True, nullable=False)
     doi = Column(String, unique=True, index=True, nullable=False)
     journalid = Column(JSON, nullable=True)
     origin = Column(String, nullable=False)
-    metadata = Column(JSON, nullable=False)
+    crmetadata = Column(JSON, nullable=False)
     bibcode = Column(Text, index=True, nullable=True)
     scix_id = Column(Text, index=True, nullable=True)
     is_valid = Column(Boolean, index=True, nullable=False)
     doi_found = Column(Boolean, index=True, nullable=False)
     meta_found = Column(Boolean, index=True, nullable=False)
     notes = Column(String, nullable=True)
-    created = Column(UTCDateTime, index=True, default=get_date())
-    updated = Column(UTCDateTime, index=True, onupdate=get_date())
+    created = Column(DateTime(timezone=True), index=True, default=get_date())
+    updated = Column(DateTime(timezone=True), index=True, onupdate=get_date())
 
     def __repr__(self):
         return "master.masterid='{self.masterid}', master.scix_id='{self.scix_id}', master.doi='{self.doi}'".format(
@@ -37,11 +35,10 @@ class CompStatMaster(Base):
     def toJSON(self):
         return {
             "masterid": self.masterid,
-            "dataid": self.dataid,
             "doi": self.doi,
             "journalid": self.journalid,
             "origin": self.origin,
-            "metadata": self.metadata,
+            "crmetadata": self.crmetadata,
             "bibcode": self.bibcode,
             "scix_id": self.scix_id,
             "is_valid": self.is_valid,
@@ -64,8 +61,8 @@ class CompStatSummary(Base):
     complete_fraction = Column(Float, nullable=True)
     complete_by_year = Column(Text, nullable=True)
     complete_details = Column(Text, nullable=True)
-    created = Column(UTCDateTime, default=get_date)
-    updated = Column(UTCDateTime, onupdate=get_date)
+    created = Column(DateTime(timezone=True), default=get_date)
+    updated = Column(DateTime(timezone=True), onupdate=get_date)
 
     def __repr__(self):
         return "summary.summaryid='{self.summaryid}', summary.complete_fraction='{self.complete_fraction}'".format(
@@ -94,8 +91,8 @@ class CompStatSetIDs(Base):
     issn = Column(JSON, nullable=True)
     journal = Column(String, nullable=True)
     crossrefid = Column(String, nullable=False)
-    created = Column(UTCDateTime, default=get_date)
-    updated = Column(UTCDateTime, onupdate=get_date)
+    created = Column(DateTime(timezone=True), default=get_date)
+    updated = Column(DateTime(timezone=True), onupdate=get_date)
 
     def __repr__(self):
         return "setidents.setidentid='{self.setidentid}', setidents.bibstem='{self.bibstem}', setidents.crossrefid='{self.crossrefid}'".format(
@@ -109,10 +106,11 @@ class CompStatHarvesterLog(Base):
     harvestid = Column(Integer, primary_key=True, unique=True)
     crossrefid = Column(String, nullable=False)
     recordcount = Column(Integer, nullable=False)
-    lastharvest = Column(UTCDateTime, default="2026-01-01 00:00:00")
-    currentharvest = Column(UTCDateTime, default=get_date)
+    lastharvest = Column(DateTime(timezone=True), default="2026-01-01 00:00:00")
+    currentharvest = Column(DateTime(timezone=True), default=get_date)
 
     def __repr__(self):
         return "harvestlog.harvestid='{self.harvestid}', harvestlog.crossrefid='{self.crossrefid}', harvestlog.currentharvest='{self.currentharvest}'".format(
             self=self
         )
+

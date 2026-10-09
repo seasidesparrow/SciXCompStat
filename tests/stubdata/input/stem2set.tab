@@ -1,0 +1,5726 @@
+######
+###### Updated 2022-10-04 to use the lists of Ast/Helio/PS Core + Ast In.Ring
+######
+### Astronomy, Refereed, Core
+ApJ..	4876	db=AST
+ApJL.	217347	db=AST
+ApJS.	4879	db=AST
+AJ...	4873	db=AST
+A&A..	15856	db=AST
+A&AS.	17196	db=AST
+MNRAS	3513	db=AST
+MNRASL	39718	db=AST
+ARA&A	5719	db=AST
+PASP.	4875	db=AST
+PhRvD	5199	db=AST
+PhRvL	5204	db=AST
+#
+### Astronomy, Refereed, Inner ring
+PhRvB	5200
+JHEP.	4949
+PhRvA	5203
+JCAP.	12957
+PhLB.	1277
+PhRvE	5202
+ApPhL	4132
+JChPh	4130
+PhRvC	5201
+EPJC.	1035
+CQGra	4916
+JAP..	4133
+PhPl.	4136
+Natur	3415
+#Icar.	579	# PS, Core
+PASJ.	236994
+#Ap&SS	2897	# PS, Core
+OExpr	25517
+NatSR	134905
+NuPhB	1243
+NJPh.	4925
+#SoPh.	2893	# Helio, core
+JPCM.	4915
+Sci..	5530
+EL...	21977
+PCCP.	3453
+NatCo	97145
+AN...	337
+NuPhA	1239
+#JGRA.	212449	# PS, Core
+JPhA.	4921
+IJMPA	2442
+NanoL	2507
+IJMPD	2444
+MPLA.	2457
+RAA..	81600
+OptL.	25537
+#AdSpR	1559	# PS, Core
+PhLA.	1275
+JPhB.	4922
+JPhG.	4928
+PNAS.	4172
+NIMPA	1430
+#SSRv.	2892	# PS, Core
+JPCA.	2491
+JPSJ.	5672
+NewA.	1456
+PhyA.	1261
+SMat.	42619
+GeoRL	3296
+JFM..	6090
+GReGr	2733
+APh..	2050
+RScI.	4137
+ARep.	5565
+EPJA.	889
+CPL..	1221
+AstL.	5564
+PASA.	5959
+JMMM.	1366
+ChPhB	71840
+PhFl.	4131
+PhyB.	1264
+NewAR	1457
+ChPhL	4924
+Nanot	4909
+#P&SS	1745	# PS, Core
+JPhD.	4910
+IJTP.	3005
+EPJB.	803
+MaMol	2496
+NatPh	51300
+PPCF.	4920
+PhRvR	373164
+AnPhy	675
+JSMTE	24377
+SurSc	1314
+OptCo	1256
+NatAs	304179
+Univ.	264218
+ApSS.	1204
+JOSAB	26320
+EPJD.	1037
+RSPTA	25318
+EPJP.	119885
+CoPhC	1641
+RSCAd	138446
+NucFu	4937
+JaJAP	5668
+PhyE.	1274
+PhyS.	16681
+PhR..	1445
+PhRvP	239288
+ApOpt	25638
+JMP..	4134
+JETPL	53943
+CoTPh	72582
+BpJ..	28238
+ChPhC	81599
+PSSBR	159
+PhyC.	1266
+JCoPh	512
+SSCom	1472
+PhRvX	140965
+Galax	191805
+AcMat	1186
+AIPA.	124685
+JQSRT	1413
+Chaos	4138
+NIMPB	1232
+JApA.	64253
+#SCPMA
+#M&PS	92105	# PS, Core
+PAN..	5557
+SciA.	267393
+#AcA..
+NatMa	9296
+JLTP.	3112
+PhRvM	307959
+#JGRE.	212447	# PS, Core
+IBVS.	304065
+PTEP.	184125
+#GeCoA	1728	# PS, Core
+IJMPE	2448
+JETP.	5561
+JInst	55110
+PDU..	184096
+IJMPB	2443
+RMxAA	358032
+MolPh	4250
+JKAS.	108865
+Entrp	73420
+#ApPhA	854	# rev 2025-11-05, mt
+ApPhA	24479	# rev 2025-11-05, mt
+CP...	1595
+Prama	63188
+#BaltA
+#AsBio	5017	# PS, Core
+FrASS	249495
+NaPho	58827
+AstBu	63129
+Ap...	2832
+AngCh	143
+ExA..	2917
+ApPhB	1019
+RPPh.	4907
+#E&PSL	1652	# PS, Core
+RvMP.	5206
+#CeMDA	2928	# PS, Core
+EPJST	60878
+JMOp.	4300
+QuIP.	14298
+PhRvS	5205
+JNCS.	1381
+JMoSp	626
+PhRvF	299667
+NatNa	58809
+FBS..	1024
+A&C..	193049
+JSP..	2624
+PhST.	16681
+CaJPh	5602
+MPLB.	2458
+PrPNP	2006
+JOpt.	4945
+#BAAA.
+PhyD.	1273
+TSF..	1480
+AnP..	14
+JCrGr	1367
+APExp	69675
+SuScT	4906
+PMag.	17931
+JKPS.	86006
+#AnGeo	785	# PS, Core
+JPlPh	6033
+JCIS.	546
+PThPh	40478
+ChA&A	2325
+Optic	251274
+Mate.	78388
+#A&ARv	1005
+A&ARv	22137
+#JAVSO
+MRE..	223470
+#PSJ..	380096	# PS, Core
+NPPP.	275246
+Optik	50402
+RSPSA	25317
+CMaPh	897
+JGR..	3293
+JMPSo	1417
+PLSCB	48940
+JMatS	3028
+#AcASn
+JOSAA	26177
+PSSAR	135
+JNuM.	1128
+CoAst	66878
+#CSF..
+#BASI.
+#
+### Heliophysics, Refereed, Core
+SoPh.	2893	# Ast, inner ring
+SpWea	18236
+#
+### Planetary Science, Refereed, Core
+AREPS	5696
+ASTRA	99674
+AdSpR	1559	# Ast, inner ring
+AnGeo	785	# Ast, inner ring
+Ap&SS	2897	# Ast, inner ring
+AsBio	5017	# Ast, inner ring
+CeMDA	2928	# Ast, inner ring
+E&PSL	1652	# Ast, inner ring
+EM&P.	3203
+GeCoA	1728	# Ast, inner ring
+IJAsB	6136
+Icar.	579	# Ast, inner ring
+JAtS.	5832
+JGRA.	212449	# Ast, inner ring
+JGRD.	217345
+JGRE.	212447	# Ast, inner ring
+M&PS.	92105	# Ast, inner ring
+Metic	177046
+NatGe	68277
+P&SS.	1745	# Ast, inner ring
+PEPI.	1282
+RvGeo	10636
+SSRv.	2892	# Ast, inner ring
+SoSyR	2664
+PSJ..	380096	# Ast, inner ring
+Moon.	34258
+M&P..	36940
+
+### Earth Science, etc
+# Added 2023-08-01
+GGG..	6172	#GeoRef Priority,ADS Core
+CaJES	5610	#GeoRef Priority
+AmJS.	57030	#GeoRef Priority
+JMoSt	1397	#ADS Core
+Earth	392002	#GeoRef Priority
+ESC..	305016	#ADS Core
+Geop.	5981	#GeoRef Priority
+HyPr.	7	#GeoRef Priority
+QJEGH	67378	#GeoRef Priority
+JHyd.	1375	#GeoRef Priority
+SSASJ	46658	#GeoRef Priority
+PEPS.	244530	#ADS Core
+ScTEn	1496	#ADS Core
+Geode	1149	#GeoRef Priority
+JMetG	3584	#GeoRef Priority
+RNAAS	310457	#ADS Core
+IJCG.	2036	#GeoRef Priority
+ARNPS	5710	#ADS Core
+CoMP.	1025	#GeoRef Priority
+FoPh.	3079	#ADS Core
+FlDyR	1144	#ADS Core
+Clim.	192645	#ADS Core
+PPP..	1438	#GeoRef Priority
+FrCh.	204685	#ADS Core
+Atmos	325237	#ADS Core
+IJMPC	2445	#ADS Core
+CG...	2063	#GeoRef Priority
+Eleme	70663	#GeoRef Priority
+EnG..	3620	#GeoRef Priority
+Parti	310858	#ADS Core
+RemS.	82418	#ADS Core
+FoPhL	3059	#ADS Core
+JSG..	1387	#GeoRef Priority
+EOSTr	3301	#GeoRef Priority
+JVGR.	1388	#GeoRef Priority
+ARMS.	77439	#ADS Core
+JASTP	1570	#ADS Core
+Tectp	1322	#GeoRef Priority,ADS Core
+PApGe	1003	#GeoRef Priority,ADS Core
+E&SS.	262290	#ADS Core
+BVol.	797	#GeoRef Priority
+CaMin	66794	#GeoRef Priority
+MinM.	5840	#GeoRef Priority
+PalOc	3295	#GeoRef Priority
+ClMin	5841	#GeoRef Priority
+Tecto	3299	#GeoRef Priority,ADS Core
+FrEaS	231526	#ADS Core
+GMD..	99696	#ADS Core
+Geomo	2014	#GeoRef Priority
+GSAB.	5548	#GeoRef Priority
+Palgy	21251	#GeoRef Priority
+GPC..	1337	#GeoRef Priority
+OptEn	4143	#ADS Core
+CCM..	12586	#GeoRef Priority
+PPN..	5569	#ADS Core
+JGeEd	123965	#GeoRef Priority
+Pbio.	48518	#GeoRef Priority
+JG...	4899	#GeoRef Priority
+SeiRL	70822	#GeoRef Priority
+JGRF.	201505	#GeoRef Priority,ADS Core
+JGRG.	201506	#GeoRef Priority,ADS Core
+Palai	46058	#GeoRef Priority
+MGeol	1817	#GeoRef Priority
+JCHyd	1180	#GeoRef Priority
+LeaEd	5980	#GeoRef Priority
+GEEA.	42938	#GeoRef Priority
+EEGeo	42820	#GeoRef Priority
+GeoM.	6049	#GeoRef Priority
+Litho	1918	#GeoRef Priority
+ApGC.	1525	#GeoRef Priority
+QuRes	577	#GeoRef Priority
+NatEn	297178	#ADS Core
+JSWSC	141805	#ADS Core
+PalAB	297758	#GeoRef Priority
+EnST.	2497	#ADS Core
+WRR..	3294	#GeoRef Priority
+JBO..	4144	#ADS Core
+JPetG	11357	#GeoRef Priority
+JEI..	4145	#ADS Core
+AnRMS	5701	#ADS Core
+VZJ..	47058	#GeoRef Priority
+ScPP.	302208	#ADS Core
+BCaPG	42821	#GeoRef Priority
+BuSSA	42947	#GeoRef Priority
+SAJG.	42958	#GeoRef Priority
+LRR..	209486	#ADS Core
+NatSy	460576	#ADS Core
+JAG..	1172	#ADS Core
+Borea	4240	#GeoRef Priority
+IJRMM	179445	#GeoRef Priority
+QJRMS	9893	#ADS Core
+OrGeo	1700	#GeoRef Priority
+GrWat	46798	#GeoRef Priority
+Senso	73108	#ADS Core
+ESPL.	119	#GeoRef Priority
+JCExp	2135	#GeoRef Priority
+GBioC	3300	#GeoRef Priority
+GeoRu	863	#GeoRef Priority
+RvMG.	42941	#GeoRef Priority
+ESRv.	1870	#GeoRef Priority,ADS Core
+NatRP	326045	#ADS Core
+ChGeo	1593	#GeoRef Priority,ADS Core
+ACP..	99675	#ADS Core
+HESS.	99689	#GeoRef Priority
+JForR	42939	#GeoRef Priority
+RMGeo	42943	#GeoRef Priority
+FrP..	218689	#ADS Core
+BAAPG	11316	#GeoRef Priority
+IGRv.	71721	#GeoRef Priority
+BGeo.	99668	#ADS Core
+Geosp	50961	#GeoRef Priority
+JSedR	44378	#GeoRef Priority
+GSASP	249748	#GeoRef Priority
+MatGs	89046	#GeoRef Priority
+FrMat	239283	#ADS Core
+PCM..	1080	#GeoRef Priority
+Geo..	5546	#GeoRef Priority
+JQS..	265	#GeoRef Priority
+MinDe	1004	#GeoRef Priority
+Lsphe	82565	#GeoRef Priority
+AmMin	42818	#GeoRef Priority,ADS Core
+NatCC	112085	#ADS Core
+ARCMP	105065	#ADS Core
+Sedim	3551	#GeoRef Priority
+Paly.	42940	#GeoRef Priority
+JGRB.	212446	#GeoRef Priority,ADS Core
+USGSP	71961	#GeoRef Priority
+AGUA.	376018	#ADS Core
+ESSD.	99691	#ADS Core
+ExMG.	42819	#GeoRef Priority
+EnGeo	977	#GeoRef Priority,ADS Core
+SpPol	1913	#ADS Core
+JPal.	49318	#GeoRef Priority
+JVPal	57436	#GeoRef Priority
+PGeo.	78679	#GeoRef Priority
+CliPa	99690	#GeoRef Priority
+EcGeo	42822	#GeoRef Priority
+JGeod	949	#ADS Core
+EJMin	377892	#GeoRef Priority
+NatCh	74602	#ADS Core
+AtmEn	1537	#ADS Core
+AtmRe	1538	#ADS Core
+JEEG.	59784	#GeoRef Priority
+EP&S.	95046	#ADS Core
+GeoJI	3489	#GeoRef Priority,ADS Core
+EFM..	3196	#ADS Core
+ARPC.	5717	#ADS Core
+SurSR	1882	#ADS Core
+AMT..	99687	#ADS Core
+EngGe	2003	#GeoRef Priority
+JGRC.	212448	#GeoRef Priority,ADS Core
+SedG.	1307	#GeoRef Priority
+Gbio.	20396	#GeoRef Priority
+PreR.	1791	#GeoRef Priority
+GSLSP	65091	#GeoRef Priority
+JPet.	5042	#GeoRef Priority
+SCPMA	57911	#ADS Core
+# New GEO added 2023 Dec 07 - EH
+Ecogr	3386	db=GEO	# Ecography
+IJHyE	170345	db=GEO	# ISH Journal of Hydraulic Engineering
+RWWS.	266247	db=GEO	# Renewables: Wind, Water, and Solar
+GeoOD	54869	db=GEOPHY	# Geology of Ore Deposits
+PELaw	74762	db=GEO	# Planning & Environmental Law
+CGeog	18216	db=GEO	# Canadian Geographies
+BeiNF	147365	db=GEO	# Beitrage zur Neotropischen Fauna
+SuEnR	299456	db=GEO	# Sustainable Environment Research
+NGIB.	259853	db=GEO	# Natural Gas Industry B
+Biolg	57787	db=GEO	# Biologia
+Bauph	27539	db=GEO	# Bauphysik
+OPalJ	73663	db=GEOPHY	# The Open Paleontology Journal
+PlPer	4539	db=GEO	# Planning Perspectives
+HRuAS	54868	db=GEO	# Herald of the Russian Academy of Sciences
+ChEco	17278	db=GEO	# Chemistry and Ecology
+CpkSc	55401	db=GEO	# Chesapeake Science
+IS&T.	4798	db=GEO	# Instrumentation Science & Technology
+JGSI.	85065	db=GEO	# Journal of the Geological Society of India
+KewBu	70180	db=GEO	# Kew Bulletin
+BED..	311322	db=GEO	# Big Earth Data
+JSoSe	48738	db=GEO	# Journal of Soils and Sediments
+AnCon	6065	db=GEO	# Animal Conservation
+IJFS.	20605	db=GEO	# International Journal of Fruit Science
+EvBio	66326	db=GEO	# Evolutionary Biology
+PChAn	236	db=GEO	# Phytochemical Analysis
+OrgAg	117145	db=GEO	# Organic Agriculture
+Ethol	3670	db=GEO	# Ethology
+IRGEE	58858	db=GEO	# International Research in Geographical and Environmental Education
+JTurb	4933	db=GEO	# Journal of Turbulence
+MetZe	5531	db=GEOPHY	# Meteorologische Zeitschrift
+FAqS.	298731	db=GEO	# Fisheries and Aquatic Sciences
+BioST	4204	db=GEO	# Biocontrol Science and Technology
+CGeo.	316537	db=GEO	# China Geology
+Xdaaa	421254	db=GEO	# CGeo. set 2, China Geology
+JCotR	316448	db=GEO	# Journal of Cotton Research
+InWat	242166	db=GEO	# Inland Waters
+WatIn	74782	db=GEO	# Water International
+SILC.	311340	db=GEO	# SIL Communications, 1953-1996
+FrBio	3675	db=GEO	# Freshwater Biology
+JWAS.	56249	db=GEO	# Journal of the World Aquaculture Society
+HERA.	25578	db=GEO	# Human and Ecological Risk Assessment: An International Journal
+MMamS	53969	db=GEO	# Marine Mammal Science
+JSynR	5241	db=GEO	# Journal of Synchrotron Radiation
+JFDis	3554	db=GEO	# Journal of Fish Diseases
+WIRCC	92906	db=GEO	# WIREs Climate Change
+JEPP.	17925	db=GEO	# Journal of Environmental Policy & Planning
+AcOSn	96286	db=GEO	# Acta Oceanologica Sinica
+ChJOL	60884	db=GEO	# Chinese Journal of Oceanology and Limnology
+Xeaaa	313898	db=GEO	# ChJOL set 2, Journal of Oceanology and Limnology
+APcgy	379167	db=GEO	# Applied Phycology
+BuESA	65660	db=GEO	# The Bulletin of the Ecological Society of America
+OGDSS	298392	db=GEO	# Open Geospatial Data, Software and Standards
+TxEC.	21337	db=GEO	# Toxicological & Environmental Chemistry
+EarSp	5867	db=GEO	# Earthquake Spectra
+PsyEc	151625	db=GEO	# PsyEcology
+WCSE.	299668	db=GEO	# Water Conservation Science and Engineering
+AfJH.	107305	db=GEO	# African Journal of Herpetology
+TxECR	147247	db=GEO	# Toxicological & Environmental Chemistry Reviews
+IJSTT	299282	db=GEO	# Iranian Journal of Science and Technology, Transactions of Civil Engineering
+JGPS.	94906	db=GEO	# The Journal of Global Positioning Systems
+SEPR.	325487	db=GEO	# Socio-Ecological Practice Research
+JJAEE	133029	db=GEOPHY	# Journal of Japan Association for Earthquake Engineering
+AtO..	64431	db=GEO	# Atmosphere-Ocean
+PYGS.	92125	db=GEO	# Proceedings of the Yorkshire Geological Society
+MCLCL	296458	db=GEO	# Molecular Crystals and Liquid Crystals Letters
+Ecotx	3099	db=GEO	# Ecotoxicology
+AqEco	2533	db=GEO	# Aquatic Ecology
+MCLCI	141245	db=GEO	# Molecular Crystals and Liquid Crystals Incorporating Nonlinear Optics
+MASGC	2706	db=GEO	# Mitigation and Adaptation Strategies for Global Change
+MCLCA	138007	db=GEO	# Molecular Crystals and Liquid Crystals Science and Technology. Section A. Molecular Crystals and Liquid Crystals
+SNFE.	12581	db=GEO	# Studies on Neotropical Fauna and Environment
+JSCSE	135758	db=GEOPHY	# Journal of Japan Society of Civil Engineers, Ser. A1 (Structural Engineering &amp; Earthquake Engineering (SE/EE))
+MCLC.	17837	db=GEO	# Molecular Crystals and Liquid Crystals
+EneSB	63632	db=GEO	# Energy Sources, Part B: Economics, Planning, and Policy
+EneSA	4314	db=GEO	# Energy Sources, Part A: Recovery, Utilization, and Environmental Effects
+CForR	266424	db=GEO	# Current Forestry Reports
+GHeal	305771	db=GEO	# GeoHealth
+GSysE	171445	db=GEO	# Geosystem Engineering
+arkto	296368	db=GEO	# arktos
+JPalA	310204	db=GEO	# Journal of Paleolithic Archaeology
+JFEco	122286	db=GEO	# Journal of Freshwater Ecology
+JMicP	104145	db=GEO	# Journal of Micropalaeontology
+NatSu	311970	db=GEO	# Nature Sustainability
+Checo	1073	db=GEO	# Chemoecology
+DivDi	3745	db=GEO	# Diversity and Distributions
+Ambio	60992	db=GEO	# Ambio
+PIMEA	62146	db=GEO	# Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy
+PIMEM	53924	db=GEO	# Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment
+AEart	422605	db=GEO	# All Earth
+CPCF.	470479	db=GEO	# Cambridge Prisms Coastal Futures
+SSCIJ	63728	db=GEO	# Soil and Sediment Contamination: An International Journal
+AgEnL	299627	db=GEO	# Agricultural & Environmental Letters
+MatCo	177	db=GEO	# Materials and Corrosion
+CaJAE	49499	db=GEO	# Canadian Journal of Agricultural Economics/Revue canadienne d'agroeconomie
+LitMR	2604	db=GEO	# Lithology and Mineral Resources
+OREJ.	79981	db=GEOPHY	# The Open Renewable Energy Journal
+RSESS	316024	db=GEO	# Remote Sensing in Earth Systems Sciences
+CREST	25577	db=GEO	# Critical Reviews in Environmental Science and Technology
+Prom.	4228	db=GEO	# Prometheus
+JAASc	420326	db=GEO	# Journal of Anthropological and Archaeological Sciences
+StBio	457498	db=GEO	# Stress Biology
+AEEC.	65282	db=GEO	# Applied Environmental Education & Communication
+JAFPT	16990	db=GEO	# Journal of Aquatic Food Product Technology
+JLFNV	9918	db=GEO	# Journal of Low Frequency Noise Vibration and Active Control
+GeotR	234066	db=GEO	# Geotechnical Research
+SIEng	65514	db=GEO	# Structure and Infrastructure Engineering
+SPEE.	9979	db=GEO	# Strategic Planning for Energy and the Environment
+FrFGC	316725	db=GEO	# Frontiers in Forests and Global Change
+FirBr	3777	db=GEO	# First Break
+JNRPR	85389	db=GEO	# Journal of Natural Resources Policy Research
+ICJMS	507	db=GEO	# ICES Journal of Marine Science
+Geote	54141	db=GEOPHY	#	Geotectonics
+PetST	4827	db=GEO	# Petroleum Science and Technology
+JGS..	825	db=GEOPHY	# Journal of Geographical Systems
+EstCo	78378	db=GEO	# Estuaries and Coasts
+JOO..	273266	db=GEO	# Journal of Operational Oceanography
+JGPP.	21800	db=GEO	# Journal of General Plant Pathology
+PetSc	69874	db=GEO	# Petroleum Science
+GSAMm	86407	db=GEO	# Geological Society of America. Memoirs
+SpEA.	58017	db=GEO	# Spatial Economic Analysis
+OilET	40639	db=GEO	# Oil and Energy Trends
+IEHS.	18005	db=GEO	# Isotopes in Environmental and Health Studies
+CRGeo	379757	db=GEO	# Comptes Rendus Geoscience
+Xfaaa	397440	db=GEO	# CRGeo set 2, Comptes Rendus Geoscience
+JCEco	2574	db=GEO	# Journal of Chemical Ecology
+OneEc	300047	db=GEO	# One Ecosystem
+EJFR.	3818	db=GEO	# European Journal of Forest Research
+DWatT	91025	db=GEO	# Desalination and Water Treatment
+JPesS	3520	db=GEO	# Journal of Pest Science	(WILEY)
+JPesS2	24597	db=GEO	# Journal of Pest Science	(Springer)
+Alch.	63593	db=GEO	# Alcheringa: An Australasian Journal of Palaeontology
+MarGe	4351	db=GEO	# Marine Geodesy
+ASWR.	113726	db=GEO	# Air, Soil and Water Research
+MarGR	2898	db=GEOPHY	# Marine Geophysical Researches in Physics
+CEngJ	2463	db=GEO	# Coastal Engineering Journal
+JEES.	5612	db=GEO	# Journal of Environmental Engineering and Science
+IrrDr	389	db=GEO	# Irrigation and Drainage
+JCWRE	77798	db=GEO	# Journal of Contemporary Water Research and Education
+HPR..	63654	db=GEO	# High Pressure Research
+CEngS	145126	db=GEO	# Civil Engineering Systems
+SpRP.	92566	db=GEO	# Raumforschung und Raumordnung | Spatial Research and Planning
+SeisI	68943	db=GEO	# Seismic Instruments
+IJDWR	229867	db=GEO	# IDA Journal of Desalination and Water Reuse
+GeTid	183745	db=GEO	# Geografisk Tidsskrift-Danish Journal of Geography
+EnePR	297506	db=GEO	# Energy and Policy Research
+SeisR	422414	db=GEO	# The Seismic Record
+GGEng	3117	db=GEO	# Geotechnical and Geological Engineering
+IntCo	494484	db=GEO	# Integrative Conservation
+JWetA	235854	db=GEO	# Journal of Wetland Archaeology
+EnvCo	6048	db=GEO	# Environmental Conservation
+NCyAg	3164	db=GEO	# Nutrient Cycling in Agroecosystems
+JAWER	224906	db=GEO	# Journal of Applied Water Engineering and Research
+TeNov	3757	db=GEOPHY	# Terra Nova
+JMSA.	59754	db=GEOPHY	# Journal of Marine Science and Application
+AdESR	395938	db=GEO	# Advanced Energy and Sustainability Research
+InWB.	73880	db=GEO	# Inland Water Biology
+IJSBT	112706	db=GEO	# International Journal of Sustainable Building Technology and Urban Development
+FutCE	290626	db=GEO	# Future Cities and Environment
+Pet..	278746	db=GEO	# Petroleum
+SAfFJ	145445	db=GEO	# Southern African Forestry Journal
+JPlaN	4839	db=GEO	# Journal of Plant Nutrition
+JPlaI	51540	db=GEO	# Journal of Plant Interactions
+EPSE.	81619	db=GEO	# Environmental Progress & Sustainable Energy
+EPolE	4675	db=GEO	# Ethics, Policy & Environment
+EnvTC	69	db=GEO	# Environmental Toxicology and Chemistry
+JENRL	283306	db=GEO	# Journal of Energy & Natural Resources Law
+MeApp	6006	db=GEOPHY	# Meteorological Applications
+EnvCJ	25784	db=GEO	# Environmental Claims Journal
+OMPJ.	76979	db=GEOPHY	# The Open Mineral Processing Journal
+CmpGS	236846	db=GEO	# Comparative Migration Studies
+GeoIn	65330	db=GEO	# Geocarto International
+JTUS.	189727	db=GEO	# Journal of Taibah University for Science
+GCLR.	73503	db=GEO	# Green Chemistry Letters and Reviews
+IJAmE	136365	db=GEO	# International Journal of Ambient Energy
+PetRe	308568	db=GEO	# Petroleum Research
+AuPDN	58907	db=GEO	# Australasian Plant Disease Notes
+AusEc	3663	db=GEO	# Austral Ecology
+RuJMB	3107	db=GEO	# Russian Journal of Marine Biology
+CABio	392406	db=GEO	# CABI Agriculture and Bioscience
+EEngR	466688	db=GEO	# Earthquake Engineering and Resilience
+ICEME	30199	db=GEO	# Proceedings of the Institution of Civil Engineers: Maritime Engineering
+EnSTL	222925	db=GEO	# Environmental Science &amp; Technology Letters
+JBioD	63674	db=GEO	# Journal of Biological Dynamics
+JApIc	3650	db=GEO	# Journal of Applied Ichthyology
+EcoM.	55409	db=GEO	# Ecological Monographs
+CRvEC	146089	db=GEO	# Critical Reviews in Environmental Control
+MolER	83278	db=GEO	# Molecular Ecology Resources
+ArPPP	16260	db=GEO	# Archives of Phytopathology and Plant Protection
+JBiog	3502	db=GEO	# Journal of Biogeography
+MolEc	3691	db=GEO	# Molecular Ecology
+UndSp	301159	db=GEO	# Underground Space
+CSAN.	202046	db=GEO	# CSA News
+FisOc	3487	db=GEO	# Fisheries Oceanography
+ZGm..	63555	db=GEOPHY	# Zeitschrift für Geomorphologie
+JNatH	4288	db=GEO	# Journal of Natural History
+SERRA	819	db=GEO	# Stochastic Environmental Research and Risk Assessment
+EcoMR	3626	db=GEO	# Ecological Management & Restoration
+EneM.	54948	db=GEO	# Energy Materials
+JEcol	3651	db=GEO	# Journal of Ecology
+JEcoh	309613	db=GEO	# Journal of Ecohydraulics
+AMGBB	52699	db=GEOPHY	# Archives for Meteorology Geophysics and Bioclimatology Series B
+InfEE	124127	db=GEO	# Infection Ecology & Epidemiology
+AMGBA	52387	db=GEOPHY	# Archives for Meteorology Geophysics and Bioclimatology Series A
+CirES	419954	db=GEO	# Circular Economy and Sustainability
+OEnRv	76423	db=GEO	# OPEC Energy Review
+GeMij	3264	db=GEO	# Geologie en Mijnbouw
+RLSFN	92970	db=GEO	# Rendiconti Lincei. Scienze Fisiche e Naturali
+JEcot	59748	db=GEO	# Journal of Ecotourism
+IJGE.	267348	db=GEO	# International Journal of Geo-Engineering
+ICEE.	77219	db=GEO	# Proceedings of the Institution of Civil Engineers: Energy
+EnEnv	9920	db=GEO	# Energy and Environment
+AvRes	97185	db=GEO	# Avian Research
+AcGG.	198705	db=GEO	# Acta Geodaetica et Geophysica
+ZK...	21300	db=GEOPHY	# Zeitschrift für Kristallographie
+LOFM.	159346	db=GEO	# Limnology and Oceanography: Fluids and Environments
+BuECT	987	db=GEO	# Bulletin of Environmental Contamination and Toxicology
+EJECE	95346	db=GEO	# European Journal of Environmental and Civil Engineering
+JEELM	75419	db=GEO	# Journal of Environmental Engineering and Landscape Management
+BioOc	402917	db=GEO	# Biological Oceanography
+MBdR.	82825	db=GEO	# Marine Biodiversity Records
+EnvLR	29977	db=GEO	# Environmental Law Review
+CREC.	146846	db=GEO	# C R C Critical Reviews in Environmental Control
+RSEC.	265468	db=GEO	# Remote Sensing in Ecology and Conservation
+CCCR.	266554	db=GEO	# Current Climate Change Reports
+ESEur	73679	db=GEO	# Environmental Sciences Europe
+NRM..	76380	db=GEO	# Natural Resource Modeling
+AcGch	296426	db=GEO	# Acta Geochimica
+IJCar	285055	db=GEO	# International Journal of Cartography
+BirdS	85367	db=GEO	# Bird Study
+CarbN	469187	db=GEO	# Carbon Neutralization
+JEaEn	2451	db=GEO	# Journal of Earthquake Engineering
+JMeSJ	36698	db=GEOPHY	# Journal of the Meteorological Society of Japan Ser II
+ReGeo	63056	db=GEO	# Resource Geology
+ScSoi	45998	db=GEO	# Sciences of Soils
+BMCEE	5910	db=GEO	# BMC Ecology and Evolution
+Ecohy	70758	db=GEO	# Ecohydrology
+SAfGJ	106514	db=GEO	# South African Geographical Journal
+DamRe	74559	db=GEO	# Dams and Reservoirs
+GRAS.	458562	db=GEO	# Global Research in Archaeological Science
+JGSL.	44798	db=GEO	# Journal of the Geological Society
+SuEa.	325097	db=GEO	# Sustainable Earth Reviews
+PaPa.	312028	db=GEOPHY	# Paleoceanography and Paleoclimatology
+Ecosy	1110	db=GEO	# Ecosystems
+PetGe	78679	db=GEO	# Petroleum Geoscience
+JTEH.	258526	db=GEO	# Journal of Toxicology and Environmental Health
+PetGE	279406	db=GEO	# Petroleum Geology & Experiment
+IJGtE	69274	db=GEO	# International Journal of Geotechnical Engineering
+IJER.	156	db=GEO	# International Journal of Energy Research
+JCGI.	328507	db=GEO	# KN - Journal of Cartography and Geographic Information
+FFEJ.	391	db=GEO	# Federal Facilities Environmental Journal
+WaAbf	154885	db=GEO	# Wasser und Abfall
+EEMat	314993	db=GEO	# Energy & Environmental Materials
+JTEHB	4743	db=GEO	# Journal of Toxicology and Environmental Health, Part B
+AdBG.	183126	db=GEO	# Acta Botanica Gallica
+JTEHA	4271	db=GEO	# Journal of Toxicology and Environmental Health, Part A
+BotRv	57312	db=GEO	# The Botanical Review
+IJOdo	140366	db=GEO	# International Journal of Odonatology
+Wetl.	57449	db=GEO	# Wetlands
+EnvMi	3483	db=GEO	# Environmental Microbiology
+Weawi	64110	db=GEO	# Weatherwise
+JEnvQ	46938	db=GEO	# Journal of Environmental Quality
+GGRes	63411	db=GEO	# Geostandards and Geoanalytical Research
+Xgaaa	217805	db=GEO	# GGRes set 2, Geostandards and Geoanalytical Research
+IJHG.	299118	db=GEO	# International Journal of Health Governance
+GmbJ.	4390	db=GEO	# Geomicrobiology Journal
+JRSNZ	106745	db=GEO	# Journal of the Royal Society of New Zealand
+RRBS.	135905	db=GEO	# Research and Reports in Biodiversity Studies
+SyBio	15601	db=GEO	# Systematics and Biodiversity
+LimOB	265428	db=GEO	# Limnology and Oceanography Bulletin
+LimOL	301901	db=GEO	# Limnology and Oceanography Letters
+LimOM	95745	db=GEO	# Limnology and Oceanography: Methods
+EProc	244543	db=GEO	# Environmental Processes
+AJRFS	64170	db=GEO	# African Journal of Range & Forage Science
+BSBFA	250106	db=GEO	# Bulletin de la Société Botanique de France. Actualités Botaniques
+IJGP.	338077	db=GEO	# International Journal of Geoheritage and Parks
+CFTM.	265976	db=GEO	# Crop, Forage & Turfgrass Management
+CliPo	2161	db=GEO	# Climate Policy
+SExtE	373224	db=GEO	# Safety in Extreme Environments
+SFJFS	107285	db=GEO	# Southern Forests: a Journal of Forest Science
+Xhaaa	68915	db=GEO	# SFJFS set 2, Southern Forests: a Journal of Forest Science
+MycPr	53998	db=GEO	# Mycological Progress
+InAqR	177825	db=GEO	# International Aquatic Research
+AfJEc	3628	db=GEO	# African Journal of Ecology
+InhTx	4293	db=GEO	# Inhalation Toxicology
+ZGmS.	66048	db=GEOPHY	# Zeitschrift für Geomorphologie Supplementary Issues
+RvAq.	82118	db=GEO	# Reviews in Aquaculture
+IJSDW	76759	db=GEO	# International Journal of Sustainable Development & World Ecology
+OOEJ.	76025	db=GEOPHY	# The Open Ocean Engineering Journal
+DiEnv	545624	db=GEO	# Discover Environment
+EnUrb	44279	db=GEO	# Environment and Urbanization
+CTEP.	14419	db=GEO	# Clean Technologies and Environmental Policy
+NeBio	291786	db=GEO	# Neotropical Biodiversity
+SSPN.	60827	db=GEO	# Soil Science and Plant Nutrition
+AdEnM	49038	db=GEO	# Advanced Energy Materials
+EnUrA	96925	db=GEO	# Environment and Urbanization ASIA
+SMFE.	2608	db=GEO	# Soil Mechanics and Foundation Engineering
+TellB	3392	db=GEO	# Tellus B
+TellA	3356	db=GEO	# Tellus A
+Life.	142446	db=GEO	# Life
+InsSc	46098	db=GEO	# Insect Science
+GeogJ	13601	db=GEO	# The Geographical Journal
+ClChR	259306	db=GEO	# Climate Change Responses
+RoMin	64108	db=GEO	# Rocks & Minerals
+IJESM	63809	db=GEO	# International Journal of Energy Sector Management
+EnvQM	360	db=GEO	# Environmental Quality Management
+TrGIS	14270	db=GEO	# Transactions in GIS
+GComp	59027	db=GEO	# Geography Compass
+CarM.	114945	db=GEO	# Carbon Management
+LaEco	2916	db=GEO	# Landscape Ecology
+Biofo	6210	db=GEO	# Biofouling
+Biofu	105585	db=GEO	# Biofuels
+EngLS	335	db=GEO	# Engineering in Life Sciences
+LDeDe	61200	db=GEO	# Land Degradation & Development
+JLUS.	57608	db=GEO	# Journal of Land Use Science
+RvFSA	237186	db=GEO	# Reviews in Fisheries Science & Aquaculture
+ITEC.	5349	db=GEO	# IEEE Transactions on Energy Conversion
+IJUSD	100867	db=GEO	# International Journal of Urban Sustainable Development
+AIGS.	394517	db=GEO	# Artificial Intelligence in Geosciences
+MEcEv	91145	db=GEO	# Methods in Ecology and Evolution
+WSBu.	47178	db=GEO	# Wildlife Society Bulletin
+JEPM.	4242	db=GEO	# Journal of Environmental Planning and Management
+PlSoi	2803	db=GEO	# Plant and Soil
+NScEd	376339	db=GEO	# Natural Sciences Education
+Area.	13996	db=GEO	# Area
+HETox	5863	db=GEO	# Human and Experimental Toxicology
+NGTid	4393	db=GEO	# Norsk Geografisk Tidsskrift - Norwegian Journal of Geography
+RvFS.	25785	db=GEO	# Reviews in Fisheries Science
+IJEAC	17965	db=GEO	# International Journal of Environmental Analytical Chemistry
+JCSE.	76478	db=GEO	# Journal of Coal Science and Engineering (China)
+AuPP.	5956	db=GEO	# Australasian Plant Pathology
+JRegS	14149	db=GEO	# Journal of Regional Science
+IJBSE	99145	db=GEO	# International Journal of Biodiversity Science, Ecosystem Services & Management
+IJBSM	78218	db=GEO	# International Journal of Biodiversity Science & Management
+EcoFF	3327	db=GEO	# Ecology of Freshwater Fish
+JFR..	21799	db=GEO	# Journal of Forest Research
+AnGIS	106286	db=GEO	# Annals of GIS
+IsJPS	9956	db=GEO	# Israel Journal of Plant Sciences
+RMRE.	798	db=GEO	# Rock Mechanics and Rock Engineering
+JApEc	3596	db=GEO	# Journal of Applied Ecology
+CrSo.	374951	db=GEO	# Crops & Soils
+Xiaaa	306690	db=GEO	# CrSo. set 2, Crops & Soils
+MCFis	82139	db=GEO	# Marine and Coastal Fisheries
+Xjaaa	82138	db=GEO	# MCFis set 2, Marine and Coastal Fisheries
+WDSE.	332937	db=GEO	# Waste Disposal & Sustainable Energy
+ArAnS	82260	db=GEO	# Archaeological and Anthropological Sciences
+IJSE.	18002	db=GEO	# International Journal of Solar Energy
+WatSc	234870	db=GEO	# Water Science
+JForE	262346	db=GEO	# Journal of Forest Engineering
+npjUS	368959	db=GEO	# npj Urban Sustainability
+EcoAp	55585	db=GEO	# Ecological Applications
+IJCE.	299396	db=GEO	# International Journal of Civil Engineering
+DeHyZ	14460	db=GEO	# Deutsche Hydrographische Zeitschrift
+PgRec	20796	db=GEO	# The Photogrammetric Record
+CScUt	222926	db=GEO	# Compost Science & Utilization
+AppVS	55703	db=GEO	# Applied Vegetation Science
+NanEE	299107	db=GEO	# Nanotechnology for Environmental Engineering
+JCrIm	17140	db=GEO	# Journal of Crop Improvement
+SwJG.	34819	db=GEO	# Swiss Journal of Geosciences
+IAOEH	773	db=GEO	# International Archives of Occupational and Environmental Health
+RegSt	4229	db=GEO	# Regional Studies
+IJPMG	103025	db=GEO	# International Journal of Physical Modelling in Geotechnics
+JMouS	59667	db=GEO	# Journal of Mountain Science
+IJMRE	63665	db=GEO	# International Journal of Mining, Reclamation and Environment
+LRRM.	14166	db=GEO	# Lakes and Reservoirs: Research and Management
+SurRv	71339	db=GEO	# Survey Review
+OMnJ.	70405	db=GEOPHY	# The Open Mineralogy Journal
+CryRT	150	db=GEO	# Crystal Research and Technology
+CPolR	267736	db=GEO	# Current Pollution Reports
+LiqFT	146766	db=GEO	# Liquid Fuels Technology
+Phyto	79060	db=GEO	# Phytoparasitica
+CryRv	17984	db=GEO	# Crystallography Reviews
+Oikos	3389	db=GEO	# Oikos
+CEES.	17769	db=GEO	# Civil Engineering and Environmental Systems
+SNatR	4735	db=GEO	# Society & Natural Resources
+GloCh	295394	db=GEO	# Global Challenges
+Letha	4405	db=GEO	# Lethaia
+CJPSE	215605	db=GEO	# Chinese Journal of Population Resources and Environment
+CPrEc	73758	db=GEO	# Contemporary Problems of Ecology
+RuJEc	2837	db=GEO	# Russian Journal of Ecology
+JAgrC	14124	db=GEO	# Journal of Agrarian Change
+NatEE	303409	db=GEO	# Nature Ecology & Evolution
+SAMP.	105905	db=GEO	# Sustainability Accounting, Management and Policy Journal
+PPhyR	336837	db=GEO	# Plant Physiology Reports
+OOcJ.	70397	db=GEOPHY	# The Open Oceanagraphy Journal
+Biogc	2763	db=GEO	# Biogeochemistry
+AqGeo	2719	db=GEO	# Aquatic Geochemistry
+ThEnv	2865	db=GEO	# The Environmentalist
+EURS.	15127	db=GEO	# European Urban and Regional Studies
+MatGe	89046	db=GEO	# Mathematical Geosciences
+LandR	4501	db=GEO	# Landscape Research
+CaJMP	540883	db=GEO	# The Canadian Journal of Mineralogy and Petrology
+FPBio	2936	db=GEO	# Fish Physiology and Biochemistry
+GeoTr	6177	db=GEO	# Geochemical Transactions
+BioAH	171685	db=GEO	# Biological Agriculture & Horticulture
+Lands	24777	db=GEO	# Landslides
+City.	17949	db=GEO	# City
+EvEco	2847	db=GEO	# Evolutionary Ecology
+ArEOH	69375	db=GEO	# Archives of Environmental & Occupational Health
+ArchP	39	db=GEO	# Archaeological Prospection
+ChGpS	59847	db=GEO	# Chinese Geographical Science
+JBryo	14557	db=GEO	# Journal of Bryology
+ArJG.	76079	db=GEO	# Arabian Journal of Geosciences
+Ichno	20910	db=GEO	# Ichnos
+JISRS	76425	db=GEO	# Journal of the Indian Society of Remote Sensing
+GraRe	466992	db=GEO	# Grassland Research
+JEHSE	213165	db=GEO	# Journal of Environmental Health Science and Engineering
+GeopP	3553	db=GEO	# # Geophysical Prospecting
+Mycor	781	db=GEO	# Mycorrhiza
+TIJMS	297742	db=GEO	# Thalassas: An International Journal of Marine Sciences
+JIES.	22098	db=GEO	# Journal of Integrative Environmental Sciences
+BuEGE	809	db=GEO	# Bulletin of Engineering Geology and the Environment
+GeofI	265297	db=GEO	# Geofisica Internacional
+GNHR.	106505	db=GEO	# Geomatics, Natural Hazards and Risk
+GlSus	315052	db=GEO	# Global Sustainability
+HorR.	236367	db=GEO	# Horticulture Research
+JApMe	5830	db=GEOPHY	# Journal of Applied Meteorology
+ZooEc	170046	db=GEO	# Zoology and Ecology
+WWatP	354517	db=GEO	# World Water Policy
+PPPr.	257	db=GEO	# Permafrost and Periglacial Processes
+ViGeo	24517	db=GEO	# Visual Geosciences
+Grana	4283	db=GEO	# Grana
+JApV.	160905	db=GEO	# Journal of Applied Volcanology
+CmpGe	3001	db=GEO	# Computational Geosciences
+IJSTE	78398	db=GEO	# IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+GranP	147865	db=GEO	# Grana Palynologica
+IIEHS	143645	db=GEO	# Isotopenpraxis Isotopes in Environmental and Health Studies
+ZooK.	76599	db=GEO	# ZooKeys
+IJSTr	63668	db=GEO	# International Journal of Sustainable Transportation
+CPWat	545414	db=GEO	# Cambridge Prisms Water
+PWEnv	22142	db=GEO	# Paddy and Water Environment
+CRvPS	1988	db=GEO	# Critical Reviews in Plant Sciences
+GPSS.	14474	db=GEO	# GPS Solutions
+AqScC	3292	db=GEO	# Aquarium Sciences and Conservation
+TrAFS	28122	db=GEO	# Transactions of the American Fisheries Society
+RESBT	9350	db=GEO	# Reviews in Environmental Science and Bio/Technology
+MBioR	51549	db=GEO	# Marine Biology Research
+JVegS	55708	db=GEO	# Journal of Vegetation Science
+AqSci	904	db=GEO	# Aquatic Sciences
+GCBBi	82158	db=GEO	# GCB Bioenergy
+NAMFM	27717	db=GEO	# North American Journal of Fisheries Management
+BHM..	65010	db=GEO	# BHM Berg- und Hüttenmännische Monatshefte
+IEAM.	33898	db=GEO	# Integrated Environmental Assessment and Management
+EneTP	249450	db=GEO	# Energy Technology & Policy
+JEnEd	64093	db=GEO	# The Journal of Environmental Education
+ConG.	2994	db=GEO	# Conservation Genetics
+GeTea	65337	db=GEO	# The Geography Teacher
+IsArc	56928	db=GEO	# Island Arc
+JSSPN	117265	db=GEO	# Journal of Soil Science and Plant Nutrition
+EDSus	2535	db=GEO	# Environment, Development and Sustainability
+WQEH.	80099	db=GEO	# Water Quality, Exposure and Health
+Gflui	3779	db=GEO	# Geofluids
+NZJGG	106805	db=GEO	# New Zealand Journal of Geology and Geophysics
+EleSA	233308	db=GEO	# Elementa Science of the Anthropocene
+GrMat	181505	db=GEO	# Green Materials
+ConGR	84190	db=GEO	# Conservation Genetics Resources
+PEInt	388757	db=GEO	# Plant-Environment Interactions
+SSBE.	175025	db=GEO	# Smart and Sustainable Built Environment
+GeoE.	217285	db=GEO	# Geothermal Energy
+Opflo	157685	db=GEO	# Opflow
+HydSJ	28718	db=GEO	# Hydrological Sciences Journal
+Plant	783	db=GEO	# Planta
+PrPG.	5865	db=GEO	# Progress in Physical Geography Earth and Environment
+JAgEn	378268	db=GEO	# Journal of Aging and Environment
+RvECT	463113	db=GEO	# Reviews of Environmental Contamination and Toxicology
+EvBO.	49259	db=GEO	# Experimental Biology Online
+OcHyS	64028	db=GEO	# Oceanological and Hydrobiological Studies
+PRegS	49261	db=GEO	# Papers in Regional Science
+AcGlS	82379	db=GEO	# Acta Geologica Sinica - English Edition
+Xlaaa	109866	db=GEO	# AcGlS set 2, Acta Geologica Sinica-English
+MGG..	4444	db=GEO	# Marine Georesources & Geotechnology
+FuEco	3582	db=GEO	# Functional Ecology
+CSBio	69398	db=GEO	# Chemical Speciation & Bioavailability
+LHBl.	60227	db=GEO	# La Houille Blanche
+WeedR	3622	db=GEO	# Weed Research
+JApiR	77860	db=GEO	# Journal of Apicultural Research
+Antip	13553	db=GEO	# Antipode
+PlBio	4007	db=GEO	# Plant Biology
+Gaea.	81278	db=GEOPHY	# Gaea - Journal of Geoscience
+ASRR.	4734	db=GEO	# Arid Soil Research and Rehabilitation
+Limno	10223	db=GEO	# Limnology
+WIRWa	232746	db=GEO	# WIREs Water
+ESHis	279946	db=GEO	# Earth Sciences History
+EMdAs	21208	db=GEO	# Environmental Modeling & Assessment
+UrbIn	471123	db=GEO	# Urban Informatics
+TPMed	2757	db=GEO	# Transport in Porous Media
+Biodi	135948	db=GEO	# Biodiversity
+Ecomm	65248	db=GEO	# Environmental Communication
+PalJ.	54365	db=GEO	# Paleontological Journal
+JAnEc	3658	db=GEO	# Journal of Animal Ecology
+Faci.	24459	db=GEO	# Facies
+REnvC	829	db=GEO	# Regional Environmental Change
+IJEG.	309950	db=GEOPHY	# International Journal of Engineering and Geosciences
+IJAgS	74518	db=GEO	# International Journal of Agricultural Sustainability
+EuJRS	168365	db=GEO	# European Journal of Remote Sensing
+AAAG.	296811	db=GEO	# Annals of the American Association of Geographers
+EECT.	218567	db=GEO	# Energy and Emission Control Technologies
+GeTec	149025	db=GEO	# Geodynamics &amp; Tectonophysics
+RvCHN	87491	db=GEO	# Revista Chilena de Historia Natural
+AcSSn	59367	db=GEO	# Acta Seismologica Sinica
+Prev.	164625	db=GEO	# Preview
+GECB.	2143	db=GEO	# Global Environmental Change Part B: Environmental Hazards
+Geosc	133085	db=GEOPHY	# Geosciences
+PlEco	2783	db=GEO	# Plant Ecology
+ICEGE	29919	db=GEO	# Proceedings of the Institution of Civil Engineers: Geotechnical Engineering
+GraSc	45258	db=GEO	# Grassland Science
+ICEGI	67394	db=GEO	# Proceedings of the Institution of Civil Engineers: Ground Improvement
+PlEcD	76620	db=GEO	# Plant Ecology & Diversity
+PlSiB	85910	db=GEO	# Plant Signaling & Behavior
+WIREE	175947	db=GEO	# WIREs Energy and Environment
+SEcoL	367257	db=GEO	# Soil Ecology Letters
+EneG.	383081	db=GEO	# Energy Geoscience
+ThEco	65828	db=GEO	# Theoretical Ecology
+EExEx	9917	db=GEO	# Energy Exploration and Exploitation
+JEEP.	171765	db=GEO Journal of Environmental Economics and Policy
+IJVS.	17014	db=GEO	# International Journal of Vegetable Science
+AgrS.	185425	db=GEO	# Agrarian South
+SHFJ.	68915	db=GEO	# Southern Hemisphere Forestry Journal
+MPalS	312340	db=GEO	# Monographs of the Palaeontographical Society
+EnvBF	2960	db=GEO	# Environmental Biology of Fishes
+JApCr	5239	db=GEO	# Journal of Applied Crystallography
+IJGA.	28977	db=GEOPHY	# International Journal of Geomagnetism and Aeronomy
+Fish.	28099	db=GEO	# Fisheries
+HBRCJ	189726	db=GEO	# HBRC Journal
+JESS.	64221	db=GEOPHY	# Journal of Earth System Science
+AqBio	161586	db=GEO	# Aquatic Biosystems
+CliAc	465326	db=GEO	# Climate Action
+CarEv	91625	db=GEO	# Carbonates and Evaporites
+AgrSy	2851	db=GEO	# Agroforestry Systems
+InnIS	298899	db=GEO	# Innovative Infrastructure Solutions
+EnvHa	2143	db=GEO	# Environmental Hazards
+EurSS	54099	db=GEOPHY	# Eurasian Soil Science
+DisPM	5266	db=GEO	# Disaster Prevention and Management
+AnFSc	15939	db=GEO	# Annals of Forest Science
+GeoDi	255666	db=GEO	# Geoenvironmental Disasters
+IEAPL	2778	db=GEO	# International Environmental Agreements: Politics, Law and Economics
+ASEGA	213545	db=GEO	# ASEG Extended Abstracts
+JLeiR	296562	db=GEO	# Journal of Leisure Research
+EnvHI	114766	db=GEO	# Environmental Health Insights
+STAR.	265855	db=GEO	# STAR: Science & Technology of Archaeological Research
+NAJA.	28120	db=GEO	# North American Journal of Aquaculture
+FiEco	91425	db=GEO	# Fire Ecology
+JPBio	81222	db=GEO	# Journal of Plant Biology
+SAJAS	145725	db=GEO	# Southern African Journal of Aquatic Sciences
+IJDRS	143785	db=GEO	# International Journal of Disaster Risk Science
+ArMic	711	db=GEO	# Archives of Microbiology
+IrrSc	1083	db=GEO	# Irrigation Science
+JEcEn	213565	db=GEO	# Journal of Ecology and Environment
+NanEn	136648	db=GEO	# Nanomaterials and Energy
+PopEc	835	db=GEO	# Population Ecology
+JIMSE	312425	db=GEO	# Journal of International Maritime Safety, Environmental Affairs, and Shipping
+EJWR.	54040	db=GEO	# European Journal of Wildlife Research
+AppGm	83626	db=GEO	# Applied Geomatics
+PlPrS	28438	db=GEO	# Plant Production Science
+Trees	811	db=GEO	# Trees
+TIMC.	5856	db=GEO	# Transactions of the Institute of Measurement and Control
+GGMM.	119425	db=GEO	# Greenhouse Gas Measurement and Management
+ZAGeo	22658	db=GEOPHY	#	Zeitschrift fur Angewandte Geographie
+PhOce	9347	db=GEO	# Physical Oceanography
+DFIJ.	236907	db=GEO	# DFI Journal - The Journal of the Deep Foundations Institute
+EJPP.	2600	db=GEO	# European Journal of Plant Pathology
+IJROW	181925	db=GEO	# International Journal of Recycling of Organic Waste in Agriculture
+Ecol.	55410	db=GEO	# Ecology
+EcolL	3625	db=GEO	# Ecology Letters
+PBios	63715	db=GEO	# Plant Biosystems - An International Journal Dealing with all Aspects of Plant Biology
+EcoPr	163045	db=GEO	# Ecological Processes
+EcoPe	326478	db=GEO	# Ecosystems and People
+FEMME	1319	db=GEO	# FEMS Microbiology Ecology
+AuJES	3599	db=GEO	# Australian Journal of Earth Sciences
+Aerob	2817	db=GEO	# Aerobiologia
+AsJAE	128025	db=GEO	# Asian Journal of Atmospheric Environment
+UrbEc	2747	db=GEO	# Urban Ecosystems
+OutAg	109826	db=GEO	# Outlook on Agriculture
+AuJEM	137666	db=GEO	# Australasian Journal of Environmental Management
+AnthS	448838	db=GEO	# Anthropocene Science
+UrbWJ	50786	db=GEO	# Urban Water Journal
+ArECT	900	db=GEO	# Archives of Environmental Contamination and Toxicology
+AnthC	312026	db=GEO	# Anthropocene Coasts
+ACMFE	210	db=GEO	# Aquatic Conservation: Marine and Freshwater Ecosystems
+GmTun	72619	db=GEO	# Geomechanics and Tunnelling
+JSCER	135754	db=GEOPHY	# Journal of Japan Society of Civil Engineers Ser G (Environmental Research)
+STBE.	268215	db=GEO	# Science and Technology for the Built Environment
+AtScL	685	db=GEOPHY	# Atmospheric Science Letters
+SQER.	6238	db=GEO	# SAR and QSAR in Environmental Research
+ELM..	233	db=GEO	# Environmental Law & Management
+PeoNa	327222	db=GEO	# People and Nature
+WJEng	126065	db=GEO	# World Journal of Engineering
+AerST	4356	db=GEOPHY	# Aerosol Science and Technology
+HDW..	4683	db=GEO	# Human Dimensions of Wildlife
+AerSE	305860	db=GEO	# Aerosol Science and Engineering
+SusMa	421694	db=GEO	# SusMat
+MiPal	42942	db=GEO	# Micropaleontology
+WaEnR	51780	db=GEO	# Water Environment Research
+OGJ..	70416	db=GEOPHY	# The Open Geology Journal
+JWCT.	65018	db=GEO	# Journal of Water Chemistry and Technology
+NRR..	3135	db=GEO	# Natural Resources Research
+BioFu	353157	db=GEO	# Biologia Futura
+CaWRJ	90346	db=GEO	# Canadian Water Resources Journal / Revue canadienne des ressources hydriques
+GGST.	122945	db=GEO	# Greenhouse Gases: Science and Technology
+AfJAS	64169	db=GEO	# African Journal of Aquatic Science
+HBio.	13525	db=GEO	# Historical Biology
+JPlR.	14477	db=GEO	# Journal of Plant Research
+AgFS.	171225	db=GEO	# Agriculture & Food Security
+BioFS	741	db=GEO	# Biology and Fertility of Soils
+JAWMA	159385	db=GEO	# Journal of the Air & Waste Management Association
+PoRec	12679	db=GEO	# Polar Record
+EHPM.	6415	db=GEO	# Environmental Health and Preventive Medicine
+PlOut	145865	db=GEO	# Planning Outlook
+AppEZ	11119	db=GEO	# Applied Entomology and Zoology
+SAJPS	178885	db=GEO	# South African Journal of Plant and Soil
+IJSHE	5315	db=GEO	# International Journal of Sustainability in Higher Education
+SJTG.	14251	db=GEO	# Singapore Journal of Tropical Geography
+IJFoE	220785	db=GEO	# International Journal of Forest Engineering
+JAgCS	3707	db=GEO	# Journal of Agronomy and Crop Science
+Glob.	40779	db=GEO	# Globalizations
+ConSP	326516	db=GEO	# Conservation Science and Practice
+Biotr	47338	db=GEO	# Biotropica
+GISRS	71720	db=GEO	# GIScience & Remote Sensing
+PChem	1285	db=GEO	# Phytochemistry
+CLER.	299646	db=GEO	# Current Landscape Ecology Reports
+ETRR.	80179	db=GEO	# European Transport Research Review
+AdSSy	304568	db=GEO	# Advanced Sustainable Systems
+FolGe	71358	db=GEO	# Folia Geobotanica
+EnvGH	2980	db=GEO	# Environmental Geochemistry and Health
+RiskA	3224	db=GEO	# Risk Analysis
+GeoGE	251187	db=GEO	# Geo: Geography and Environment
+MUSSB	65013	db=GEO	# Moscow University Soil Science Bulletin
+IJOE.	5388	db=GEO	# IEEE Journal of Oceanic Engineering
+ICEWR	56689	db=GEO	# Proceedings of the Institution of Civil Engineers: Waste and Resource Management
+IJEWR	325957	db=GEO	# International Journal of Energy and Water Resources
+AOSL.	286246	db=GEO	# Atmospheric and Oceanic Science Letters
+GeocJ	54767	db=GEOPHY	# GEOCHEMICAL JOURNAL
+ICEWM	29979	db=GEO	# Proceedings of the Institution of Civil Engineers: Water Management
+JGSA.	307565	db=GEO	# Journal of Geovisualization and Spatial Analysis
+ManSM	3286	db=GEO	# Mangroves and Salt Marshes
+AuFor	211266	db=GEO	# Australian Forestry
+Ecosp	106005	db=GEO	# Ecosphere
+JFBio	572	db=GEO	# Journal of Fish Biology
+IJCPU	73360	db=GEO	# International Journal of Coal Preparation and Utilization
+Wassw	156185	db=GEO	# Wasserwirtschaft
+ProfG	20796	db=GEO	# The Professional Geographer
+FossR	52021	db=GEO	# Fossil Record
+JGSAu	146765	db=GEO	# Journal of the Geological Society of Australia
+WaEnJ	53879	db=GEO	# Water and Environment Journal
+ICEW.	90086	db=GEO	# Proceedings of the Institution of Civil Engineers: Water and Maritime Engineering
+NRF..	14187	db=GEO	# Natural Resources Forum
+JPPEL	314698	db=GEO	# Journal of Property, Planning and Environmental Law
+SusRI	299997	db=GEO	# Sustainable and Resilient Infrastructure
+JApSt	4179	db=GEO	# Journal of Applied Statistics
+CRPal	394201	db=GEO	# Comptes rendus - Palevol
+SSFor	61192	db=GEO	# Small-scale Forestry
+MolCr	138006	db=GEO	# Molecular Crystals
+ExG..	69314	db=GEO	# Exploration Geophysics
+AdBER	76421	db=GEO	# Advances in Building Energy Research
+Atmo.	265295	db=GEO	# Atmosfera
+ISMEJ	64535	db=GEO	# The ISME Journal
+MetMo	27478	db=GEOPHY	# Meteorological Monographs
+WiEng	9915	db=GEO	# Wind Engineering
+Radcb	179005	db=GEO	# Radiocarbon
+GSAT.	5547	db=GEO	# GSA Today
+ICWME	66369	db=GEO	# Proceedings of the Institution of Civil Engineers: Water, Maritime and Energy
+EcoSE	376802	db=GEO	# Ecological Solutions and Evidence
+AqNut	3567	db=GEO	# Aquaculture Nutrition
+TRSSA	107287	db=GEO	# Transactions of the Royal Society of South Africa
+PolGe	71102	db=GEO	# Polar Geography
+JApAq	16988	db=GEO	# Journal of Applied Aquaculture
+EcoE.	552792	db=GEO	# EcoEnergy
+JEST.	153246	db=GEO	# International Journal of Environmental Science and Technology
+npjCW	314636	db=GEO	# npj Clean Water
+CaMQ.	2322	db=GEO	# Canadian Metallurgical Quarterly
+MGRv.	354598	db=GEO	# Mediterranean Geoscience Reviews
+ArGG.	550305	db=GEO	# Archiv für Gewerbepathologie und Gewerbehygiene
+GMRed	47758	db=GEO	# Groundwater Monitoring & Remediation
+EcoEn	3547	db=GEO	# Ecological Entomology
+EneE.	9978	db=GEO	# Energy Engineering
+ESPR.	48760	db=GEO	# Environmental Science and Pollution Research
+MUGB.	64621	db=GEO	# Moscow University Geology Bulletin
+NewSo	46422	db=GEO	# New Solutions
+EcoEv	134926	db=GEO	# Ecology and Evolution
+EnvFo	673	db=GEO	# Environmental Forensics
+CSSPA	4806	db=GEO	# Communications in Soil Science and Plant Analysis
+WQEM.	3219	db=GEO	# Water Quality and Ecosystem Modeling
+PAGeo	278086	db=GEO	# Papers in Applied Geography
+MESE.	281646	db=GEO	# Modeling Earth Systems and Environment
+SuSc.	57545	db=GEO	# Sustainability Science
+PhoRe	2545	db=GEO	# Photosynthesis Research
+SJFR.	4254	db=GEO	# Scandinavian Journal of Forest Research
+CoalP	17992	db=GEO	# Coal Preparation
+ConBi	3530	db=GEO	# Conservation Biology
+FoEco	239291	db=GEO	# Forest Ecosystems
+GeoPA	49961	db=GEOPHY	#	Geofisica Pura e Applicata
+OASJ.	70436	db=GEOPHY	# The Open Atmospheric Science Journal
+CEJG.	88167	db=GEOPHY	# Central European Journal of Geosciences
+EnvTR	179285	db=GEO	# Environmental Technology Reviews
+CogFA	265975	db=GEO	# Cogent Food & Agriculture
+EnvTe	73460	db=GEO	# Environmental Technology
+Bioch	330505	db=GEO	# Biochar
+CarBM	57172	db=GEO	# Carbon Balance and Management
+RuJBI	97725	db=GEO	# Russian Journal of Biological Invasions
+GSDJ.	192425	db=GEO	# Geoscience Data Journal
+IJIDF	106506	db=GEO	# International Journal of Image and Data Fusion
+DiaRe	136325	db=GEO	# Diatom Research
+RuJPG	62749	db=GEO	# Russian Journal of Pacific Geology
+CEJGl	69734	db=GEOPHY	# Central European Geology
+WildM	58627	db=GEO	# Wildlife Monographs
+BuRI.	12216	db=GEO	# Building Research & Information
+ArASS	16258	db=GEO	# Archives of Agronomy and Soil Science
+JSCGE	135755	db=GEOPHY	# Journal of Japan Society of Civil Engineers Ser C (Geosphere EngEngineering)
+Drop.	469352	db=GEO	# Droplet
+GeolT	3492	db=GEO	# Geology Today
+JMGeo	3584	db=GEO	# Journal of Metamorphic Geology
+GeolJ	272	db=GEO	# Geological Journal
+EuJSS	3496	db=GEO	# European Journal of Soil Science
+IJLCA	47538	db=GEO	# The International Journal of Life Cycle Assessment
+BIAEG	63570	db=GEO	# Bulletin of the International Association of Engineering Geology
+ARIJ.	856	db=GEO	# ARI - An International Journal for Physical and Engineering Sciences
+Envir	88	db=GEO	# Environmetrics
+APInt	62750	db=GEO	# Arthropod-Plant Interactions
+EcoR.	3627	db=GEO	# Ecological Research
+JMCWM	22138	db=GEO	# Journal of Material Cycles and Waste Management
+AQAH.	73325	db=GEO	# Air Quality, Atmosphere & Health
+TrIBG	14271	db=GEO	# Transactions of the Institute of British Geographers
+ITGRS	5332	db=GEOPHY	# IEEE Transactions on Geoscience and Remote Sensing
+IJNAr	584	db=GEO	# International Journal of Nautical Archaeology
+WASPF	2995	db=GEO	# Water, Air, & Soil Pollution: Focus
+JAPco	2929	db=GEO	# Journal of Applied Phycology
+NJAqE	50301	db=GEO	# Netherland Journal of Aquatic Ecology
+NewPh	3459	db=GEO	# New Phytologist
+ExpHe	304052	db=GEO	# Exposure and Health
+IJGrE	24277	db=GEO	# International Journal of Green Energy
+WASP.	2883	db=GEO	# Water, Air, & Soil Pollution
+JGeog	65297	db=GEO	# Journal of Geography
+ToxIH	5861	db=GEO	# Toxicology and Industrial Health
+GNR..	75406	db=GEO	# Geography and Natural Resources
+JGeoE	301100	db=GEOPHY	# Journal of Geological Education
+MinEn	50218	db=GEO	# Minerals and the Environment
+OJGeo	134266	db=GEOPHY	# Open Journal of Geology
+HyBio	2796	db=GEO	# Hydrobiologia
+npjCA	311426	db=GEO	# npj Climate and Atmospheric Science
+RivRA	412	db=GEO	# River Research and Applications
+AAAR.	55710	db=GEO	# Arctic, Antarctic, and Alpine Research
+DUSE.	470303	db=GEO	# Deep Underground Science and Engineering
+JGSoc	44798	db=GEOPHY	# Journal of the Geological Society
+EAAFJ	153819	db=GEO	# East African Agricultural and Forestry Journal
+AqEHM	4676	db=GEO	# Aquatic Ecosystem Health & Management
+SILP.	311343	db=GEO	# SIL Proceedings, 1922-2010
+JArL.	92805	db=GEO	# Journal of Arid Land
+MvEco	220588	db=GEO	# Movement Ecology
+Gchrm	63527	db=GEO	# Geochronometria
+RFBF.	3105	db=GEO	# Reviews in Fish Biology and Fisheries
+EEApp	3263	db=GEO	# Entomologia Experimentalis et Applicata
+ESPSD	64107	db=GEO	# Environment: Science and Policy for Sustainable Development
+CliDe	83569	db=GEO	# Climate and Development
+NZJCH	106785	db=GEO	# New Zealand Journal of Crop and Horticultural Science
+IJEnS	17767	db=GEO	# International Journal of Environmental Studies
+IJEnR	305998	db=GEO	# International Journal of Environmental Research
+CitHe	306886	db=GEO	# Cities & Health
+SpCC.	2529	db=GEO	# Spatial Cognition & Computation
+JEZA.	36438	db=GEO	# Journal of Experimental Zoology - A (JEZ-A)
+Xmaaa	60391	db=GEO	# JEZA. set 2, Journal of Experimental Zoology - A (JEZ-A)
+Xmaab	306996	db=GEO	# JEZA. set 3, Journal of Experimental Zoology - A (JEZ-A)
+JWMan	63447	db=GEO	# The Journal of Wildlife Management
+Symbi	89905	db=GEO	# Symbiosis
+JEnSS	126805	db=GEO	# Journal of Environmental Studies and Sciences
+NJBot	143665	db=GEO	# New Journal of Botany
+Anato	127566	db=GEO	# Anatolia
+GeoAr	458641	db=GEO	# GeoArabia
+JSusM	265951	db=GEO	# Journal of Sustainable Metallurgy
+JSusA	17012	db=GEO	# Journal of Sustainable Agriculture
+JSusF	20854	db=GEO	# Journal of Sustainable Forestry
+OHJ..	71205	db=GEOPHY	# The Open Hydrology Journal
+GeoAc	2204	db=GEO	# Geodinamica Acta
+ITSE.	96665	db=GEO	# IEEE Transactions on Sustainable Energy
+ForTL	171785	db=GEO	# Forests, Trees and Livelihoods
+NZJB.	106365	db=GEO	# New Zealand Journal of Botany
+EnvEv	160666	db=GEO	# Environmental Evidence
+JSusT	58727	db=GEO	# Journal of Sustainable Tourism
+GeoAn	43139	db=GEO	# Geographical Analysis
+EMicb	330526	db=GEO	# Environmental Microbiome
+AfJMS	65768	db=GEO	# African Journal of Marine Science
+BiorJ	28337	db=GEO	# Bioremediation Journal
+EnvES	2755	db=GEO	# Environmental and Ecological Statistics
+EnvEP	877	db=GEO	# Environmental Engineering and Policy
+GAMRE	63652	db=GEO	# Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
+EnPlB	4158	db=GEO	# Environment and Planning B: Urban Analytics and City Science
+EnPlC	4157	db=GEO	# Environment and Planning C: Politics and Space
+EnPlA	4159	db=GEO	# Environment and Planning A: Economy and Space
+EnPlD	4161	db=GEO	# Environment and Planning D: Society and Space
+EnPlE	313564	db=GEO	# Environment and Planning E: Nature and Space
+UrbTr	376542	db=GEO	# Urban Transformations
+VegHA	21805	db=GEO	# Vegetation History and Archaeobotany
+EnvSD	197305	db=GEO	# Environment Systems and Decisions
+ApEaS	46059	db=GEO	# Applied Earth Science
+Xnaaa	312327	db=GEO	# ApEaS set 2, Applied Earth Science
+JMolE	745	db=GEO	# Journal of Molecular Evolution
+AcCrD	5235	db=GEO	# Acta Crystallographica Section D Biological Crystallography
+Xoaaa	296113	db=GEO	# AcCrD set 2, Acta Crystallographica Section D Structural Biology
+AcCrE	5231	db=GEO	# Acta Crystallographica Section E Structure Reports Online
+Xpaaa	263406	db=GEO	# AcCrE set 2, Acta Crystallographica Section E Crystallographic Communications
+AcCrF	235146	db=GEO	# Acta Crystallographica Section F Structural Biology Communications
+EnvSR	184225	db=GEO	# Environmental Systems Research
+AcCrA	5236	db=GEO	# Acta Crystallographica Section A Crystal Physics Diffraction The oretical and General Crystallography
+Xqaaa	5238	db=GEO	# AcCrA set 2, Acta Crystallographica Section A
+Xqaab	333374	db=GEO	# AcCrA set 3, Acta Crystallographica Section A Foundations and Advances
+AcCrB	5232	db=GEO	# Acta Crystallographica Section B
+Xraaa	5237	db=GEO	# AcCrB set 2, Acta Crystallographica Section B Structural Science
+Xraab	213936	db=GEO	# AcCrB set 3, Acta Crystallographica Section B Structural Science Crystal Engineering and Materials
+AcCrC	5233	db=GEO	# Acta Crystallographica Section C Crystal Structure Communications
+# AcCrC	5233	db=GEO	# Acta Crystallographica Section C Structural Chemistry
+EnvSc	428157	db=GEO	# Environmental Sciences
+GeoRs	43158	db=GEO	# Geographical Research
+IJRBM	106507	db=GEO	# International Journal of River Basin Management
+AcCry	5240	db=GEO	# Acta Crystallographica
+EnvSo	270066	db=GEO	# Environmental Sociology
+Britt	55704	db=GEO	# Brittonia
+AJGeo	121726	db=GEOPHY	# American Journal of Geoscience
+GeoSu	44778	db=GEOPHY	#	Geophysical Surveys
+JAtC.	2543	db=GEOPHY	# Journal of Atmospheric Chemistry
+# JAtC.	2543	db=GEO	# Journal of Atmospheric Chemistry
+CGISc	26057	db=GEO	# Cartography and Geographic Information Science
+LCMGC	516085	db=GEO	# Low-carbon Materials and Green Construction
+MWE..	14458	db=GEO	# Mine Water and the Environment
+CGISy	309839	db=GEO	# Cartography and Geographic Information Systems
+ITGE.	60709	db=GEO	# IEEE Transactions on Geoscience Electronics
+AfrGR	171885	db=GEO	# African Geographical Review
+JHydR	75798	db=GEO	# Journal of Hydraulic Research
+LRMan	85397	db=GEO	# Lake and Reservoir Management
+IJAca	85381	db=GEO	# International Journal of Acarology
+AIMSG	298398	db=GEOPHY	# AIMS Geosciences
+NVW..	9913	db=GEO	# Noise and Vibration Worldwide
+SysEn	3535	db=GEO	# Systematic Entomology
+JMISD	468963	db=GEO	# Journal of Mega Infrastructure & Sustainable Development
+ScJG.	94125	db=GEO	# Scottish Journal of Geology
+JArSR	256074	db=GEO	# Journal of Archaeological Science Reports
+EEE..	297928	db=GEO	# Energy, Ecology and Environment
+CaJRS	130186	db=GEO	# Canadian Journal of Remote Sensing
+MinTe	312667	db=GEO	# Mining Technology
+OrgEn	308593	db=GEO	# Organization and Environment
+IRSRv	15171	db=GEO	# International Regional Science Review
+AfrIn	189926	db=GEO	# African Invertebrates
+EnvMM	11	db=GEO	# Environmental and Molecular Mutagenesis
+DepRe	268635	db=GEO	# The Depositional Record
+JArSc	588	db=GEO	# Journal of Archaeological Science
+MarBd	81862	db=GEO	# Marine Biodiversity
+MarBi	961	db=GEO	# Marine Biology
+MarBt	739	db=GEO	# Marine Biotechnology
+NREng	311179	db=GEO	# Natural Resources & Engineering
+CliEn	393897	db=GEO	# Climate and Energy
+BuEE.	17716	db=GEO	# Bulletin of Earthquake Engineering
+PoBio	993	db=GEO	# Polar Biology
+JFRM.	72586	db=GEO	# Journal of Flood Risk Management
+CIMJ.	267017	db=GEO	# CIM Journal
+JIBeh	2921	db=GEO	# Journal of Insect Behavior
+EnvPr	25082	db=GEO	# Environmental Progress
+PhaTr	17861	db=GEOPHY	# Phase Transitions
+WMR..	671	db=GEO	# Waste Management and Research
+EESD.	164	db=GEO	# Earthquake Engineering & Structural Dynamics
+ForST	122266	db=GEO	# Forest Science and Technology
+JAsGe	200265	db=GEO	# NRIAG Journal of Astronomy and Geophysics
+ArEco	128146	db=GEO	# Arid Ecosystems
+IGRSL	23477	db=GEOPHY	# IEEE Geoscience and Remote Sensing Letters
+IGRSM	201907	db=GEO	# IEEE Geoscience and Remote Sensing Magazine
+AWWWS	326971	db=GEO	# AWWA Water Science
+ScGJ.	66425	db=GEO	# Scottish Geographical Journal
+ConL.	75058	db=GEO	# Conservation Letters
+EnvDS	466556	db=GEO	# Environmental Data Science
+BuHer	379982	db=GEO	# Built Heritage
+ESust	315547	db=GEO	# Environmental Sustainability
+NatId	4375	db=GEO	# National Identities
+ClRS.	450398	db=GEO	# Climate Resilience and Sustainability
+GeAnA	14058	db=GEO	# Geografiska Annaler: Series A, Physical Geography
+PCEA.	1630	db=GEOPHY	# Physics and Chemistry of the Earth A
+BioER	72065	db=GEO	# BioEnergy Research
+JAqAH	28145	db=GEO	# Journal of Aquatic Animal Health
+GroCh	14066	db=GEO	# Growth and Change
+GescJ	73078	db=GEOPHY	# Geosciences Journal
+SpInR	298264	db=GEO	# Spatial Information Research
+QMicb	3004	db=GEO	# Quantitative Microbiology
+GeoRe	863	db=GEOPHY	#	Geologische Rundschau
+Bioac	170486	db=GEO	# Bioacoustics
+IJRS.	4305	db=GEO	# International Journal of Remote Sensing
+GeoRv	55418	db=GEO	# Geographical Review
+IchtR	14459	db=GEO	# Ichthyological Research
+AcASB	4426	db=GEO	# Acta Agriculturae Scandinavica, Section B - Soil & Plant Science
+GeosI	29922	db=GEO	# Geosynthetics International
+Int..	226307	db=GEO	# Interpretation
+OrniR	378571	db=GEO	# Ornithology Research
+WatRM	3011	db=GEO	# Water Resources Management
+MollR	9256	db=GEO	# Molluscan Research
+JCTB.	47781	db=GEO	# Journal of Chemical Technology & Biotechnology
+Xsaaa	103485	db=GEO	# JCTB. set 2, Journal of Chemical Technology and Biotechnology
+NJGeo	3264	db=GEO	# Netherlands Journal of Geosciences - Geologie en Mijnbouw
+IJEHR	4566	db=GEO	# International Journal of Environmental Health Research
+Getq.	50600	db=GEO	# Geotechnique
+EtEcE	106325	db=GEO	# Ethology Ecology & Evolution
+CSAW.	58227	db=GEO	# CLEAN: Soil, Air, Water
+PalAA	297757	db=GEO	# Palaeontographica Abteilung A: Palaozoologie
+GetqL	136646	db=GEO	# Geotechnique Letters
+HMR..	844	db=GEO	# Helgoland Marine Research
+UrbSt	4287	db=GEO	# Urban Studies
+JCTBB	92426	db=GEO	# Journal of Chemical Technology and Biotechnology Biotechnology
+JCTBC	103446	db=GEO	# Journal of Chemical Technology and Biotechnology Chemical Technology
+EcoFN	17995	db=GEO	# Ecology of Food and Nutrition
+FrRS.	395969	db=GEO	# Frontiers in Remote Sensing
+PChRv	10976	db=GEO	# Phytochemistry Reviews
+AlBot	120305	db=GEO	# Alpine Botany
+CarRe	468321	db=GEO	# Carbon Research
+PED..	79848	db=GEO	# Petroleum Exploration and Development
+ItJG.	445357	db=GEO	# Italian Journal of Geosciences
+LHB..	424157	db=GEO	# LHB
+AnGla	70122	db=GEOPHY	# Annals of Glaciology
+ZKMP.	77678	db=GEOPHY	# Zeitschrift für Kristallographie Mineralogie und Petrographie
+#ZKMP.	77678	db=GEO	# Zeitschrift für Kristallographie, Mineralogie und Petrographie
+GSIS.	64574	db=GEO	# Geo-spatial Information Science
+JHSB.	298663	db=GEO	# The Journal of Horticultural Science and Biotechnology
+NatHa	2906	db=GEO	# Natural Hazards
+EneSE	209205	db=GEO	# Energy Science & Engineering
+IJSLR	3248	db=GEO	# International Journal of Salt Lake Research
+TRSAu	265321	db=GEO	# Transactions of the Royal Society of South Australia
+BioBu	20760	db=GEO	# Biology Bulletin
+VomWa	436537	db=GEO	# Vom Wasser
+JMBUK	6112	db=GEO	# Journal of the Marine Biological Association of the United Kingdom
+AuGeo	4607	db=GEO	# Australian Geographer
+BioBR	122705	db=GEO	# Biology Bulletin Reviews
+JIbG.	110465	db=GEO	# Journal of Iberian Geology
+JEPD.	44238	db=GEO	# Journal of Environmental Polymer Degradation
+GeCar	74480	db=GEO	# Geodesy and Cartography
+Xtaaa	220167	db=GEO	# GeCar set 2, Geodesy and Cartography
+Xtaab	177966	db=GEO	# GeCar set 3, Geodesy and Cartography
+Xtaac	302969	db=GEO	# GeCar set 4, Geodesy and Cartography
+EarP.	238136	db=GEO	# Earth Perspectives
+WOilT	195645	db=GEO	# World Oil Trade
+AntRv	233546	db=GEO	# The Anthropocene Review
+EPlaE	17946	db=GEO	# Ethics, Place & Environment
+SSPP.	310832	db=GEO	# Sustainability: Science, Practice and Policy
+InAir	3306	db=GEO	# Indoor Air
+NZJFS	202705	db=GEO	# New Zealand Journal of Forestry Science
+AgSD.	15816	db=GEO	# Agronomy for Sustainable Development
+BMCE.	5929	db=GEO	# BMC Ecology
+NZGeo	50318	db=GEO	# New Zealand Geographer
+CoasM	4427	db=GEO	# Coastal Management
+TrZoo	174525	db=GEO	# Tropical Zoology
+JAWWA	157646	db=GEO	# Journal of the American Water Works Association
+MaGeo	89046	db=GEO	# Mathematical Geosciences
+JAESR	2796	db=GEO	# Journal of Aquatic Ecosystem Stress and Recovery
+AcGdG	232909	db=GEOPHY	# Acta Geodynamica et Geomaterialia
+Xuaaa	232910	db=GEOPHY	# AcGdG set 2, Acta Geodynamica et Geomaterialia
+AMGGA	52699	db=GEO	# Archives for Meteorology Geophysics and Bioclimatology Series B
+Gearc	3	db=GEO	# Geoarchaeology
+AMGGB	52387	db=GEO	# Archives for Meteorology, Geophysics, and Bioclimatology, Series A
+FiFi.	3616	db=GEO	# Fish and Fisheries
+JMinS	3050	db=GEO	# Journal of Mining Science
+ChSCh	65871	db=GEO	# ChemSusChem
+JCC..	57536	db=GEO	# Journal of Coastal Conservation
+JMaps	87388	db=GEO	# Journal of Maps
+GEL..	311083	db=GEO	# Geology, Ecology, and Landscapes
+EnvCR	145988	db=GEO	# Environmental Carcinogenesis Reviews
+PPal.	258386	db=GEO	# Papers in Palaeontology
+PCEB.	1631	db=GEOPHY	# Physics and Chemistry of the Earth B
+ALRM.	4414	db=GEO	# Arid Land Research and Management
+EnvCL	22143	db=GEO	# Environmental Chemistry Letters
+Gtech	125365	db=GEO	# Geotechnik
+IJDE.	72341	db=GEO	# International Journal of Digital Earth
+GJGS.	222225	db=GEO	# GSTF Journal of Geological Sciences (JGS)
+Webbi	211086	db=GEO	# Webbia
+AGJSR	421922	db=GEO	# Arab Gulf Journal of Scientific Research
+Ecosc	60839	db=GEO	# Écoscience
+G&G..	267205	db=GEO	# Geodesy and Geodynamics
+GForS	14061	db=GEO	# Grass and Forage Science
+OETAS	185465	db=GEO	# Oil and Energy Trends: Annual Statistical Review
+BSBFL	250107	db=GEO	# Bulletin de la Société Botanique de France. Lettres Botaniques
+EvApp	72059	db=GEO	# Evolutionary Applications
+IOAJP	377073	db=GEO	# IEEE Open Access Journal of Power and Energy
+AgGEn	325837	db=GEO	# Agrosystems, Geosciences & Environment
+BasR.	3655	db=GEO	# Basin Research
+MPEM.	312210	db=GEO	# Mineral Processing and Extractive Metallurgy
+MFBP.	17841	db=GEO	# Marine and Freshwater Behaviour and Physiology
+IJPhy	25778	db=GEO	# International Journal of Phytoremediation
+CaJPP	106305	db=GEO	# Canadian Journal of Plant Pathology
+MPEMR	18020	db=GEO	# Mineral Processing and Extractive Metallurgy Review
+CmpUS	422341	db=GEO	# Computational Urban Science
+River	468375	db=GEO	# River
+JWSci	23957	db=GEO	# Journal of Wood Science
+MERMR	4381	db=GEO	# Minerals & Energy - Raw Materials Report
+BSBF.	249950	db=GEO	# Bulletin de la Société Botanique de France
+ZKS..	82299	db=GEOPHY	# Zeitschrift für Kristallographie Supplements
+EESTR	72818	db=GEO	# Earth and Environmental Science Transactions of the Royal Society of Edinburgh
+Petro	54440	db=GEO	# Petrology
+IRPG.	64227	db=GEO	# IET Renewable Power Generation
+IJGIS	4366	db=GEO	# International Journal of Geographical Information Science
+EMJEI	301813	db=GEO	# Euro-Mediterranean Journal for Environmental Integration
+RPopE	836	db=GEO	# Population Ecology
+# RPopE	836	db=GEO	# Researches on Population Ecology
+TCRR.	327149	db=GEO	# Tropical Cyclone Research and Review
+EGeot	201706	db=GEO	# Environmental Geotechnics
+RSL..	130708	db=GEO	# Remote Sensing Letters
+NZEnt	171866	db=GEO	# New Zealand Entomologist
+FSTI.	145545	db=GEO	# Fuel Science and Technology International
+IJGI.	144045	db=GEOPHY	# ISPRS International Journal of Geo-Information
+BiInv	2553	db=GEO	# Biological Invasions
+StGG.	14299	db=GEOPHY	# Studia Geophysica et Geodaetica
+JMEnT	273267	db=GEO	# Journal of Marine Engineering & Technology
+JPNSS	66	db=GEO	# Journal of Plant Nutrition and Soil Science
+FisME	3702	db=GEO	# Fisheries Management and Ecology
+LoEnv	4626	db=GEO	# Local Environment
+InvRD	122248	db=GEO	# Invertebrate Reproduction & Development
+PdPe.	85006	db=GEO	# Palaeobiodiversity and Palaeoenvironments
+EnvBe	12203	db=GEO	# Environment and Behavior
+EnvBi	65288	db=GEO	# Environmental Bioindicators
+EnvHe	9571	db=GEO	# Environmental Health
+IJCCS	82427	db=GEO	# International Journal of Climate Change Strategies and Management
+AqEM.	3669	db=GEO	# Aquaculture Economics & Management
+JEZB.	35118	db=GEO	# Journal of Experimental Zoology Part B: Molecular and Developmental Evolution (JEZ-B)
+BioCo	2786	db=GEO	# BioControl
+BotL.	297423	db=GEO	# Botany Letters
+IJSMR	12601	db=GEO	# International Journal of Surface Mining, Reclamation and Environment
+WetEM	2905	db=GEO	# Wetlands Ecology and Management
+SWRM.	276946	db=GEO	# Sustainable Water Resources Management
+RuMH.	65030	db=GEO	# Russian Meteorology and Hydrology
+LOEL.	298540	db=GEO	# Limnology and Oceanography e-Lectures
+PalZ.	81678	db=GEO	# PalZ
+MEPS.	66756	db=GEOPHY	# Marine Ecology Progress Series
+Holoc	5842	db=GEO	# The Holocene
+AIChE	22677	db=GEO	# AIChE Journal
+GChPL	266693	db=GEOPHY	# Geochemical Perspectives Letters
+EnvPB	326941	db=GEO	# Environmental Pollutants and Bioavailability
+CCPJ.	9977	db=GEO	# Cogeneration and Competitive Power Journal
+EnvPo	25219	db=GEO	# Environmental Politics
+JOrni	218585	db=GEO	# Journal of Ornithology, rev 2025-11-05, mt
+PSyEv	10199	db=GEO	# Plant Systematics and Evolution
+PCEC.	1632	db=GEOPHY	# Physics and Chemistry of the Earth C
+CartJ	16937	db=GEO	# The Cartographic Journal
+FrESC	53347	db=GEO	# Frontiers of Earth Science in China
+FrESE	170985	db=GEO	# Frontiers of Environmental Science & Engineering
+Pasto	131585	db=GEO	# Pastoralism
+ResEc	3534	db=GEO	# Restoration Ecology
+SEGD.	444698	db=GEO	# SEG Discovery
+Xvaaa	442097	db=GEO	# SEGD. set 2, SEG Discovery
+EDIB.	75801	db=GEO	# European Demographic Information Bulletin
+BuGeo	61528	db=GEOPHY	# Bulletin of Geosciences
+JSAE.	459933	db=GEO	# Journal of Sustainable Agriculture and Environment
+JVolS	62748	db=GEO	# Journal of Volcanology and Seismology
+FisSc	3578	db=GEO	# Fisheries Science
+ArbJ.	171665	db=GEO	# Arboricultural Journal
+GChP.	164345	db=GEOPHY	# Geochemical Perspectives
+RuAgS	65021	db=GEO	# Russian Agricultural Sciences
+ECST.	261306	db=GEO	# Emission Control Science and Technology
+JSFA.	163	db=GEO	# Journal of the Science of Food and Agriculture
+JOce.	2953	db=GEO	# Journal of Oceanography
+GloEB	3783	db=GEO	# Global Ecology and Biogeography
+Geohe	82749	db=GEO	# Geoheritage
+AnSEF	297301	db=GEO	# Annales de la Société entomologique de France (N.S.)
+NZJAR	106766	db=GEO	# New Zealand Journal of Agricultural Research
+PChL.	72860	db=GEO	# Phytochemistry Letters
+IJWRD	4567	db=GEO	# International Journal of Water Resources Development
+SUMan	13857	db=GEO	# Soil Use and Management
+RemJ.	338	db=GEO	# Remediation Journal
+JSPal	15439	db=GEO	# Journal of Systematic Palaeontology
+AqInt	3141	db=GEO	# Aquaculture International
+PFJ..	306914	db=GEO	# PFG - Journal of Photogrammetry, Remote Sensing and Geoinformation Science
+AqIns	12759	db=GEO	# Aquatic Insects
+PhGeo	71722	db=GEO	# Physical Geography
+BGeod	35858	db=GEO	# Bulletin Géodésique
+JAuPA	285169	db=GEO	# Journal of the Australian Population Association
+JPcgy	3679	db=GEO	# Journal of Phycology
+BotSt	222666	db=GEO	# Botanical Studies
+IEEEA	190125	db=GEO	# IEEE Access
+WRes.	2648	db=GEO	# Water Resources
+EnvMR	81319	db=GEO	# Environmental Microbiology Reports
+EmuAO	5961	db=GEO	# Emu - Austral Ornithology
+JEaSc	83946	db=GEO	# Journal of Earth Science
+GEE..	177527	db=GEOPHY	# Geomatics and Environmental Engineering
+AqFF.	3616	db=GEO	# Aquaculture, Fish and Fisheries
+EnvAr	56393	db=GEO	# Environmental Archaeology
+AgrJ.	1050	db=GEO	# Agronomy Journal
+MEnvQ	57043	db=GEO	# Management of Environmental Quality
+DGAEJ	111005	db=GEO	# Distributed Generation & Alternative Energy Journal
+BiCon	3016	db=GEO	# Biodiversity and Conservation
+Disas	14024	db=GEO	# Disasters
+OzSE.	25779	db=GEO	# Ozone: Science & Engineering
+NSGeo	316519	db=GEO	# Near Surface Geophysics
+ComSc	466604	db=GEO	# Community Science
+IJSEn	26527	db=GEO	# International Journal of Sustainable Energy
+EMnAs	2756	db=GEO	# Environmental Monitoring and Assessment
+JPEPT	121245	db=GEO	# Journal of Petroleum Exploration and Production Technology
+SusEn	275706	db=GEO	# Sustainable Environment
+GeocI	54285	db=GEO	# Geochemistry International
+SNF..	147189	db=GEO	# Studies on Neotropical Fauna
+JEZ..	162	db=GEO	# Journal of Experimental Zoology
+MarEc	3548	db=GEOPHY	# Marine Ecology
+BioRR	12585	db=GEO	# Biological Rhythm Research
+GFF..	87985	db=GEO	# GFF
+GmGe.	221373	db=GEO	# Geomechanics and Geoengineering
+JGlac	70121	db=GEOPHY	# Journal of Glaciology
+MicEc	1119	db=GEO	# Microbial Ecology
+WatHi	86385	db=GEO	# Water History
+IAPA.	69016	db=GEO	# Impact Assessment and Project Appraisal
+JLaAr	77158	db=GEO	# Journal of Landscape Architecture
+FrEE.	65658	db=GEO	# Frontiers in Ecology and the Environment
+JGSci	50358	db=GEO	# Journal of Geographical Sciences
+SmWat	300627	db=GEO	# Smart Water
+Ostri	65208	db=GEO	# Ostrich
+CDGJ.	86146	db=GEO	# Cogeneration & Distributed Generation Journal
+GeneE	60068	db=GEO	# Genes and Environment
+TrEco	330853	db=GEO	# Tropical Ecology
+JInEc	5731	db=GEO	# Journal of Industrial Ecology
+IntAs	3212	db=GEO	# Integrated Assessment
+ACCR.	108265	db=GEO	# Advances in Climate Change Research
+SwJP.	116065	db=GEO	# Swiss Journal of Palaeontology
+MUBSB	64612	db=GEO	# Moscow University Biological Sciences Bulletin
+NZJMF	102265	db=GEO	# New Zealand Journal of Marine and Freshwater Research
+JSCon	26677	db=GEO	# Journal of Soil Contamination
+EJPhy	6086	db=GEO	# European Journal of Phycology
+AnBio	209605	db=GEO	# Animal Biotelemetry
+CuGeo	5852	db=GEO	# Cultural Geographies
+JSpSc	122025	db=GEO	# Journal of Spatial Science
+AgSFS	197486	db=GEO	# Agroecology and Sustainable Food Systems
+JJAHS	83687	db=GEOPHY	# Journal of Japanese Association of Hydrological Sciences
+JESHC	4821	db=GEO	# Journal of Environmental Science and Health, Part C
+Xwaaa	146905	db=GEO	# JESHC set 2, Journal of Environmental Science and Health. Part C: Environmental Carcinogenesis Reviews
+Xwaab	379991	db=GEO	# JESHC set 3, Journal of Environmental Science and Health. Part C: Environmental Carcinogenesis Reviews
+JESHB	4835	db=GEO	# Journal of Environmental Science and Health, Part B
+JESHA	145326	db=GEO	# Journal of Environmental Science and Health . Part A: Environmental Science and Engineering and Toxicology
+Xxaaa	145999	db=GEO	# JESHA set 2, Journal of Environmental Science and Health . Part A: Environmental Science and Engineering and Toxicology
+Xxaab	4808	db=GEO	# JESHA set 3, Journal of Environmental Science and Health, Part A
+Phyco	63491	db=GEO	# Phycologia
+Rice.	77218	db=GEO	# Rice
+NAJFM	27717	db=GEO	# North American Journal of Fisheries Management
+#
+# AGU, added 2024-10-01 at the request of CSG
+EaFut	233629	db=GEO
+JAMES	85606	db=GEO
+RaSc.	3298	db=GEO
+# Elsevier, added 2024-10-01 at the request of CSG
+ADNDT	511
+AcO..	2154
+AcSpA	1312
+Xyaaa	1770	# AcSpA set 2
+AcSpB	1771
+AcSpe	1764
+AgFM.	1560
+AirSE	2265
+ApPhy	36858
+CAP..	1679
+CJPRE	215605
+CMAME	1237
+CNSNS	7379
+CR2..	27317
+CRASB	2408
+Xzaaa	2409	# CRASB set 2
+CRASE	2061
+CRASG	2231
+CRASM	2060
+XXaaa	27300	# CRASM set 2
+XXaab	49701	# CRASM set 3
+XXaac	52772	# CRASM set 4
+CRASP	2098
+XXbaa	53610	# CRASP set 2
+Xfaab	2302	# CRGeo set 3
+CRMec	2128
+XXcaa	2306	# CRMec set 2
+XXcab	379760	# CRMec set 3
+XXcac	397611	# CRMec set 4
+XXcad	63267	# CRMec set 5
+CRPhy	2428
+XXdaa	379763	# CRPhy set 2
+XXdab	397423	# CRPhy set 3
+CSR..	2064
+ChA..	10718
+ChJAA	53047
+ChJPh	299446
+CosRe	3037
+DRM..	1649
+DSRI.	15537
+XXeaa	16339	# DSRI. set 2
+XXeab	16340	# DSRI. set 3
+XXeac	1682	# DSRI. set 4
+XXead	1997	# DSRI. set 5
+DSRII	1682
+DyAtO	1999
+ECSS.	578
+EJMF.	1695
+EJMS.	2109
+ER...	641
+EaSci	83472
+FlDy.	3024
+IJAEO	9326
+IJMSp	1615
+InPhT	2084
+InfPh	10374
+JAESc	1569
+JAerS	1358
+JAfES	1550
+JArEn	545
+JGP..	1340
+JGeo.	2030
+JLum.	1362
+JMS..	2011
+JMagR	536
+JPCS.	1406
+JPalG	284224
+JRPC.	5216
+JSAES	1884
+JSR..	1800
+JSSCh	523
+JSV..	644
+MSSP.	651
+MarMP	1399
+NDS..	654
+NIMPR	10720
+NewSc	58413
+NucIM	10719
+NucPh	10721
+OEart	372725
+OcMod	1931
+OptEL	61568
+OptFT	659
+OptLE	1437
+OptLT	1435
+OptMa	1252
+PCE..	2316
+XXfaa	2382	# PCE.. set 2
+PQE..	2012
+PhLRv	28498
+PhNan	21598
+PhP..	1067
+Phy..	10397
+PlPhR	5568
+PolRe	60287
+PrAeS	2094
+PrOce	1294
+PrSS.	2052
+QSRv.	1869
+QuInt	1868
+RCD..	4168
+RSEnv	1873
+RaPC.	10401
+XXgaa	1842	# RaPC. set 2
+RadM.	1461
+ResPh	136445
+RpMP.	1874
+RuGG.	63048
+SSEle	1311
+SSSci	1473
+SoEn.	1768
+SuMi.	656
+VA...	2403
+Vacuu	1896
+# Other, added 2024-10-01 at the request of CSG
+GGR	63411
+IJEaS	867
+JEEG	59784
+# Springer, added 2024-10-03 at the request of CSG
+AAM..	21301
+XXhaa	772	# AAM.. set 2
+AAnST	322860
+APhy.	5566
+AcMSn	40718
+AnHP.	1043
+ApCM.	2610
+ApGeo	61447
+Xbaaa	24479	# ApPhA set 2
+Xbaab	54138	# ApPhA set 3
+Xbaac	861	# ApPhA set 4
+Xbaad	862	# ApPhA set 5
+Xcaaa	1020	# ApPhB set 2
+Xcaab	32278	# ApPhB set 3
+Xcaac	39418	# ApPhB set 4
+ArM..	55169
+ArRMA	895
+BLPI.	64607
+BRASP	64617
+BoLMe	3182
+CEAS.	99245
+CEJPh	53939
+CMMPh	54442
+CMT..	943
+CSSE.	53058
+ClDy.	749
+CompM	938
+DokES	54601
+DokPh	5559
+ETWQ.	377	# rev 2025-11-05, mt
+GML..	736
+Ge&Ae	54659
+Grund	14416
+HMT..	966
+HyInt	2808
+HydJ.	884
+IAM..	2728
+IJASS	102146
+IJBm.	833
+IJCEM	40199
+IJEa.	S867
+IJIMW	2542
+IJN..	5667
+IJT..	2538
+IREdu	3020
+XXiaa	3262	#IREdu set 2
+XXiab	49005	#IREdu set 3
+InJPh	87229
+IzAOP	54598
+JAMTP	3142	# trans PMTF -mt, 2025-11-05
+JApSp	3106
+JCAMD	2911
+JConP	64623
+JEMat	60507
+JEP..	35918
+JEPT.	3018
+Xaaaa	5562	# JETP set 2
+JEnMa	3013
+JMEP.	20738
+JMFM.	903
+JMarA	56049
+JMatR	42278
+JOM..	65128
+JPRSG	306914
+JSEdT	3068
+JSTEd	3250
+JSeis	2782
+JTST.	20739
+JTePh	5567
+JThSc	59007
+LMaPh	2826
+LSA..	168785
+LaPhy	54286
+MAP..	1028
+MMTA.	60660
+MTDM.	3152
+Xkaaa	89046	# MatGe set 2
+MinPe	1031
+NRL..	57569
+NW...	923
+OERv.	57567
+OLEB.	45380	# rev 2025-11-05
+OcDyn	14460
+Ocgy.	54728
+Oecol	789
+OptRv	41998
+OptS.	p5570
+PApG.	e1003
+PGEx.	279406
+PMM..	54366
+PPNL.	54364
+PhSS.	5563
+R&QE.	2583
+RJPCB	63901
+RScEd	3184
+RuMet	55892
+RuPhJ	2716
+SCPM.	A57911
+SGC..	54363
+SGeo.	3166
+Sc&Ed	2605
+ScChD	57548
+ShWav	951
+SuERv	325097
+TMP..	2621
+TePhL	5560
+Th&Ae	56428
+ThApC	1029
+ThCFD	1007
+ThEng	54211
+ZaMP.	1113
+XXjaa	906	# ZaMP. set 2
+npCAS	311426
+###############
+# added 2024-12-05
+#	EarthSci Core
+###############
+AcEcS	55741
+AGGH	30346	# rev 2025-11-05, mt
+AcGlP	203907
+AcGeo	54599
+AcGtc	55248
+AcPS	328013
+AdAtS	53801
+AdWR	1949
+AeoRe	85169
+AAQR	86130
+AgWM	1190
+AgEE	1561
+Agron	120525
+AIMAF	298399
+AIMES	252987
+AMalB	81083
+AnPal	2267
+AnCM	60658
+AREES	21596
+AnRER	32501
+ARRE	84745
+AntSc	12677
+Anthr	211908
+AoBP	89926
+AppCB	1198
+ApCS	2159
+ApGS	375493
+AppOR	2048
+AppSE	1528
+ApWS	115805
+Aquac	1530
+AqBot	1205
+AqLR	2200
+AqMam	26019
+AqTox	1532
+ArMiS	204230
+APJAS	96287
+AJPRS	304916
+AtlG	87325
+AtmEX	327165
+AtmPR	94825
+AsJES	277966
+BApEc	29297
+BEcoS	979
+BioSE	1208
+BCons	1211
+BioES	74340
+BMCPB	5942
+BolGM	304112
+BoMar	31377
+BrJBo	173365
+BSGF	66353
+BuMS	118085
+JHyMe	5838
+CJFAS	5598
+CaJFR	5599
+CCST	457970
+Caten	1601
+ChEnJ	1998
+CEJA	392637
+Chmsp	1224
+ChOE	127605
+AcGSn	419899
+CEnvI	362817
+ClTec	313049
+CResC	396014
+CEngT	396016
+CEnvS	402572
+CliRM	234869
+CliSe	298173
+ClCh	2762
+CRST	1229
+ComEE	394881
+ComEc	30355
+CGeot	1673
+CEUS	1246
+CoGG	93125
+CorRe	997
+CrRes	565
+CrPro	1678
+CrypA	2175
+CrGrD	2504
+CryRp	5571
+Cryst	117886
+COESH	311590
+COES	88081
+COIS	246954
+COPB	2272
+CPBio	253284
+CRES	375495
+Dendr	35480
+Desal	1255
+DiSus	395523
+Diver	85626
+EGQSJ	311743
+E&PP	309409
+EaPlS	1652
+EaInt	5833
+EScIn	72786
+ESuD	226850
+ESD	110826
+ESGov	329905
+ESE	306337
+EEEV	59549
+EcHyd	88168
+EcoCm	23899
+EcoEc	1269
+EcEng	1653
+EcInd	1654
+EcInf	52401
+EcMod	1655
+EcBot	57313
+EcoSv	184090
+EcoES	615
+EnEff	70939
+EnPol	1687
+ERSS	241266
+EDevE	6083
+EnInt	1690
+ESES	283752
+EnvEB	1280
+EnREc	2902
+EnvSI	358059
+EnvCE	373256
+EnvDe	161886
+EES	86265
+EEngS	5003
+EIARv	2170
+EIST	122812
+EnMan	1121
+EnvMS	1279
+EPoll	1691
+ERCom	328721
+ERIS	420965
+ERL	59427
+ESPol	2032
+EnvSE	377847
+ESAt	394788
+EnvTI	263488
+EnTox	69
+EnvTP	1692
+Envi	236867
+IJG	296405
+EuJAg	1693
+EJSB	2235
+FCrRe	1715
+Fire	310638
+FSI	541
+FSIR	408800
+FMDFE	50400
+FWebs	253294
+ForEM	1722
+ForPE	1724
+Fore	91546
+FWSci	160745
+FrCli	345137
+FrEnS	231554
+FrMaS	238133
+FrWat	332637
+FrES	130285
+FunE	72865
+Geobi	9323
+ChEG	30437
+Geoch	61167	# rev 2025-11-05, mt
+GeChr	369117
+GeodR	246958
+GeodC	177966
+GeSus	379921
+GInfo	2531
+GCarp	82985
+Geolg	93205
+GmEn	221373
+GGGG	283868
+GeoEE	269928
+GApFD	17288
+GeoFr	111665
+GSL	239606
+GI	183305
+GtRes	234066
+GtGm	1730
+Geoth	2077
+GCBio	3676
+GEcoC	249075
+GEC	24997
+GondR	52399
+GSusD	298177
+H2OJ	319300
+HabI	2078
+HAlga	9325
+HeaPh	21058
+HGSS	100505
+HorPJ	298857
+HumEc	2969
+HRL	71979
+Hydro	247386
+IJSTA	78398
+InGeJ	169465
+InAgr	167727
+IBiBi	1739
+IJNAM	97
+IJPPW	193026
+IJCli	188
+IJCST	253029
+IJDRR	171226
+IJGGE	265066
+IJGGC	63031
+IJMMM	84306
+IJMST	169545
+IJPP	311626
+IJSR	75401
+IRH	398
+ISWCR	269894
+ISMEC	422243
+JPRS	1623
+IUCrJ	226826
+IzPSE	54439
+JAWRA	62847
+JNatC	30564
+JAEE	2684
+JAGeo	66674
+JApMC	54444
+JARS	68716
+JAqPM	550574
+JAESX	327328
+JAtOT	5823
+JCKS	94325
+JCCry	2695
+JCPro	1756
+JCli	5834
+JCBio	55701
+JEChE	207829
+JEEM	574
+JEnvM	599
+JEPsy	606
+JEnvR	1185
+JEnvS	59948
+JEMBE	1370
+JESEE	53434
+JFWM	102285
+JFoEc	31058
+JFory	167467
+JFoR	61367
+JGeoS	117925
+JGE	23257
+JGGE	4116
+JGLR	71320
+JHzM	1342
+JHzMA	457823
+JHzML	395366
+JHyrR	75798
+JHER	68291
+JHyRS	249074
+JHydX	326887
+JHyMe	5836
+JIPB	41958
+JIDE	4105
+JMSE	208565
+JMetR	248326
+JNav	6013
+JOUC	61115
+JOL	313898
+JPall	2908
+JPO	5837
+JPPhy	30960
+JPEnv	2986
+JRP	4944
+JRemS	419974
+JRMGE	100326
+JSedE	298637
+JWSC	78160
+JSMin	290347
+JTerr	2277
+JMSJ	138165
+JWH	57167
+JWPE	244554
+KMAE	76278
+KJRS	197090
+Land	177565
+LUPol	1390
+LaEcE	41818
+LUrbP	2152
+LAJAR	83067
+Limng	50405
+LimOc	95865
+LiCr	4321
+MamRv	3685
+MarPG	2034
+MarCh	1434
+MarER	1816
+MLST	373239
+MarPo	1436
+MarPB	1818
+MarSt	177105
+MHWM	308555
+Mine	111605
+MiEng	1834
+MMExp	324817
+MTech	312667
+MWRv	5839
+NanoI	297537
+NHESS	99673
+NatPl	265854
+NRvEE	376796
+NewFo	2858
+NPGeo	99525
+NWSci	81080
+OCM	1433
+OcEng	1862
+OcSci	99686
+OSJ	83568
+Ocga	133985
+OGeo	261130
+OGRv	1257
+Palae	57130
+Pedob	24098
+Pedos	54634
+PPEES	50406
+PERS	229722
+PMPP	566
+PlCom	374207
+PlDiv	299462
+PlGen	267198
+PlPB	1746
+PlnSc	1747
+PlStr	395808
+Plnts	162325
+PolSc	68299
+PopEn	2522
+PrGA	82341
+PIOS	304613
+PSEP	5880
+PCGCM	2385
+PrDS	343957
+QuGeo	58428
+QSAdv	379131
+REBio	755
+REcoM	40299
+RSMS	267207
+ReSus	397020
+RSASE	289086
+RGG	267040
+RCAR	474563
+REEco	1850
+Resou	171945
+RCRA	424332
+RCR	1304
+REnvS	396307
+RePol	1877
+RPaPa	1464
+RvMic	16877
+Rhizo	301852
+SatNa	378032
+SciRS	378263
+SciDr	51105
+SOIL	265831
+STilR	1471
+SBiBi	1767
+SDEE	1470
+SoFou	116525
+STP	300860
+SolE	99682
+SolES	296046
+SpaSt	174747
+Sust	82765
+SusCP	295208
+SusPC	284231
+TAOS	66396
+ANat	4871
+ARegS	1078
+TCry	99677
+EgJAR	193050
+EJRSS	115185
+ExIS	236766
+ThLic	633
+SWNat	44560
+TPBio	663
+TxEHS	128566
+Toxic	210945
+TranG	238711
+TrIG	236975
+TRPD	1485
+TFP	390497
+TEcoE	2119
+TEAC	238747
+TPS	1959
+UrbCl	184097
+UFUG	30964
+UrbSc	300356
+UtPol	1963
+WBioV	94805
+WaMan	1964
+WBSec	460183
+WaPol	1902
+WatRe	1506
+WRX	325410
+WRE	207806
+WRI	211909
+WSEng	266332
+Wthr	52661
+WCD	377608
+WCE	225345
+WtFor	5835
+WCS	88985
+WNAN	71480
+#######################
+# Additions: 2025-06-12
+#######################
+A&AT	17979
+AABS	1521
+AAMI	79960
+AASP	302440
+AASRP	184094
+ABiCh	1106
+ABio	372744
+ABioC	326211
+ABioT	57148
+AcAau	1555
+AcAC	1192
+AcAcu	377992
+AcACX	327327
+AcAdr	326332
+AcAgr	196705
+AcAri	80022
+AcAT	457318
+AcAuS	64928
+AcBBr	30364
+AcBC	249036
+AcBCB	117226
+AcBCr	375077
+AcBG	183126
+AcBH	30343
+AcBMx	304252
+AcBN	231726
+AcCar	199005
+AcChi	62910
+AcElS	392094
+ACESJ	397177
+ACGIS	359737
+AcGSG	81059
+AcGSl	316861	# rev 2025-11-05, mt
+AcHH	154
+AcM&M	15997
+AcMa	56127
+AcMaS	970
+AcMec	21793
+AcMeS	121785
+AcMet	15996
+AcMik	74058
+AcMSl	392164
+AcMSS	220407
+AcMSw	56127
+AcMT	373287
+AcNum	6341
+AcOc	2087
+AcOpS	76459
+AcOpt	146245
+AcOrn	77018
+AcPaP	85326
+AcPar	56447
+ACPD	99445
+AcPhS	3568
+AcPhy	5566
+AcPol	232266
+AcPPA	204086
+AcPPB	118326
+AcPPl	59953
+AcPPP	265316
+AcPPS	125225
+AcPSi	96045
+AcPSl	115685
+AcPSn	397437
+AcqS	242507
+AcRhe	1056
+ACSAE	311018
+ACSAN	311056
+AcSBP	135785
+ACSC	40618
+ACSCa	117085
+ACSCS	270866
+ACSEA	421541
+ACSEE	395411
+ACSEL	299298
+ACSEW	394754
+ACSJ	40618
+AcSN	298941
+ACSNa	63867
+ACSOm	300900
+ACSPM	326799
+ACSSB	147186
+ACSSe	295387
+AcTC	1016
+AcTh	86585
+AcTro	1556
+AcUnC	199526
+AcUni	249567
+AdAau	779725
+AdAdy	328534
+AdAE	403779
+AdAer	328534
+Adan	118805
+AdAp	304485
+AdApC	34858
+AdApM	622
+AdAst	74084
+AdBS	468899
+AdCIS	1188
+AdCM	296834
+AdCMa	3115
+AdCMP	77258
+AdCoL	327882
+AdCoM	3115
+AdDI	423466
+AddM	249076
+AddML	428337
+AdEl	176085
+AdG	99387
+AdGER	310315
+AdHEP	69896
+AdLim	247007
+AdMaP	79380
+AdMet	82965
+AdMI	230447
+AdMPC	139748
+AdMS	78219
+AdMSE	77758
+AdNOp	72983
+AdOP	81720
+AdOT	167666
+AdPhN	468726
+AdPho	328504
+AdPhX	298551
+AdPhy	4269
+AdRS	99666
+AdSEM	465838
+AdSR	99667
+AdTAM	211194
+AdTMP	225753
+AdvAg	247886
+AdvEI	2470
+AdvEM	406
+AdvER	2039
+AdvFM	336
+AdvGG	519783
+AdvMR	218825
+AdvOM	201185
+AdvSc	262827
+AdvWE	568669
+AdvWS	422231
+AEdJ	463524
+AEdRv	81224
+AeJ	297864
+AeMed	625896
+AeMiS	326982
+AEnvR	2039
+AeQ	301046
+AEREJ	246992
+Aeros	232327
+AerR	550158
+AeST	1189
+AeTJa	135760
+AfJAR	153325
+AfJWR	283588
+AFST	1515
+Afz	465743
+AgFE	3557
+AgMet	16836
+Agrch	393002
+Agric	146425
+Agro	15816
+AgrSc	304901
+AgSys	1950
+AguaT	293026
+AGVir	41558
+AHEEM	204241
+AHES	753
+AHSJ	80959
+AIAAJ	56671
+AICSP	2655
+AIES	469877
+AIHAJ	67675
+AIHPB	2274
+AIMSM	298383
+AJCh	5952
+AJEAS	514963
+AJPRI	22944
+AJSE	118986
+AJSEd	120465
+AJTMH	89745
+AJWEP	284947
+AkZh	204926
+Algae	95308
+AlgRe	163907
+AlgSt	84585
+AmAnt	55379
+AmCar	239146
+AMCE	557859
+Amegh	139925
+AmFJ	55683
+AMGBK	52699
+AMGBS	52387
+AmJAA	266604
+AmJB	55383
+AmJC	1334
+AmJCC	175485
+AmJM	45530
+AmJPh	4148
+AmJPr	296
+AmJVR	52659
+AMM	82485
+AMP	499903
+AMPE	71429
+AmPsy	3365
+AmRep	5787
+AMTD	99688
+AMTM	300309
+Ana	3456
+AnaCh	2499
+Anaer	678
+AnAgS	298722
+AnApS	67877
+AnBeh	613
+AnBot	617
+AndGe	87463
+AnFD	2291
+AnGen	3718
+AnGp	313160
+Anim	61185
+Anima	110246
+AnMat	55389
+AnMP	118105
+AnnBF	189928
+AnNuE	1520
+AnPh	17297
+AnRE	16162
+AnRES	5705
+AnRFM	5694
+AnRPB	5722
+AnRSA	225686
+AnRvP	5712
+AnSci	4304
+AnSGP	284036
+ANSNN	100005
+AnSSM	84505
+AnTel	71678
+Anten	459954
+ApAc	1958
+APCAJ	169508
+APCRS	422682
+ApEA	224246
+ApECS	391962
+ApEER	252107
+Apei	124445
+ApEn	1523
+ApEnM	5542
+ApESS	79978
+ApHer	17817
+APHHI	51930
+APHQE	51932
+APJEL	2580
+APLM	218216
+APLP	299347
+ApMaC	1201
+ApMaL	1200
+ApMaM	9342
+ApMaO	1060
+ApMat	3241
+ApMb	421065
+ApMRv	5524
+ApNan	124286
+ApNM	1202
+AppAn	17283
+AppCA	1197
+AppGe	1527
+ApPhR	130685
+AppMM	1199
+ApPNM	54400
+ApPPL	32278
+AppPS	206945
+AppRh	330280
+AppRI	1203
+ApPRv	235698
+APPSB	420405
+AppTE	1971
+ApSAP	72961
+ApSci	137046
+ApScR	3261
+ApSE	66393
+ApSpe	20397
+ApSRv	11116
+ApSup	2293
+AqB	66757
+AqEI	95989
+AqEng	1529
+AqFis	303700
+AqInv	68795
+AqME	66758
+AqPro	225350
+AqRep	265274
+AqRes	3570
+AqSE	312853
+ARAC	74901
+ArAco	108225
+ArBB	492
+ARBl	328100
+ArBuM	109325
+ArcEP	175885
+Archa	13560
+ArcNH	74589
+ArcP	143145
+ArcSc	285488
+ArcTS	145525
+ArcV	804
+Ardea	118807
+ArEle	111065
+AREnt	5708
+ARER	32501
+ArHyd	16437
+ARIST	39298
+ARLS	308506
+ArMol	82668
+ArnMJ	263554
+ArTh	116505
+ArTox	715
+ArTr	122545
+ArtSa	74979
+ArtSD	1535
+ASAJ	4150
+ASCE	187345
+ASCMO	267591
+AsJPh	463168
+ASL	145591
+ASPFC	257587
+ASRA	298405
+Aster	102785
+AstPo	26839
+AstQ	40578
+ASTRP	249506
+AstRv	271507
+AstSR	357077
+AstTI	555683
+ATJDS	5525
+ATJEG	89427
+ATJEl	5506
+ATJEM	5505
+ATJFE	5512
+ATJHT	5514
+ATJLT	91486
+ATJSE	5518
+ATJTr	5523
+ATJTu	5510
+ATJVA	5511
+Atm	325237
+AtmCS	124406
+AtmEB	16338
+AtmK	221569
+Atoms	195326
+AtOO	83285
+ATSAS	300054
+AtSpe	392442
+ATTTJ	223347
+AUGGM	88183
+AuJB	5958
+AuJPh	59093
+Auk	57288
+AuMSJ	82300
+AuRob	2623
+AUSPh	163545
+AusPh	163545
+AuSRA	59093
+AuSyB	5962
+Autom	1539
+AUTRJ	199526
+AvBR	86426
+AvCE	134325
+AVest	205935
+AVISS	205935
+AvPat	4276
+AvSeM	73898
+AVSQS	375332
+AvTel	2745
+AWIES	543895
+AzAJ	550763
+AZh	212146
+AZooF	189927
+Balti	235112
+BAMS	5838
+BanJB	79159
+BASE	457463
+BayAn	73778
+BB	74279
+BBAcB	2164
+BBAcG	1980
+BBB	462593
+BBioM	66683
+BBRC	491
+BCB	5600
+BCos	459874
+BDBG	66814
+BeEco	5065
+BeeW	273226
+Behav	5774
+BehBi	33978
+BehPr	1206
+BeiMP	39458
+BePl	66455
+BEPRI	75780
+BERQ	299113
+BGD	99678
+BGlaR	114725
+BGPGS	204235
+BGSys	365718
+BiBi	55156
+BiDir	53861
+BiDiv	306002
+BiEnv	572925
+BiEss	173
+BiLet	29518
+BioBi	1213
+Bioc	2484
+BioCB	120505
+BiocG	2743
+BioEJ	1544
+Bioel	1565
+BioFa	83385
+Biogt	542763
+Bioin	476243
+BioIR	169485
+Biol	143465
+BiolB	60999
+BiolC	627
+BioMa	54338
+Biome	33580
+BiomJ	152
+Biomm	2502
+BioMR	47678
+Bion	423337
+Biopk	238127
+BioPl	2753
+BioPP	219125
+BioPr	2501
+BioRv	16896
+BioSM	572926
+BiotB	16
+BiotJ	52419
+BiPro	301237
+BirBa	113647
+BirCI	6074
+BirdC	6074
+BiRep	32419
+BiSci	55680
+BiSyE	702
+BiSys	1596
+BIT	4333
+BiTec	1590
+BiTeR	312694
+BJAP	10896
+BJHS	6104
+BJLS	501
+BJPT	75959
+BlBio	604692
+BlJPS	464551
+Blume	89985
+BmBe	1572
+BMCB	21656
+BMCBi	5907
+BMCBt	5908
+BMCEB	5910
+BMCES	572225
+BMCG	5911
+BMCGe	5890
+BMCL	1576
+BMCM	21396
+BMCMb	5897
+BMCN	5896
+BMCO	126725
+BMCP	5906
+BMCRN	76986
+BMCVR	49838
+BMCZ	301735
+BMJGH	299130
+BMRE	296299
+BNBio	33338
+BoCG	142527
+BoCT	255866
+BodPf	105126
+BoGeo	296805
+Bone	2044
+BoneR	266339
+BoPC	265148
+BoSer	335777
+BotAc	239306
+Botan	5607
+Botha	239806
+BotHe	48138
+BotSc	267016
+BPEE	284049
+BpES	394964
+BpRL	53223
+Bradl	311997
+BrCTr	34858
+BrJG	214845
+BrJHS	6104
+BrJPh	45139
+BrSci	6410
+Bryol	55679
+BSEnv	198
+BSRSL	463068
+BSTJ	223286
+BTER	21077
+BuEnv	1599
+CAD	1642
+CaFN	304717
+CaGJ	5606
+CAgrS	423479
+CahAg	298543
+CaJAS	91325
+CaJB	71519
+CaJCE	5609
+CaJCh	5608
+CaJMb	5601
+CaJPS	5602
+CaJSS	95025
+CaJZ	5604
+Cald	249071
+Cando	265748
+CANM	50162
+CarbL	140205
+Carbo	1582
+CarbT	397220
+CaRes	51099
+CarGe	108325
+CarJS	297072
+CarNe	466703
+CarRC	314592
+CartP	248746
+Casta	44540
+CaSur	371137
+CatT	1586
+CBEnv	510943
+CBI	1222
+CBio	1991
+CBMat	2232
+CBTA	240511
+CCBio	463125
+CCEco	421153
+CCEng	463152
+CConB	60659
+CCoPh	85005
+CEAAJ	131185
+CEAgr	1672
+CEE	2245
+CEEJ	234686
+CEEng	247985
+CEER	299552
+CEG	3470
+CEHR	235746
+CEJE	110785
+Cell	2421
+CellR	161888
+Cent	20336
+CEPPI	67994
+CERD	5879
+CESW	3036
+CESys	464899
+CF	1242
+CGDAM	5029
+CGIGS	35198
+CGIP	40399
+CGUWL	42943
+Chall	94746
+ChBCh	323
+ChBir	97185
+ChCom	3457
+ChECh	220365
+Chem	300407
+ChemE	305204
+ChemI	235886
+ChEnC	17961
+ChEnN	65736
+ChEnS	1220
+ChEuJ	179
+ChGCS	2335
+ChIEJ	124505
+ChJA	65702
+ChJAS	53051
+ChJCP	65608
+ChJG	217045
+ChJGc	61167
+ChJME	77104
+ChJS	234446
+ChJSS	419937
+ChMat	2510
+Chmec	1073
+ChOpL	75085
+ChPap	57913
+ChPhM	459122
+ChPhy	4935
+ChRv	2508
+ChSBu	14936
+ChTxt	264279
+CIJES	423603
+CIJGI	63889
+CiMar	182365
+CIMS	739525
+CitEn	298639
+CJChE	73040
+CJECE	46919
+CJEES	308584
+CJEL	308295
+CJLCD	126887
+CJPlS	91326
+CJRes	76001
+CJSMT	85369
+CKH	152386
+Cladi	498
+ClChE	100571
+ClEne	311144
+Clime	295846
+ClimL	254174
+CliPD	99672
+ClMat	451057
+ClRes	66760
+CLS	265108
+CLSC	455278
+ClWS	464386
+CmBio	312177
+CmChe	313258
+CmEng	467676
+CmGeo	3001
+CmpA	1235
+CmpB	1976
+CmpEn	76519
+CMPh	126426
+CmPhy	312918
+Cmplx	42
+CmpMa	76518
+CmpMd	314511
+CmpMS	298545
+CmpPS	57546
+CmpSt	1233
+CmST	1636
+CmTox	301859
+CMwA	1984
+CNatC	3063
+CNME	50162
+CoasE	2163
+CoBAO	422919
+COBt	2259
+COCB	1992
+COCE	141985
+CoFl	1667
+CogES	275706
+CogPh	263786
+COGSC	301851
+ColSu	1666
+ComAC	254466
+CoMat	3033
+COMb	1993
+ComCy	98206
+ComIn	5777
+ComPh	4139
+CompJ	45918
+Compo	15998
+Compr	5375
+Compu	956
+ComSE	16869
+ComST	1636
+CondM	298393
+Condo	57328
+ConEc	303321
+CoNet	225752
+ConPs	208365
+Cons	420816
+ConSc	4458
+CoOpt	296466
+COP	202726
+Copei	55681
+CoPhR	10373
+CoPP	400
+CorES	2233
+CorrC	431273
+Corro	1247
+Cosmo	44338
+CoSoc	87386
+COSSM	1680
+CoStr	1244
+COTox	302302
+CPAM	18
+CPE	3147
+CPh	202726
+CPhy	67519
+CPI	403778
+CPM	238135
+CPP	818
+CPPM	4951
+CPrL	458576
+CRAS	297262
+CrBry	2336
+CrDes	466473
+CrEaS	434837
+CrEng	2270
+CrEnv	466039
+CRESP	397021
+CRGSC	390893
+CRIS	397219
+CRMat	2305
+CropJ	222627
+CRPS	376911
+CRSSM	26998
+CRTox	379687
+Crust	5792
+CRvTx	26459
+Cryo	1248
+Cryob	682
+CS&D	79860
+CSBS	309901
+CSCEE	375494
+CSci	293286
+CSE	5422
+CSEd	12620
+CSEnv	307714
+CSF	1589
+CSFX	327153
+CSHPB	86965
+CSREM	10877
+CSRER	235789
+CSRev	3467
+CSSP	6153
+CST	17836
+CSTM	4867
+CSysC	327193
+CTBio	392436
+CTFO	3029
+CTGeo	242928
+CTM	4930
+CuaIG	283707
+CuatG	284728
+CuZoo	298288
+CVGIP	40479
+CzJPh	2954
+CzJPS	2954
+CzMJ	3214
+CzPR	213426
+DAna	20676
+DAOrg	66759
+DatSI	546507
+DatSJ	53318
+DCImm	1646
+Defek	325979
+DesMA	250009
+Detri	315733
+DGEvo	716
+DiAtm	555639
+DIB	253287
+DiCit	558662
+DiCon	560502
+DiEne	424002
+DiGeo	554341
+DiLif	561002
+DiMat	402545
+DiMin	625384
+DiNan	541883
+DiOce	557449
+DisAS	558705
+DISER	376450
+DiSpa	593065
+Displ	1650
+DiTox	568888
+DiWat	419625
+Dlib	12681
+DokAN	205551
+DREng	559638
+Drone	304558
+DSCS	297115
+DSE	4940
+DSJ	234809
+DSP	681
+DSR	1682
+DSRA	16340
+DSRB	16837
+DSROA	15636
+DSysA	464854	# rev 2025-11-05, mt
+DWES	99669
+DynCo	3237
+DZGar	72858
+E&C	303936
+E&E	396750
+EAEF	238707
+EaRA	440679
+EarSt	221372
+EartD	99694
+EBPTB	309542
+EcApl	300982
+EcEnX	331740
+ECESC	151785
+EChem	29117
+ECM	1685
+ECMS	35178
+ECMX	327329
+EcoEH	465839
+EcoGG	296481
+EcoH	24698
+EcoHS	269866
+Ecolo	393668
+EcoQ	88169
+EcoRe	69916
+EcosH	3624
+Ecosi	198086
+ECSAd	463085
+EcSoc	135045
+ECSSP	464736
+EDCC	306805
+EEEP	156086
+EEMJ	315587
+EEnv	55788
+EEnvG	204188
+EESci	624947
+EET	262186
+EFMat	467737
+EFSAP	300372
+EgJB	304174
+EgJSS	301458
+EgyJP	153267
+EHEM	302443
+EHumB	2141
+EIDis	78319
+EJASP	217745
+EJCM	378182
+EJEE	4570
+EJES	265113
+EJFSE	317444
+EJPh	4923
+EJPMA	86088
+EJSD	221606
+EJSE	308678
+EJSM	51119
+EJSta	64256
+EJTax	148585
+ElecJ	1476
+Elecm	4355
+EleSt	326534
+eLife	189365
+eLigh	428637
+ElL	3817
+ElMod	315148
+ElP	101846
+EmCon	286126
+EMF	391704
+EML	84725
+EnBEn	373855
+EnC	18156
+EnCh	358054
+EnDNA	331577
+Endvr	2313
+Ene	1276
+EneAI	380083
+EneBu	1871
+EneEc	1686
+EnEnR	95305
+EnEnS	75779
+EnEpi	309731
+EnEPS	102405
+Energ	74595
+EnerJ	122451
+EnerS	4314
+EneSM	284233
+EneSR	152925
+EnEth	188626
+ENews	816
+EnFM	1872
+EngAn	14716
+EngCo	5263
+Engin	261946
+EngSt	1278
+EnHis	64254
+EnInf	316675
+EnMAd	393960
+ENMM	241286
+EnNex	457635
+EnOp	17763
+EnPro	83867
+EnRep	266310
+EnRev	468898
+EnSci	310554
+EnSTW	394754
+EnSys	91947
+EntIS	63633
+EntRv	54928
+EnvAd	392453
+EnvCh	402551
+EnvEn	59968
+EnvER	4209
+EnvH	70199
+EnvHP	9936
+EnvJ	79559
+EnvPE	379803
+EnvPG	81422
+EnvPL	42799
+EnvPM	561006
+EnvRv	5611
+EnvSN	230528
+EnvSP	392006
+EnvV	64255
+EOS	3301
+Episo	296405
+EPJAM	247938
+EPJAP	15978
+EPJAS	889
+EPJCS	1035
+EPJDS	174325
+EPJE	54100
+EPJH	99246
+EPJNS	298144
+EPJPv	110805
+EPJQT	239305
+EPJTI	244986
+EPJWC	83485
+EPolA	17641
+EPolB	17643
+EPSR	1661
+ERCli	463086
+Erdk	63035
+EREco	467396
+EREne	553592
+ERExp	363957
+ERFS	557610
+ERH	466313
+ESAdv	457444
+ESAmb	53248
+ESAR	131407
+eSci	457429
+ESDD	218265
+ESEE	465088
+ESF	68296
+EsJES	70959
+ESPI	193105
+ESRes	66761
+ESRJ	265236
+ESSDD	99692
+ESSFR	137205
+ESSS	458723
+EstGM	78721
+ESuDD	218265
+ESusD	79842
+ESusS	153285
+ESWRT	261567
+ETFS	2068
+ETLS	304226
+EToxP	50399
+EuJMA	2109
+EuJMB	1695
+Euphy	3080
+EurM	297738
+EURPE	302238
+EurPJ	1136
+EurPS	4192
+EuRv	384
+Evans	118808
+EvDev	46598
+EvEar	546249
+Evolu	55414
+ExFl	1001
+ExHT	4259
+ExM	15117
+ExMat	726105
+ExML	263497
+ExpAA	2544
+ExpPa	573
+ExT	54622
+Extmo	866
+F&I	10201
+F&IER	10201
+Facet	299232
+FaDi	3459
+FASEJ	5109
+FaSys	543343
+FaTr	3473
+FBGP	242706
+FCray	156625
+FCS	330608
+FEBSL	1140
+FEMML	1320
+FEMMR	1712
+Fer	17838
+FerLS	17964
+FFEMS	59767
+FGCS	2009
+FiIO	4347
+FirSJ	1143
+Fishe	295639
+FishR	1717
+Fiz	379437
+FizAO	205559
+FizAS	316315
+FizGV	285306
+FizKO	314286
+FizMM	205847
+FizPl	5568
+FizTT	395966
+FloMI	2110
+Flora	50400
+FlPEq	1718
+FMEC	53824
+FML	76841
+FNCN	10220
+FNL	5632
+FoCen	3818
+FoodC	2005
+FoOec	309501
+FoPat	3737
+ForPh	21
+ForR	422223
+Fotte	277706
+FPEle	295931
+FPhCh	422167
+FPP	471496
+Fract	5658
+FrAE	468217
+FrAgr	377109
+FrAP	487203
+FrAq	504883
+FRBM	1330
+FrBS	474044
+FrCar	476844
+FrCS	396066
+FrDST	552811
+FrEC	384298
+FrEEc	468670
+FrEEf	544125
+FrEEn	496285
+FrEEv	233907
+FrEH	510263
+FrEne	130286
+Freq	123525
+FrER	225669
+FrEth	498223
+FrFS	556969
+FrFue	530843
+FrFwS	545712
+FrGc	516363
+FrIS	422752
+FrME	130725
+FrMic	108145
+FrMS	133245
+FrOS	553586
+FrPH	207347
+FrPhC	53826
+FrPro	554688
+FrPS	119245
+FrRAI	247229
+FrSC	344880
+FrSci	536163
+FrSEP	493543
+FrSFS	309887
+FrSG	476964
+FrSP	424060
+FrSRM	468966
+FrSS	422654
+FrST	392213
+FrSus	391501
+FrZoo	31857
+FSIAE	407178
+FST	4825
+FTC	2569
+Fuel	1145
+FunAL	63007
+FunB	92245
+FunBR	65243
+FunI	557742
+FunPB	5953
+FunRe	419893
+FuPrT	1331
+FusED	2178
+FuST	232820
+Fut	1725
+FuTec	309130
+GAnCh	464655
+GayBo	87512
+GBEv	84425
+GCart	302969
+GCEnd	563
+GCRes	295297
+GeA	205549
+GeAer	313331
+GeAnn	200545
+GECA	551869
+GefIs	378607
+GeGe	14299
+GEIT	467078
+GeKar	302969
+GemG	134226
+Genes	90925
+Genet	30237
+Genom	5605
+Geoam	100139
+GeoCm	316026
+GeodT	149025
+Geodv	118810
+Geody	311143
+Geoen	513106
+GeoEx	16839
+GeoFD	147185
+GeoGl	558752
+GeogT	298961
+GeohM	491683
+GeoJ	105045
+GeoJo	2813
+Geokh	206325
+GeolA	329890
+GeolB	298416
+GeolC	117425
+Geolo	119485
+GeolQ	176772
+Geoma	311368
+Geomc	129125
+GeoRJ	241446
+GeosC	219745
+GeoSJ	44798
+GeosR	299231
+Geotk	205550
+GeoZh	305619
+GEPSS	245766
+GeSE	496623
+Gfz	243066
+GGEnv	378283
+GGExp	186955
+GID	183306
+GIPol	162685
+GiSan	285567
+GlEnI	327148
+GlEnv	296568
+GlFS	184100
+GloT	330515
+GloTP	391059
+GMCFB	171965
+GMDD	99698
+GNest	315699
+GovIQ	2249
+GrCar	550745
+GrCE	396015
+GRCEv	2625
+GrEE	299459
+GRICT	305545
+GRLuf	416597
+GRPE	78781
+GrSC	394327
+GrTS	479963
+GRvCV	279307
+GScap	249569
+GSE	498043
+GSEng	167725
+GsGe	459204
+GSLEG	65090
+GSLMm	65092
+GSME	560277
+GSMMR	249355
+GSR	353517
+GTES	230806
+GTRS	463300
+GtTJ	27458
+GyNav	95567
+Hacq	74982
+Hasel	60872
+HEDP	51499
+Heliy	295386
+HePla	2016
+Hered	3435
+Herz	235767
+HESSD	99671
+HFC	300761
+Hidro	325053
+HisSc	242531
+HJHTM	233967
+HM	50018
+Hort	266290
+HPLSE	212429
+HRAuS	9257
+HSSus	759225
+HTemp	3031
+HTHP	4162
+HTJR	362
+HTMP	125125
+HTrEn	4249
+HuGBu	242286
+HumER	308137
+HW	124886
+HWHM	124885
+HWM	46158
+Hydbi	431459
+HydMe	1620
+HydR	57389
+HydRe	330514
+IANSA	306613
+IAPM	5390
+IAUS	299139
+IAWPL	13956
+IBCP	4250
+IBMB	1737
+ICGA	5367
+ICHMT	1159
+ICiSM	5452
+IComM	5371
+ICSE	580
+ICSM	5366
+IDAQP	2460
+Idoj	313996
+IDTC	29983
+IEDL	5356
+IEEEP	5335
+IEITC	39518
+IEITE	39519
+IEITF	39520
+IEITI	39521
+IEREJ	101847
+IERIP	184095
+IESJ	399098
+IET	3022
+IETE	82705
+IExp	5385
+IISys	104585
+IJA	198806
+IJAA	132965
+IJACS	266
+IJAdA	1518
+IJAE	68877
+IJAgr	75152
+IJAIT	325072
+IJAM	83346
+IJAME	212605
+IJAP	22439
+IJART	243048
+IJASE	181265
+IJBB	52701
+IJBC	2441
+IJC	4274
+IJCA	100427
+IJCAT	35558
+IJCFD	6234
+IJCI	38542
+IJCMB	17761
+IJCMS	176507
+IJCom	296287
+IJDM	5227
+IJDRB	95645
+IJE	4246
+IJEEE	170545
+IJEEP	53028
+IJEH	61198
+IJEP	35560
+IJEPE	2019
+IJEPT	37479
+IJERA	261926
+IJERP	76181
+IJES	1741
+IJESD	37478
+IJESS	273466
+IJEST	129425
+IJETM	36301
+IJEWM	59267
+IJExe	38545
+IJExM	329972
+IJFa	2086
+IJFr	2822
+IJGEI	35561
+IJGEn	36302
+IJGeo	84926
+IJGEq	98667
+IJGGS	298800
+IJGin	427857
+IJGm	102565
+IJGmc	17096
+IJGMM	24461
+IJGMS	470528
+IJGmt	300413
+IJGNP	88206
+IJGPB	205669
+IJGS	6233
+IJGW	86945
+IJHE	1609
+IJHEH	50407
+IJHFF	1352
+IJHGg	9596
+IJHMT	1353
+IJHST	150185
+IJIE	1610
+IJISD	58590
+IJIST	238
+IJLim	81061
+IJMCE	550649
+IJME	225351
+IJMES	4284
+IJMF	1618
+IJMIP	1723
+IJMMD	29738
+IJMME	78360
+IJMoS	50545
+IJMP	1617
+IJMQE	99967
+IJMR	65908
+IJMS	1616
+IJMSc	74958
+IJMSE	52258
+IJMSI	1760
+IJMW	59090
+IJNA	33789
+IJNAO	91066
+IJNES	38555
+IJNLM	2020
+IJNME	153
+IJNMF	94
+IJNPR	469617
+IJNS	2065
+IJNT	38557
+IJO	65293
+IJOce	86667
+IJOGC	71860
+IJOO	379135
+IJOpt	82199
+IJP	1546
+IJPal	126128
+IJPAM	98108
+IJPAP	469621
+IJPHM	422205
+IJPlS	4892
+IJPri	2767
+IJQC	23
+IJQE	5358
+IJQI	15416
+IJRA	5381
+IJRAI	10388
+IJRFI	300740
+IJRMA	1132
+IJRPC	10375
+IJRR	15237
+IJSAC	5364
+IJSBE	184087
+IJSC	256
+IJScA	304884
+IJSD	35579
+IJSDE	14322
+IJSDP	57568
+IJSEd	4290
+IJSEM	6357
+IJSMD	70759
+IJSME	20696
+IJSNM	96657
+IJSpe	121505
+IJSS	1167
+IJSSC	5350
+IJSSE	201025
+IJSTQ	5411
+IJSuS	78098
+IJTf	375498
+IJTFM	25100
+IJTIA	25140
+IJTIS	31199
+IJTJE	128945
+IJTK	469981
+IJTPE	25141
+IJTS	1270
+IJTSM	25099
+IJUSc	140625
+IJWat	35584
+IJWF	5950
+IMeRv	186445
+IMGWL	5432
+IMMag	5428
+ImMun	26525
+IMTS	553144
+Inact	558638
+INAEL	299544
+INASR	419703
+InBEn	14843
+InCh	2486
+IndHe	54788
+InfCo	35999
+InfD	327670
+InFer	17957
+InfGE	2289
+InFiZ	3018
+Infra	296517
+InISA	555520
+InISJ	305622
+InJP	87229
+InJPP	211065
+InMat	1014
+InnGD	476205
+Innov	391341
+Instr	301921
+IntGe	661365
+Intme	1738
+InvBi	50385
+InvPr	4932
+InzMi	313029
+IOPSN	391652
+IPAgr	216135
+IPETS	264086
+IPM	2180
+IPSM	72358
+IPTL	5389
+IRAL	285906
+IRETE	76722
+IRPC	4348
+ISBot	309823
+iSci	313201
+ISenJ	5454
+ISilP	335857
+ISIS	10957
+Isis	10957
+IsJCh	10637
+IsJEE	79098
+ISPAn	184767
+ISPAr	144266
+ISPL	5395
+ISPM	5436
+ISRAA	128826
+ISRv	10878
+IST	537883
+ISTSP	65529
+IStuQ	14107
+IStuR	14176
+ISysJ	66600
+ITAC	5362
+ITAer	76727
+ITAES	5360
+ITANE	73309
+ITAP	5361
+ITAS	5435
+ITASS	5363
+ITB	5369
+ITBE	5339
+ITCAD	5343
+ITCHM	5331
+ITCmp	5340
+ITCom	5330
+ITCS	5376
+ITED	5328
+ITEdu	5382
+ITEI	5326
+ITEIS	25142
+ITElC	5327
+ITEM	5359
+ITEnC	5349
+ITIA	5351
+ITIE	5342
+ITIEC	64558
+ITIM	5365
+ITIP	5440
+ITIT	5329
+ITJSE	305622
+ITM	5336
+ITME	76725
+ITMTT	5338
+ITNan	10779
+ITNN	5431
+ITNS	5370
+ITPAM	5346
+ITPAS	62589
+ITPE	5353
+ITPHP	26580
+ITPS	5344
+ITPSy	5400
+ITR	5345
+ITRA	5429
+ITRFI	180710
+ITSET	76726
+ITSMC	5337
+ITSP	5391
+ITSU	76645
+ITTST	128265
+ITUFF	5374
+ITVT	5383
+IUCrD	296939
+IVCDB	61196
+IzMat	4169
+IzMZG	305225
+J3EA	56028
+JAAP	1171
+JAAS	3477
+JABES	55685
+JAChS	2495
+JAdD	124305
+JAdR	95523
+JAEH	11296
+JAerE	4124
+JAES	273886
+JAESE	296738
+JAFC	2506
+JAGI	153465
+JAgM	53378
+JAHH	516923
+JAI	178465
+JaIMJ	51738
+JAir	56672
+JAirT	298596
+JAIS	222485
+JAllC	1170
+JAM	5513
+JAMAO	197025
+JAMCA	61181
+JAMDS	61312
+JAMOP	85547
+JAMS	5026
+JAMT	2699
+JANAS	46038
+JAniS	57871
+JANPR	6228
+JAnSc	183505
+JAOAC	151345
+JApAS	64253
+JApEl	3122
+JApES	300513
+JAPh	22946
+JAPhA	298110
+JApMa	33709
+JApMb	3500
+JApMM	1568
+JApMw	72578
+JApPs	3371
+JAPS	5
+JApSc	80538
+JARMA	241246
+JAS	6060
+JASA	5876
+JAsBO	234754
+JASIS	329
+JASMS	1806
+JAsPE	75403
+JASS	110325
+JATIS	260266
+JATP	2359
+JAvBi	7340
+JAVMA	52660
+JAvMS	57534
+JAvSS	457843
+JBact	5544
+JBAZ	308974
+JBerR	283972
+JBH	312217
+JBiBi	392235
+JBiCh	4173
+JBiom	1359
+JBiop	75154
+JBioR	15258
+JBIS	544407
+JBR	66595
+JBRIT	393971
+JBSD	170945
+JBTC	258786
+JCAM	124225
+JCBC	397252
+JCBS	180629
+JCCH	404017
+JCED	2509
+JChA	1750
+JChEd	92585
+JChS	157486
+JChTh	570
+JClCh	293126
+JClim	130385
+JClP	17496
+JClR	228467
+JCM	84925
+JCMb	5545
+JCMD	2978
+JCmPA	729
+JCmPB	732
+JCmpE	594
+JCMSI	194905
+JCoAM	1179
+JCoCh	267
+JCom	312294
+JCoMa	5212
+JComN	108
+JComp	600
+JComS	100518
+JConc	559458
+JConR	15280
+JCos	227807
+JCoSc	35879
+JCOU	207832
+JCP	16917
+JCPX	328093
+JCRE	4115
+JCRes	45618
+JCrPr	17140
+JCST	70560
+JCSTe	286949
+JCTC	37858
+JCTN	29077
+JCTR	89086
+JCUG	58314
+JCUMT	65752
+JDBM	265475
+JDDE	3165
+JDDis	586548
+JDE	524
+JDevE	1759
+JDGeo	305975
+JDisR	299253
+JDisT	50540
+JDST	4813
+JEAA	85965
+JEAS	447897
+JEBio	1071
+JEBot	5052
+JECE	150341
+JEcG	5084
+JEcGr	2724
+JEcoE	198585
+JECTC	140085
+JEE	134468
+JEEnt	60529
+JEET	111166
+JEGTP	5509	# is this ATJEG? -mt, 2025-11-05
+JEHea	781645
+JEJEM	40338
+JElas	2810
+JElCo	92
+JElem	206065
+JElEn	123
+JElP	459387
+JElS	4154
+JEMSS	297333
+JEMT	41258
+JENan	54326
+JEnCh	211910
+JEneI	48758
+JEner	75718
+JEngM	4103
+JEnM	17923
+JEnMo	3463
+JEnSt	278806
+JEnTh	63987
+JEnvB	304894
+JEnvD	15213
+JEnvE	4120
+JEnvI	72960
+JEnvL	33711
+JEOBP	206545
+JEOR	171825
+JEOS	62628
+JEPE	304703
+JEPS	612906
+JEPub	77999
+JESI	109005
+JESIT	244590
+JESM	451957
+JESRP	1744
+JETAI	4291
+JETh	3018
+JETsu	66209
+JEuCS	1808
+JEWA	25457
+JExpB	11176
+JFAA	10198
+JFArc	55497
+JFF	308604
+JFlCh	143506
+JFluC	1371
+JFOrn	54288
+JFS	601
+JFST	56649
+JFuA	544
+JFuE	3091
+JFung	250946
+JGCD	56673
+JGCZ	95345
+JGEdu	301100
+JGem	249040
+JGEng	22057
+JGEP	208405
+JGG	136605
+JGGG	320868
+JGGS	136605
+JGHyd	147647
+JGIS	94505
+JGRH	560298
+JGRS	212446
+JGscs	67474
+JGSE	544070
+JGSK	236936
+JGuC	343577
+JGVir	12657
+JHA	242532
+JHAS	242532
+JHBE	3003
+JHEAp	238726
+JHEne	4104
+JHere	5075
+JHerp	55431
+JHPN	81398
+JHRE	99865
+JHTRW	121225
+JHTS	195667
+JHumE	603
+JHydD	419722
+JHydE	4118
+JHyDy	65347
+JHyHy	375870
+JHyin	57829
+JHyn	75720
+JIaAS	285247
+JIAgr	169405
+JIAMG	38598
+JICA	65339
+JIch	54501
+JICon	2681
+JICR	145989
+JIEEJ	138105
+JIEI	173305
+JIEIA	169587
+JIEIB	173045
+JIEIC	161405
+JIEID	175208
+JIEIE	185886
+JIETE	82705
+JIEx	122586
+JImm	81959
+JIMSS	5221
+JIMTW	88305
+JIMW	2542
+JINC	15638
+JInfD	4872
+JInfo	59951
+JInGU	725945
+JInsP	1360
+JInvP	605
+JIPM	6359
+JIPNT	121365
+JIPR	380068
+JIST	56610
+JITKT	310653
+JJAPL	5668
+JJAPR	5668
+JJAPS	5668
+JJSEE	133034
+JJTST	56650
+JKASS	108865
+JKCGC	171427
+JKES	57547
+JKESS	129787
+JKGS	301429
+JKSAE	127868
+JKSAS	100086
+JKWRA	73303
+JLasA	56647
+JLCM	16003
+JLimn	160385
+JLMS	5882
+JLPPI	2187
+JLVEn	41058
+JLwT	5348
+JMAA	531
+JMaCh	2974
+JMamm	37098
+JMaPh	295641
+JMBio	505
+JMBM	125929
+JMCA	185687
+JMCC	185186
+JMCS	310396
+JMDAI	549992
+JMDes	5517
+JMecE	61890
+JMedE	60527
+JMEM	172206
+JMemS	5392
+JMeSc	1386
+JMGM	1785
+JMic	3595
+JMICu	174727
+JMiMi	4911
+JMinI	325386
+JMIV	2645
+JMMet	1393
+JMMPS	52558
+JMNMM	420219
+JMOA	102986
+JModT	217226
+JMolS	46100
+JMorp	176
+JMPEE	301336
+JMPeS	52600
+JMPh	100165
+JMPMS	16298
+JMPow	301337
+JMPS	4134
+JMR	16360
+JMSB	4831
+JMScM	693365
+JMSL	2828
+JMSME	2643
+JMSp	43
+JMST	967
+JMSTL	72378
+JMTPR	330542
+JMuMo	82261
+JNABS	44558
+JNAH	379298
+JNano	68717
+JNanR	546459
+JNAtP	2488
+JNCSX	327162
+JNE	2768
+JNEng	22577
+JNET	31017
+JNeur	3555
+JNGG	300002
+JNGSE	88078
+JNIS	61408
+JNMP	60847
+JNNFM	1398
+JNOPM	10101
+JNPMS	269726
+JNR	3132
+JNS	1117
+JNST	65849
+JNuE	20637
+JNut	80223
+JOC	124266
+JOCN	85465
+JOEE	313023
+JOEH	25579
+JOEME	254446
+JOES	297601
+Jokul	378518
+JOMet	239274
+JON	25737
+JOptA	4908
+JOptB	4919
+JOptM	420217
+JOptT	117685
+JORes	1401
+JOrgC	2489
+JOrn	25058
+#JORS	4094	This is the setid for J. of the Operations Research Society
+JORS	211445	# This is the setid for J. of Open Research Software
+JORT	216131
+JOSA	79579
+JOSS	299881
+JOTA	3123
+Joule	309126
+JPaAS	309121
+JPalS	552630
+JPara	57348
+JParR	83467
+JPBB	121926
+JPCB	2483
+JPCL	91187
+JPCom	391638
+JPCRD	4142
+JPDC	525
+JPDP	298127
+JPE	133465
+JPEco	72659
+JPED	60452
+JPEle	169567
+JPEn	326528
+JPES	63968
+JPetT	34378
+JPFR	23897
+JPGR	754
+JPhC	4942
+JPhCh	2514
+JPhCo	309355
+JPhCS	31077
+JPhE	4953
+JPhEn	119107
+JPhF	4952
+JPhGS	4946
+JPhM	324882
+JPhP	327040
+JPhsg	5885
+JPhSt	314554
+JPhSu	110005
+JPhTA	67375
+JPhy1	16736
+JPhy2	4943
+JPhy3	16857
+JPhy4	56692
+JPhyC	67219
+JPhys	56692
+JPhyt	3715
+JPiSE	421698
+JPkR	5054
+JPlaP	313195
+JPolE	312816
+JPopR	80520
+JPoSA	14660
+JPoSB	14662
+JPoSc	377602
+JPoSL	14956
+JPP	56674
+JPPA	1404
+JPPB	1788
+JPPR	74501
+JPRA	296668
+JPReg	71638
+JPRes	15226
+JPRG	306914
+JPS	1409
+JPSA	378934
+JPSE	1382
+JPSEP	94526
+JPT	551889
+JPzoo	225909
+JQT	311055
+JRAC	59127
+JRadR	7381
+JRAM	55870
+JRapR	71322
+JRASA	300892	# rev 2025-11-05, mt
+JRE	313832
+JREar	54635
+JRepF	22937
+JRes	182185
+JResB	182185
+JRheo	4152
+JRMan	70179
+JRNBA	183346
+JRNBB	183546
+JRNBS	182185
+JRNC	2872
+JRoS	225
+JRPhy	175867
+JRRAS	227700
+JRScT	252
+JRSI	29457
+JRSp	121
+JRST	379090
+JRurS	2147
+JSAfS	4199
+JSAIM	287467
+JSASS	144326
+JSAST	51460
+JSCAI	135761
+JSCAM	135747
+JSCCE	213186
+JSCCM	135753
+JSCHE	135752
+JSCHS	213187
+JSCIP	135756
+JSCMC	135759
+JSCMJ	156645
+JSCom	2949
+JSCPE	135749
+JSCPP	135757
+JSCSP	213188
+JSCTE	135748
+JSCUS	135762
+JSDD	63970
+JSDEW	216825
+JSemi	82059
+JSER	320775
+JSfR	60873
+JSHES	303969
+JShR	156466
+JSIXS	64288
+JSLR	39939
+JSM	146185
+JSMat	64614
+JSMEA	10593
+JSMEB	145746
+JSMEC	10595
+JSMEJ	306776
+JSMET	136485
+JSMME	61311
+JSMSJ	55337
+JSpEn	71981
+JSpRo	56675
+JSPSy	56007
+JSRP	4955
+JSSE	304937
+JSSED	102966
+JSSS	181865
+JSSST	181825
+JStA	9895
+JStCh	2667
+JStEn	4121
+JSup	3232
+JSurE	4110
+JSWBE	284363
+JSWC	78160
+JSyEv	82626
+JSymC	632
+JTAM	169425
+JTAP	178587
+JTBio	567
+JTBS	65431
+JTCN	29077
+JTEco	6055
+JTeEv	221005
+JTEM	467738
+JTEMB	32147
+JTGeo	1802
+JTh	80899
+JThBi	2148
+JThCM	5218
+JTHea	234868
+JThSt	4303
+JTHT	56676
+JTMet	392626
+JTnAS	422520
+JTP	139866
+JUOGR	222629
+JUVS	242513
+JVCIR	642
+JVCP	17014
+JVDI	131845
+JVEco	71318
+JVET	315503
+JVExp	74318
+JVir	5539
+JVirM	1803
+JVSJ	73641
+JVST	5526
+JVSTA	5526
+JVSTB	5527
+JWCC	98425
+JWDis	189065
+JWEIA	1389
+JWMM	266091
+JWMSE	29438
+JWPCO	4112
+JWRPM	4123
+JWSHD	136065
+JWSS	304763
+JXST	645
+JZoo	6099
+JZWM	57492
+KARJ	128485
+Kernt	233986
+KFNT	373803
+KFNTS	373803
+KIJMS	265305
+KIMMJ	95725
+KIsMS	316165
+KJPT	204190
+KosIs	205562
+KosNT	296992
+KPCB	65390
+KPCBS	65390
+KSJCE	71718
+KwJS	413417
+LAES	1741
+Lanc	1477
+LandE	55438
+LanGH	219965
+Langm	2485
+LanID	2258
+LanPH	306628
+LaPhL	22317
+LatJP	74988
+LCApp	295508
+LCRev	205829
+LCTod	4518
+LediS	268467
+LePub	4905
+LeRad	69223
+LesVe	265840
+LHBHJ	424157
+LHEP	315876
+LHMT	14326
+Limne	462486
+LitJP	78878
+LMMP	259126
+LOFE	159346
+LPB	6041
+LPRv	61427
+LPSC	3293
+LRCA	296012
+LRSP	209425
+LSRS	72279
+LSSR	238706
+M&PSB	92105
+MaCom	5028
+MaHT	69397
+MalJ	9563
+MamBi	134406
+MAMMP	272266
+ManGe	649365
+ManRv	210425
+MAPAN	87746
+MApAn	87746
+MApFl	200805
+MaPr	6053
+MarDe	553151
+MarGn	75411
+MarMo	1919
+MarTR	397671
+MaStr	1819
+MatAn	958
+MatDe	284667
+MaTec	68996
+MatEv	378587
+MatFu	459220
+MatG	2972
+MatL	1403
+MatLX	327157
+MatM	2467
+MaTod	2474
+MatPr	1038
+MatQT	391980
+MatRE	407177
+MatRI	13921
+MatSP	159746
+MatST	10884
+Matt	330614
+MatTe	52658
+MatTh	307601
+MatVe	475304
+MatZe	959
+MAUSA	459070
+Mausa	459070
+mBio	94785
+MBioE	11458
+MBioI	196305
+MbRA	283677
+MBree	2680
+MCM	2873
+MComM	1442
+MCSS	13476
+Meas	2192
+MeasS	372852
+MeasT	2840
+Mecc	2800
+MecEn	313911
+MechM	1410
+MecSc	134565
+MecSM	326767
+MedBo	313785
+MedMS	203589
+MEdRJ	129525
+MEE	286926
+MEEP	165626
+MeGid	422930
+MEI	21236
+MeInd	2238
+MekGS	300146
+MekKM	457603
+MekTT	316487
+MeMaT	1443
+MemWT	221385
+MEng	297056
+MeReC	1828
+MeScR	74987
+MeScT	4913
+MeSol	64990
+Meteo	91605
+Metit	177046
+MetOc	184086
+Metro	12278
+MetRT	238235
+MetZp	560910
+MFRes	5951
+MGeo	649365
+MGeoE	301811
+MGQG	80298
+MHort	431387
+Micb	198066
+MicMM	1450
+MicNa	283808
+Micpl	446817
+MicST	70138
+Mikro	205565
+MiMic	9976
+Miner	63526
+MinJ	63969
+MinJU	309673
+MinMD	299425
+MinPo	63526
+MinRv	422991
+MinSc	390704
+Miorg	204705
+MiOTL	122
+MiRe	1448
+MiscG	183066
+MiST	70138
+MiSTC	87226
+MiTec	881
+MJPS	441477
+MLS&T	378558
+MMAna	163665
+MMAS	172
+MMBR	11338
+MmCP	184
+MMCS	81779
+MME	363657
+MMI	72722
+MMicr	586544
+MMNA	305201
+MmNAS	297329
+MMNP	75358
+MMTB	61190
+MMTE	234797
+MNSL	224185
+MoCry	138006
+ModIn	172305
+ModPh	143266
+MolPE	555
+MolPP	3734
+MorGR	223646
+MoSim	6208
+MPAG	2556
+MPCPS	6053
+MPlan	69156
+MPMI	64929
+MpNp	419704
+MRAnn	316750
+MRDev	57455
+MREco	161185
+MRExt	296849
+MRFMM	1424
+MRGTE	1839
+MRRMR	1453
+MRSAd	296760
+MRSCo	135666
+MRSE	188565
+MRSES	249766
+MRSSP	124126
+MSEnA	1821
+MSEnB	285291
+MSEnC	1408
+MSEng	16005
+MSEnR	2035
+MSET	315043
+MSF	82607
+MSHT	2599
+MSHTM	493463
+MSM	4860
+MSMSE	4917
+MSOT	278026
+MSPE	304900
+MSRv	283
+MSySP	2933
+MT	61190
+MTA	60660
+MTAdv	329262
+MTB	61190
+MTEne	303699
+MTEng	4420
+MTest	233987
+MTPhy	307711
+MTPro	259852
+MTSJ	86365
+MTSus	324574
+MulSE	327853
+MuMat	324428
+MURJE	312642
+NaGas	292
+NanMe	311181	# rev 2025-11-05, mt
+NanoA	315516
+NanoC	239166
+NanoE	379930
+NanoF	306842
+NanoH	269586
+NanoR	325785
+Nanos	87871
+Nansp	265110
+NanSy	212608
+Nanth	228786
+NaRes	76038
+NatAJ	71319
+NatBi	3436
+NatCB	40218	# rev 2025-11-05, mt
+NatCu	64194
+NatHR	421112
+NatMb	297113
+NatMI	327339
+NatRM	297181
+NatSc	410137
+NatWa	511383
+Naup	226486
+Navig	165905
+NBHAC	266186
+NBRev	1924
+NBS	457821
+NCE	70999
+NCim	68837
+NCimA	69215
+NCimB	68754
+NCimC	59092
+NCimD	57747
+NCimL	69216
+NCimR	69294
+NCimS	68837
+NCNS	4936
+NCWM	17816
+NDSA	42739
+NDSB	42721
+NDT	721645
+NDTI	14328
+NeEnt	45681
+NEne	144925
+NEneT	297600
+NEngJ	69374
+NeoBi	141265
+NEPT	391745
+NeuL	1455
+NeuTx	1923
+NewCE	422246
+NewSp	199905
+NewSt	29497
+NextE	526003
+NextS	553038
+NGEle	18116
+NHESD	203985
+NHRev	4129
+NHTA	4410
+NHTB	4400
+NISTJ	157765
+Nitro	307771
+NJGPA	63893
+NJMA	224305
+NJSR	15639
+NKG	150342
+NLE	191725
+NMEne	266348
+NML	101225
+NMTE	65746
+NN	1426
+NNPS	290348
+NonDy	3181
+Nonli	4914
+NorJB	73645
+NovaH	5533
+Novon	57908
+NPAE	313875
+npgAM	94305
+NPGD	237006
+NPhS	3415
+npjAM	218326
+npjBD	485523
+npjCM	296514
+npjMD	308704
+npjMG	283716
+npjMS	553657
+npjNH	558974
+npjOS	470064
+npjQI	296116
+npjQM	301254
+npjRM	300357
+npjSA	553389
+npjSL	299816
+npjSM	570386
+NPNew	52202
+NROA	12956
+NROpt	9836
+NRvHM	30378
+NSE	227346
+NSKK	83687
+NSM	232779
+NSMMT	200526
+NSRev	233206
+NTA	125065
+NTCo	145847
+NTE	6216
+NTMIA	10386
+NTRM	10387
+NTxT	1925
+NuAlg	3008
+NucAn	467028
+NucAR	5038
+NucTe	232819
+NucTF	309137
+NuEnD	1860
+NuEnT	127867
+Nukl	240475
+NuMat	1012
+NumHT	145965
+NuPhS	2112
+NuScT	54633
+NwJG	277106
+NYASA	22340
+NZJE	326346
+OAcJ	73658
+OAeEJ	73038
+OAJ	73662
+OAP	304497
+OAPJ	75639
+OAst	305098
+ObMed	155245
+Oce	373221
+OceYb	192365
+Ocgpy	127985
+OcMan	16117
+OCMPJ	72742
+OCPJ	72741
+OCPol	42798
+OCRes	392126
+OcScD	99685
+ODivE	30477
+OEJV	398137
+OEng	262444
+OERG	375499
+OGST	59609
+OHIng	391383
+OHRBH	296436
+OIDP	64610
+OJA	140645
+OJAp	300786
+OJAS	160127
+OJBp	152948
+OJFD	160125
+OJMic	140627
+OJPRS	438757
+OLAR	465207
+OMEJ	70408
+OMExp	130065
+OMJ	70409
+OMN	246947
+OMX	327158
+ONCP	63528
+ONJ	70402
+ONMJ	81542
+ONPPJ	73819
+OOJ	70394
+OpAtO	283835
+OPCJ	70389
+OPhy	256586
+OPhyJ	263503
+OPJ	132325
+OPP	217268
+OPPJ	79759
+OptNa	172045
+OptPN	30317
+OptSp	5570
+OptT	10396
+OPurA	167785
+OQEle	2815
+ORE	422216
+Orgme	2500
+OrLi	37218
+ORSJ	80498
+Oryx	3645
+OSAC	324720
+OSID	2727
+Osir	12340
+OSJaJ	50299
+OSM	16859
+OSpeJ	70381
+OSPJ	80168
+OSSJ	82419
+OSuJ	82645
+OWasA	67354
+PacSB	277206
+PAIJ	313123
+PalEl	310452
+PalRe	54927
+PANSP	57150
+PApCh	36861
+PAPhS	556085
+PApOp	4948
+ParC	1704
+PaReL	1260
+PARep	550641
+PatRe	1259
+PAZh	212165
+PBenR	74502
+PBioE	367298
+PBioJ	14206
+PBioP	660
+PBioR	61170
+PBiot	123845
+PBree	3692
+PCelR	991
+PCEnv	3605
+PCMPS	300543
+PComI	44658
+PcPb	23837
+PCPhy	5074
+PCPP	2968
+PCPS	6053
+PCTOC	2852
+PDiff	4155
+PEcoC	306627
+PECS	1865
+PEDO	79848
+PeerJ	202465
+PEngM	1822
+PerSc	241406
+PetCh	27218
+PFHN	2913
+PFisC	28121
+PFR	56927
+PFTox	37978
+Pg	15796
+PGC	122185
+PGRCU	17657
+PGroR	2759
+PhAco	196094
+PhB	234449
+PhBio	23297
+PhFlA	4140
+PhFlB	4141
+PhilG	4675
+PhL	10399
+PhLC	1445
+PhMed	423998
+Phot	135386
+PhotI	469822
+Photo	242366
+PhPat	60948
+PhPhS	3468
+PhPro	78139
+PhRv	5208
+PhRvI	5207
+PhSen	110665
+PhSRv	297671
+Phsyn	2848
+PhT	62870
+PhTea	14678
+PhTec	10898
+PhuZ	396
+PhyBC	10398
+PhyBl	202225
+PhycR	3590
+PhyEd	4934
+PhyEs	80601
+PhyIn	110686
+PhyM	4926
+PhyMe	68455
+PhyNY	312993
+PhyO	373853
+PhyOJ	76591
+PhyR	1445
+PhySB	16681
+PhysG	115082
+Physi	326153
+PhysR	214385
+Phytc	5536
+PhytJ	304750
+PhytK	113305
+PhytP	180206
+PhytR	328001
+Phytx	197285
+PhyU	4166
+PhyW	295295
+PIEco	38562
+PIJEB	330689
+PINSA	160946
+PINSB	159825
+PJAB	52798
+PJBio	314020
+PJES	254646
+PJGeo	309081
+PJMPE	80892
+PKAS	111086
+PKM	44818
+PlaHP	61068
+Plan	298322
+PlanC	66684
+PlanD	308200
+PlanG	77105
+PlanP	5211
+PlanR	194105
+PlDis	64409
+PlDO	17950
+PlEcE	98885
+Plegy	327573
+PlIon	2383
+PlMed	4045
+PlMet	50458
+PLoSO	60407
+PlPhe	341798
+PlPP	326889
+PlREx	326703
+PlSci	171305
+PlScT	237307
+PLSNS	297290
+PlST	55308
+PMagA	4345
+PMagB	4399
+PMagL	4262
+PMB	4912
+PMBP	75838
+PMBR	3229
+PMCPA	69074
+PMCPB	72383
+PMCPC	72383
+PMetP	16012
+PMG	55048
+PMolB	2546
+PMP	303568
+PMRes	74996
+PMTF	273306	# rev 2025-11-05, mt
+PNASN	465184
+PNAU	299833
+PNCom	3285
+PNMRS	1296
+PNSci	16216
+PNSMI	16216
+PNuE	1825
+PoCom	24918
+PoFiz	598105
+Polar	424138
+PolAt	299492
+PolG	1749
+PolJ	134786
+PolJE	265747
+PolRQ	55590
+Poly	1454
+PolyC	313980
+Polys	90045
+Polyt	316302
+PoMec	36618
+PopHM	15345
+PopSP	22517
+POrCo	1297
+PowM	14558
+PPath	3619
+PPatJ	83306
+PPEE	250092
+PPh	88625
+PPhI	127385
+PPlan	3316
+PPME	93307
+PPMP	378519
+PPolR	88946
+PPR	196095
+PProS	267172
+PPS	11222
+PPSA	11220
+PPSB	11221
+PPSL	11222
+PPTE	93306
+PrAgr	2557
+PRC	10882
+PrEF	184093
+PrEko	421098
+PrEne	367297
+PrEng	87529
+PrEnS	115188
+PrEPS	89847
+Presl	305527
+PrExP	291
+PRI	92106
+PRIA	54984
+PrIA	81978
+Prib	270186
+PriM	2728
+PriMM	316490
+Prir	324808
+PrMet	233988
+PrMS	1824
+ProgP	2010
+PRoot	63638
+PropE	721305
+ProTe	316245
+PRP	205687
+PRPER	297608
+PrPh	21
+Prpls	13919
+PRPP	131585
+PrSBS	83426
+PRSTP	51220
+PRXE	466372
+PRXL	550896
+PRXQ	395763
+PSBio	3697
+PSci	458394
+PSDev	421098
+PSGeo	421739
+PSRv	263486
+PSSCR	217605
+PSSRR	58315
+PSST	4931
+PTE	14300
+Ptphy	313286
+PTSUS	393854
+PvBu	10777
+PVec	71298
+PWP	64618
+PZETF	314265
+PZhTF	395968
+PZooS	90226
+QApMa	140707
+QBS	305669
+QGeo	97885
+QJGS	89925
+QJMAM	33701
+QJMat	33799
+QMQM	202405
+QREI	298
+QRvL	813445
+QS&T	301674
+QSMF	246904
+Quant	305800
+Quat	309781
+Quatn	84957
+QuEH	555266
+QuFin	4941
+QuInC	308124
+QuSOp	4919
+RadAc	21298
+Radch	3150
+RadEf	20853
+Radel	297588
+RadIn	302045
+Radpr	256031
+RadR	57409
+RaEE	101726
+RaEl	205827
+RaF	432057
+RAFES	298732
+RailE	378675
+Range	40298
+RangJ	43238
+RareM	54632
+RArtR	560458
+RASTI	467664
+RaT	459203
+RBrCM	45601
+RBRH	298986
+RChMa	462654
+RCMC	259651
+RCMS	142
+RCRX	358063
+RCSys	64609
+RDTM	306368
+Reach	301163
+RECIE	210885
+RECMa	373097
+RecNP	307382
+Recyc	267045
+REDS	20853
+REES	300042
+RefPh	81220
+REGET	206387
+RELEA	377861
+REne	1846
+REneF	77059
+ReNEv	6155
+RepTx	2209
+ReReC	17376
+RESE	715665
+Resea	325239
+ResES	550903
+ResGc	391961
+ResGS	395355
+ResMa	358062
+ResOp	394519
+RESS	1302
+RETec	284232
+RFPol	1843
+RFrG	298090
+RGASG	244539
+RGNZb	280406
+RGPer	267966
+Rhodo	61348
+RHSus	304506
+RIAgr	454937
+RIbAg	296040
+RIPS	462721
+RiskS	594165
+RisSc	70649
+RJARA	301572
+RJMP	54867
+RJPCA	54218
+RLOpt	74626
+RLPhy	70821
+RMBu	476466
+RMFMR	41458
+RMxAC	357457
+RMxCG	309243
+RMxF	315283
+RMxFE	328768
+RMxFS	423760
+RoAJ	556826
+Robot	6054
+RocOS	460319
+RoJPh	554220
+ROSGI	222806
+RPDos	22557
+RPRA	306094
+RPRAT	306094
+RRACE	95785
+RSERv	1848
+RSMec	578945
+RSN&R	25319
+RSOS	249419
+RSPS	378320
+RSPSB	378323
+RSPT	378324
+RSPTB	5193
+RSTEd	4341
+RSUE	1885
+RToxP	503
+RTSys	3208
+RuAer	65031
+RuCRv	4165
+RuJES	52338
+RuJPP	3156
+RuMaS	4167
+RvAMS	330842
+RvAST	78681
+RvBCA	301051
+RvBCS	45718
+RvBMO	87484
+RvBrE	45722
+RvBrG	297386
+RvBrM	70104
+RvBrP	80744
+RvEEP	65448
+RvEH	125885
+RvEMA	179585
+RvEn	635085
+RvGeS	10636
+RvGN	248226
+RvGNG	87447
+RvICA	301262
+RvIGe	65654
+RvMad	95785
+RvMaP	2426
+RvMPP	307961
+RvMPS	5206
+RvPA	66875
+RvPhy	297542
+RvPT	10897
+RvSGE	468668
+RvTel	249412
+S&GS	18037
+SAJB	54210
+SAJGm	264234
+SAJSc	84227
+SAMPJ	551842
+SaTan	251026
+SBlGD	423878
+SbMat	4170
+SBSR	251326
+SBuil	299921
+SCAR	276766
+SCCA	466876
+ScChA	57390
+ScChB	259590
+ScChG	57911
+ScHor	1857
+SciAf	327150
+SciAm	90525
+SciBu	265197
+SciEd	100
+SciIn	255706
+Scim	2795
+SciNa	34398
+SciPP	69015
+Scis	223585
+SCIS	122814
+ScM	16010
+ScMar	78682
+ScMM	1886
+ScPA	391188
+ScPC	375604
+ScPCo	470457
+ScPPL	316018
+ScPPP	329206
+ScPro	266009
+ScReE	74243
+ScrMa	1467
+SCSC	551543
+ScTea	286947
+SeAc	1810
+SeAcA	1308
+SeAcB	1309
+SeAcR	377652
+SECM	125927
+Sedka	535823
+SeeSR	5967
+SeeST	245086
+SEGN	263493
+SeiKa	91205
+Seism	481783
+Semic	5558
+SEMSC	2059
+SenIm	54278
+SensI	379712
+SerAJ	50022
+SERv	721445
+SeScT	4918
+SESP	325153
+SETA	198605
+SFCh	88806
+SFrRv	20605
+SFuCh	64622
+SGenS	88368
+SGSEn	536343
+SHEP	13522
+SHH	820
+SHM	219505
+ShMeS	268249
+SHPMP	2102
+SibMJ	2627
+SIGMA	74238
+SigPr	1888
+SiMol	408
+SImpa	358058
+Simul	16478
+SIRes	2961
+SJADS	54888
+SJAM	15820
+SJBS	88070
+SJCE	132949
+SJCO	15822
+SJMA	15824
+SJNA	15826
+SJPNA	343457
+SJRUE	266019
+SJRUP	264248
+SJSC	15829
+Sleep	133226
+SLJP	79379
+SLSci	561002
+Small	28978
+SMaS	4938
+SmEne	421696
+SMFor	62747
+SMS	76140
+SMSPS	99680
+SNexF	550208
+SoCe	14332
+SoCom	459364
+SoEnA	458205
+SoEnM	14334
+SoEnv	307991
+SoftR	222636
+SoftX	278786
+SOILD	249227
+SoilR	121665
+SoilS	5182
+SoiSy	313022
+SOLA	37859
+SolED	99681
+SoRoc	311150
+SoSec	402437
+SPBra	160786
+SpCom	376640
+SpDem	276407
+SpecL	4862
+SPEJ	55342
+SPERE	55341
+SPES	663165
+SpHab	665065
+Spin	133587
+SPJCE	205905
+SpJSS	439318
+SpReJ	83323
+SpScI	374270
+SpScT	393961
+SpT	51378
+SRED	295373
+SRL	2256
+SRNew	53159
+SRPI	306544
+SRXPh	91586
+SSAnn	391477
+SScEd	72721
+SScT	3272
+SSNMR	636
+SSPUJ	269893
+SSPWT	553778
+SSS	15267
+SSSMP	357995
+SSTB	1914
+SSTE	88082
+SSTec	399117
+STAdM	1928
+StAM	5462
+StaSc	5986
+StASn	132305
+STET	463349
+StGM	301112
+STICA	2395
+StMat	2587
+StMet	35485
+Strat	310977
+StrCh	3071
+StrOp	942
+STSIP	457394
+STSPD	421445
+Stud	14299
+StudQ	231166
+SuER	536303
+SUndE	764945
+SurCT	1317
+SurIA	166
+SurSL	10417
+SurSS	5528
+SusCC	420527
+SusCS	107092
+SusD	312
+SusFu	376273
+SusHo	461762
+SusJR	73161
+SusMT	253286
+SusOC	395136
+SusST	567845
+SuTMP	225875
+SvApM	36860
+SvJPP	205848
+SvJQE	51958
+SvPhJ	35878
+SvPhU	45532
+SvRP	38618
+SWatR	266969
+SWQE	231475
+SyApM	12856
+Symm	85566
+SysBo	24778
+SZF	412757
+Talan	1318
+TAML	122165
+TApEc	467262
+TAPS	55483
+Taxon	55467
+TBSoc	236727
+TcAc	1883
+TCD	99676
+TComS	1478
+TCSME	314704
+TDM	234447
+TDR	98253
+TecCA	308525
+TechT	306179
+TeEng	303856
+Tekto	530143
+TELaw	156725
+TelIn	1935
+Tell	305049
+Telop	193545
+TeMAE	552363
+Teplo	54211
+TEPP	225626
+TepVT	239866
+TerLA	311047
+TERT	467550
+TESGS	286027
+TetL	1325
+TFSC	1934
+ThAFM	2242
+ThBio	30618
+TINAE	377152
+TISCI	133765
+TJAA	467610
+TJAu	73339
+TJBot	216317
+TJeoB	308222
+TJES	216324
+TJFAS	90605
+TJMCC	69676
+TJPh	216322
+TJSAI	21756
+TJSAS	51460
+TMatR	234448
+TMH	35138
+TMID	300480
+TMIH	6195
+TMSI	71041
+ToxAC	244555
+ToxAP	618
+Toxgy	1499
+Toxin	86605
+ToxL	1483
+ToxR	241307
+ToxRe	120065
+ToxVi	1892
+TrAeR	347977
+TRET	32398
+TribI	1488
+#TriTr	146326	# rev 2025-11-05, mt
+TriTr	25781	# rev 2025-11-05, mt
+TroPB	71000
+Tropi	76742
+TroPP	75379
+TrOS	11196
+TRPA	1951
+TRPB	1952
+TRPC	2194
+TRPE	1486
+TRPF	2210
+TrPhy	80219
+TRPr	253290
+TrRIP	349544
+TrSpT	51519
+TSEP	306135
+TSICE	198948
+TTSP	4858
+Turcz	238132
+TUSTI	1895
+Txcn	1484
+TxcnX	327166
+UkJPO	60309
+UkMaZ	391498
+UltIm	664
+Ultmi	1960
+Ultra	1489
+UltS	2160
+UltSc	437097
+UmSF	73679
+UncRe	408778
+UOGT	380082
+UrbLi	553752
+UrbPR	4783
+UrbWa	1961
+UsFiN	69354
+Veget	223726
+VibSp	1899
+ViMil	580665
+Virus	83625
+VJES	424364
+VKNUG	316039
+VSD	12577
+VTGUM	295432
+VTSNU	302558
+W&S	35239
+WaMot	1966
+WatCy	391702
+WatEc	755205
+WatEE	330511
+WatEP	265256
+Water	87745
+WatPT	76118
+WatRU	544742
+WatSA	373226
+WatSe	306137
+WatSu	58547
+WatWa	330012
+Wear	1491
+WearB	1491
+WEco	225866
+WeeBM	3552
+WeedS	57407
+WeedT	57410
+WeldJ	324912
+WENex	313574
+Wenti	4007
+WiEn	79
+WiEnS	298170
+WildB	60810
+WildR	5948
+Willd	67914
+WJCMP	132326
+WJM	124347
+WJNSE	132847
+WJNST	134267
+WoDev	1508
+WoilT	195645
+WQJR	605745
+WRCM	51545
+WRIM	296433
+WRM	4927
+WRRD	225352
+WSTec	57168
+WUJNS	61510
+XRAO	81358
+XRS	343
+YaFiz	212166
+ZaMM	65375
+ZDGG	46579
+ZEAPC	466878
+ZemVs	329593
+ZePAN	43438
+ZhETF	266720
+ZhPhy	308295
+ZhPS	3106
+ZhTFi	303606
+ZiZa	2325
+ZJag	24578
+ZMetl	233990
+ZNatA	132245
+ZooAn	50404
+Zool	30962
+Zoot	197265
+ZPC	52243
+ZPCF	224765
+ZPCNF	224765
+ZPCW	224765
+ZPDBA	61270
+ZPflD	61209
+ZPhy	43638
+ZPhyA	43438
+ZPhyB	1090
+ZPhyC	899
+ZPhyD	1021
+ZVMMF	205554
+# new, 2025-11-05
+CaASJ	130105
+CASJQ	130105
+CmpBP	1634
+CNan	48079
+Expea	1000
+GenBi	9559
+GRJaB	84047
+IJAer	10040
+IJRMH	1357
+IngSi	955597
+JAuGG	3599
+JMM&M	63587
+JSExp	887697
+KNT	296992
+NeoBC	80879
+PARB	937517
+ScChE	58128
+GlEnP	5760
+XXkaa	1006	# ABiCh set 2
+XXkab	165086	# AcEcS set 2
+XXkac	266191	# AcUnC set 2
+XXkad	377716	# AcUnC set 3
+XXkae	219992	# AHSJ set 2
+XXkaf	171228	# AMCE set 2
+XXkag	16164	# AnRMS set 2
+XXkah	16336	# AtmEn (1967)
+XXkai	103688	# Atmosphere (MDPI AG)
+XXkaj	221567	# Atmosphere (Korean Met Soc)
+XXkak	5035	# Bioin set 2
+XXkal	274863	# ECESC set 2
+XXkam	5534	# EJMin set 2
+XXkan	61247	# ESP(L?) set 2
+XXkao	59207	# ETWQ(old name?) set 2
+XXkap	305838	# GCRes set 2
+XXkaq	948037	# Geokh set 2
+XXkar	175866	# GSMMR set 2
+XXkas	466756	# IJAEO set 2
+XXkat	217346	# JAESc set 2
+XXkau	119385	# JAfES set 2
+XXkav	69714	# JAIS set 2
+XXkaw	634705	# JConc set 2
+XXkax	266466	# JEcoE set 2
+XXkay	60836	# JHerp set 2
+XXkaz	88176	# JHyHy set 2
+XXkba	5223	# JMPMS set 2
+XXkbb	317220	# JPalG set 2
+XXkbc	462487	# Limne set 2
+XXkbd	374728	# MorGR set 2
+XXkbe	266015	# MPlan set 2
+XXkbf	315413	# NovaH set 2
+XXkbg	20925	# PhilG set 2
+XXkbh	41438	# RMFMR set 2
+XXkbi	486164	# RocOS set 2
+XXkbj	378355	# RSPSB set 2
+XXkbk	377684	# RSPTA set 2
+XXkbl	378325	# RSPTB set 2
+XXkbm	217525	# Sedim set 2
+XXkbn	169427	# SSAnn set 2
+XXkbo	62567	# TAOS set 2
+XXkbp	151045	# WatSA set 2
+XXkbq	277906	# Wenti set 2
+XXkbr	461606	# ZhPS set 2
+XXkbs	469921	# ZhTFi set 2
+XXkbt	61269	# ZPDBA set 2
+# added more IEEE, 2026-03-05
+CComm	202245	# China Communications
+ElEng	218366	# Electrical Engineering
+IAESM	5357	# IEEE Aerospace and Electronic Systems Magazine
+IAHC	298575	# IEEE Annals of the History of Computing
+IAPGN	180447	# IEEE Antennas and Propagation Group Newsletter
+IASPN	180446	# IEEE Acoustics, Speech, and Signal Processing Newsletter
+IASSP	5399	# IEEE ASSP Magazine
+IATM	5410	# IEEE/ASME Transactions on Mechatronics
+IBITM	457354	# IEEE BITS the Information Theory Magazine
+ICAL	54639	# IEEE Computer Architecture Letters
+ICAP	5402	# IEEE Computer Applications in Power
+ICEM	156885	# IEEE Consumer Electronics Magazine
+ICIM	54160	# IEEE Computational Intelligence Magazine
+ICJAS	299877	# IEEE/CAA Journal of Automatica Sinica
+ICSEn	5405	# IEEE Computational Science and Engineering
+ICSL	305241	# IEEE Control Systems Letters
+ICST	55128	# IEEE Communications Surveys & Tutorials
+ICStM	306251	# IEEE Communications Standards Magazine
+ICSyM	5366	# IEEE Control Systems Magazine
+ICSys	128267	# IEEE Control Systems
+IClCo	250126	# IEEE Cloud Computing
+IComL	5413	# IEEE Communications Letters
+ID&T	197825	# IEEE Design & Test
+IDD	580785	# IEEE Data Descriptions
+IDSO	24017	# IEEE Distributed Systems Online
+IEDM	523663	# IEEE Electron Devices Magazine
+IEDR	561786	# IEEE Electron Devices Reviews
+IEEEC	5416	# IEEE Concurrency
+IEEEM	5448	# IEEE MultiMedia
+IEEEN	5334	# IEEE Network
+IEEES	5354	# IEEE Spectrum
+IEIM	5373	# IEEE Electrical Insulation Magazine
+IEMBM	5379	# IEEE Engineering in Medicine and Biology Magazine
+IEMR	10778	# IEEE Engineering Management Review
+IEMag	231766	# IEEE Electrification Magazine
+IESL	87145	# IEEE Embedded Systems Letters
+IESM	864485	# IEEE Energy Sustainability Magazine
+IIAM	5408	# IEEE Industry Applications Magazine
+IIC	5415	# IEEE Internet Computing
+IIEM	68001	# IEEE Industrial Electronics Magazine
+IIMM	5420	# IEEE Instrumentation & Measurement Magazine
+IISA	5418	# IEEE Intelligent Systems and their Applications
+IISys	104585	# IEEE Intelligent Systems
+IITJ	237106	# IEEE Internet of Things Journal
+IITM	326791	# IEEE Internet of Things Magazine
+IITSM	86446	# IEEE Intelligent Transportation Systems Magazine
+IJBHI	189485	# IEEE Journal of Biomedical and Health Informatics
+IJEDS	192665	# IEEE Journal of the Electron Devices Society
+IJEIE	391820	# IEEE Journal of Emerging and Selected Topics in Industrial Electronics
+IJERM	305789	# IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology
+IJESE	195866	# IEEE Journal of Emerging and Selected Topics in Power Electronics
+IJFlE	461727	# IEEE Journal on Flexible Electronics
+IJISP	490243	# IEEE Journal of Indoor and Seamless Positioning and Navigation
+IJMAS	321380	# IEEE Journal on Miniaturization for Air and Space Systems
+IJMMC	299604	# IEEE Journal on Multiscale and Multiphysics Computational Techniques
+IJMic	396253	# IEEE Journal of Microwaves
+IJOE	5388	# IEEE Journal of Oceanic Engineering
+IJPv	142545	# IEEE Journal of Photovoltaics
+IJSAI	371377	# IEEE Journal on Selected Areas in Information Theory
+IJSAS	559047	# IEEE Journal of Selected Areas in Sensors
+IJTEH	190305	# IEEE Journal of Translational Engineering in Health and Medicine
+ILECP	330341	# IEEE Letters on Electromagnetic Compatibility Practice and Applications
+ILSL	286466	# IEEE Life Sciences Letters
+ILTS	5437	# IEEE LTS
+IMWCL	5450	# IEEE Microwave and Wireless Components Letters
+IMWTL	467841	# IEEE Microwave and Wireless Technology Letters
+IMagL	89109	# IEEE Magnetics Letters
+IMicr	5368	# IEEE Micro
+INMag	72962	# IEEE Nanotechnology Magazine
+INanE	296642	# IEEE Nanotechnology Express
+INetL	325231	# IEEE Networking Letters
+IOJAP	373525	# IEEE Open Journal of Antennas and Propagation
+IOJCS	373570	# IEEE Open Journal of the Communications Society
+IOJCi	373571	# IEEE Open Journal of Circuits and Systems
+IOJEM	373632	# IEEE Open Journal of Engineering in Medicine and Biology
+IOJIA	373663	# IEEE Open Journal of Industry Applications
+IOJIE	373606	# IEEE Open Journal of the Industrial Electronics Society
+IOJIM	463084	# IEEE Open Journal of Instrumentation and Measurement
+IOJIT	374812	# IEEE Open Journal of Intelligent Transportation Systems
+IOJN	373661	# IEEE Open Journal of Nanotechnology
+IOJPE	373664	# IEEE Open Journal of Power Electronics
+IOJSE	490283	# IEEE Open Journal of Systems Engineering
+IOJSP	373605	# IEEE Open Journal of Signal Processing
+IOJSS	373568	# IEEE Open Journal of the Solid-State Circuits Society
+IOJUF	421897	# IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control
+IOJVT	373569	# IEEE Open Journal of Vehicular Technology
+IPAPN	183405	# IEEE Professional Group on Antennas and Propagation Newsletter
+IPCom	10421	# IEEE Pervasive Computing
+IPEL	17236	# IEEE Power Electronics Letters
+IPEM	240986	# IEEE Power Electronics Magazine
+IPERv	5386	# IEEE Power Engineering Review
+IPEnM	14297	# IEEE Power and Energy Magazine
+IPGAP	186408	# IRE Professional Group on Antennas and Propagation Newsletter
+IPTGA	186407	# IEEE Professional Technical Group on Antennas and Propagation Newsletter
+IPerC	5396	# IEEE Personal Communications
+IPhoJ	84087	# IEEE Photonics Journal
+IPot	5387	# IEEE Potentials
+IPuls	104345	# IEEE Pulse
+IRAM	5406	# IEEE Robotics & Automation Magazine
+IRBE	79398	# IEEE Reviews in Biomedical Engineering
+IRETA	26589	# IRE Transactions on Audio
+IRETB	74867	# IRE Transactions on Broadcasting
+IRITA	202846	# IEEE Revista Iberoamericana de Tecnologias del Aprendizaje
+IRME	85512	# IRE Transactions on Military Electronics
+IRMag	556980	# IEEE Reliability Magazine
+IRTAC	26578	# IRE Transactions on Automatic Control
+IRTAN	151285	# IRE Transactions on Aerospace and Navigational Electronics
+IRTBE	76723	# IRE Transactions on Bio-Medical Electronics
+IRTBT	74869	# IRE Transactions on Broadcast and Television Receivers
+IRTCP	26585	# IRE Transactions on Component Parts
+IRTCS	144285	# IRE Transactions on Communications Systems
+IRTCT	77842	# IRE Transactions on Circuit Theory
+IRTEC	95325	# IRE Transactions on Electronic Computers
+IRTEM	85509	# IRE Transactions on Engineering Management
+IRTEW	155185	# IRE Transactions on Engineering Writing and Speech
+IRTHF	74870	# IRE Transactions on Human Factors in Electronics
+IRTI	85506	# IRE Transactions on Instrumentation
+IRTIE	85508	# IRE Transactions on Industrial Electronics
+IRTIT	127246	# IRE Transactions on Information Theory
+IRTME	85511	# IRE Transactions on Medical Electronics
+IRTNS	92005	# IRE Transactions on Nuclear Science
+IRTPE	26583	# IRE Transactions on Product Engineering and Production
+IRTRF	219345	# IRE Transactions on Radio Frequency Interference
+IRTSE	95685	# IRE Transactions on Space Electronics and Telemetry
+IRTUE	134705	# IRE Transactions on Ultrasonic Engineering
+IRTVC	66213	# IRE Transactions on Vehicular Communications
+ISCSN	82605	# IEEE Solid-State Circuits Society Newsletter
+ISMCM	277986	# IEEE Systems, Man, and Cybernetics Magazine
+ISPri	31197	# IEEE Security & Privacy
+ISRev	625099	# IEEE Sensors Reviews
+ISSCL	311020	# IEEE Solid-State Circuits Letters
+ISSCM	82179	# IEEE Solid-State Circuits Magazine
+ISenL	304753	# IEEE Sensors Letters
+ISoft	5380	# IEEE Software
+ISysJ	66600	# IEEE Systems Journal
+ITAE	474905	# IEEE Transactions on AgriFood Electronics
+ITAI	437837	# IEEE Transactions on Artificial Intelligence
+ITAMD	84086	# IEEE Transactions on Autonomous Mental Development
+ITASE	29277	# IEEE Transactions on Automation Science and Engineering
+ITASL	52998	# IEEE Transactions on Audio, Speech and Language Processing
+ITASL2	711125	# IEEE Transactions on Audio, Speech and Language Processing
+ITAdP	5423	# IEEE Transactions on Advanced Packaging
+ITAen	85307	# IRE Transactions on Aeronautical and Navigational Electronics
+ITAfC	104725	# IEEE Transactions on Affective Computing
+ITAuE	26591	# IEEE Transactions on Audio and Electroacoustics
+ITAud	26590	# IEEE Transactions on Audio
+ITBBI	322440	# IEEE Transactions on Biometrics, Behavior, and Identity Science
+ITBC	64553	# IEEE Transactions on Biomedical Circuits and Systems
+ITBD	285074	# IEEE Transactions on Big Data
+ITBME	155165	# IEEE Transactions on Bio-medical Electronics
+ITBTR	76643	# IEEE Transactions on Broadcast and Television Receivers
+ITBTS	74871	# IRE Transactions on Broadcast Transmission Systems
+ITCBB	711165	# IEEE Transactions on Computational Biology and Bioinformatics
+ITCC	222606	# IEEE Transactions on Cloud Computing
+ITCCN	280286	# IEEE Transactions on Cognitive Communications and Networking
+ITCDS	299787	# IEEE Transactions on Cognitive and Developmental Systems
+ITCE	5384	# IEEE Transactions on Consumer Electronics
+ITCI	266423	# IEEE Transactions on Computational Imaging
+ITCIA	83486	# IEEE Transactions on Computational Intelligence and AI in Games
+ITCNS	237054	# IEEE Transactions on Control of Network Systems
+ITCP	26579	# IEEE Transactions on Component Parts
+ITCPA	5407	# IEEE Transactions on Components, Packaging, and Manufacturing Technology: Part A
+ITCPB	5403	# IEEE Transactions on Components, Packaging, and Manufacturing Technology: Part B
+ITCPC	5424	# IEEE Transactions on Components, Packaging, and Manufacturing Technology: Part C
+ITCPM	118485	# IEEE Transactions on Components, Packaging and Manufacturing Technology
+ITCPT	5426	# IEEE Transactions on Components and Packaging Technologies
+ITCSA	594185	# IEEE Transactions on Circuits and Systems for Artificial Intelligence
+ITCSS	243106	# IEEE Transactions on Computational Social Systems
+ITCST	5444	# IEEE Transactions on Control Systems Technology
+ITCSV	5434	# IEEE Transactions on Circuits and Systems for Video Technology
+ITCT	77841	# IEEE Transactions on Circuit Theory
+ITCTV	76642	# IEEE Transactions on Cable Television
+ITCoS	144745	# IEEE Transactions on Communications Systems
+ITCoT	124606	# IEEE Transactions on Communication Technology
+ITCyb	190446	# IEEE Transactions on Cybernetics
+ITDEI	5394	# IEEE Transactions on Dielectrics and Electrical Insulation
+ITDMR	5451	# IEEE Transactions on Device and Materials Reliability
+ITDSC	31638	# IEEE Transactions on Dependable and Secure Computing
+ITEC	5414	# IEEE Transactions on Evolutionary Computation
+ITECI	304300	# IEEE Transactions on Emerging Topics in Computational Intelligence
+ITECm	60877	# IEEE Transactions on Electronic Computers
+ITEMP	507643	# IEEE Transactions on Energy Markets, Policy and Regulation
+ITEPM	5425	# IEEE Transactions on Electronics Packaging Manufacturing
+ITETC	195867	# IEEE Transactions on Emerging Topics in Computing
+ITFR	589325	# IEEE Transactions on Field Robotics
+ITFS	5446	# IEEE Transactions on Fuzzy Systems
+ITGCN	301466	# IEEE Transactions on Green Communications and Networking
+ITGE	60709	# IEEE Transactions on Geoscience Electronics
+ITGam	311061	# IEEE Transactions on Games
+ITHFE	66215	# IEEE Transactions on Human Factors in Electronics
+ITHMS	190445	# IEEE Transactions on Human-Machine Systems
+ITHap	76980	# IEEE Transactions on Haptics
+ITICP	531203	# IEEE Transactions on Industrial Cyber-Physical Systems
+ITIF	54159	# IEEE Transactions on Information Forensics
+ITIGA	88747	# IEEE Transactions on Industry and General Applications
+ITII	44358	# IEEE Transactions on Industrial Informatics
+ITITB	5412	# IEEE Transactions on Information Technology in Biomedicine
+ITITr	5398	# IEEE Transactions on Intelligent Transportation Systems
+ITIV	298700	# IEEE Transactions on Intelligent Vehicles
+ITJMJ	76119	# IEEE Translation Journal on Magnetics in Japan
+ITKDE	5404	# IEEE Transactions on Knowledge and Data Engineering
+ITLT	78389	# IEEE Transactions on Learning Technologies
+ITMBM	283645	# IEEE Transactions on Molecular, Biological, and Multi-Scale Communications
+ITMC	10420	# IEEE Transactions on Mobile Computing
+ITMED	553449	# IEEE Transactions on Materials for Electron Devices
+ITMI	5347	# IEEE Transactions on Medical Imaging
+ITMLC	474904	# IEEE Transactions on Machine Learning in Communications and Networking
+ITMMS	61390	# IEEE Transactions on Man-Machine Systems
+ITMRB	328505	# IEEE Transactions on Medical Robotics and Bionics
+ITMSC	295268	# IEEE Transactions on Multi-Scale Computing Systems
+ITMT	26581	# IEEE Transactions on Manufacturing Technology
+ITMm	5397	# IEEE Transactions on Multimedia
+ITNB	13957	# IEEE Transactions on NanoBioscience
+ITNNL	156105	# IEEE Transactions on Neural Networks and Learning Systems
+ITNSE	262206	# IEEE Transactions on Network Science and Engineering
+ITNSM	68000	# IEEE Transactions on Network and Service Management
+ITNSR	5453	# IEEE Transactions on Neural Systems and Rehabilitation Engineering
+ITNet	711145	# IEEE Transactions on Networking
+ITPC	5355	# IEEE Transactions on Professional Communication
+ITPD	5352	# IEEE Transactions on Power Delivery
+ITPDS	5430	# IEEE Transactions on Parallel and Distributed Systems
+ITPEP	26587	# IEEE Transactions on Product Engineering and Production
+ITPMP	26584	# IEEE Transactions on Parts, Materials and Packaging
+ITPRT	187285	# Transactions of the IRE Professional Group on Radio Telemetry and Remote Control
+ITPT	26586	# IRE Transactions on Production Techniques
+ITPri	555758	# IEEE Transactions on Privacy
+ITPro	5427	# IT Professional
+ITQE	377315	# IEEE Transactions on Quantum Engineering
+ITRE	5443	# IEEE Transactions on Rehabilitation Engineering
+ITRPM	303836	# IEEE Transactions on Radiation and Plasma Medical Sciences
+ITRQC	85510	# IRE Transactions on Reliability and Quality Control
+ITRS	510383	# IEEE Transactions on Radar Systems
+ITRob	30457	# IEEE Transactions on Robotics
+ITSAP	5393	# IEEE Transactions on Speech and Audio Processing
+ITSC	300699	# IEEE Transactions on Sustainable Computing
+ITSCo	81261	# IEEE Transactions on Services Computing
+ITSE	96665	# IEEE Transactions on Sustainable Energy
+ITSEn	5341	# IEEE Transactions on Software Engineering
+ITSG	98305	# IEEE Transactions on Smart Grid
+ITSIP	281306	# IEEE Transactions on Signal and Information Processing over Networks
+ITSM	5401	# IEEE Transactions on Semiconductor Manufacturing
+ITSMA	5419	# IEEE Transactions on Systems, Man, and Cybernetics. Part A: Systems and Humans
+ITSMB	5409	# IEEE Transactions on Systems, Man, and Cybernetics. Part B: Cybernetics
+ITSMg	5333	# IEEE Technology and Society Magazine
+ITSPI	470656	# IEEE Transactions on Signal and Power Integrity
+ITSSC	76644	# IEEE Transactions on Systems Science and Cybernetics
+ITTE	280786	# IEEE Transactions on Transportation Electrification
+ITTRC	82946	# IRE Transactions on Telemetry and Remote Control
+ITTS	393415	# IEEE Transactions on Technology and Society
+ITUE	159329	# IEEE Transactions on Ultrasonics Engineering
+ITVCG	66214	# IEEE Transactions on Vehicular Communications
+ITVL	5447	# IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+ITWC	5460	# IEEE Transactions on Wireless Communications
+IVTM	64829	# IEEE Vehicular Technology Magazine
+IWC	13958	# IEEE Wireless Communications
+IWCL	151085	# IEEE Wireless Communications Letters
+IWEM	74866	# IEEE Women in Engineering Magazine
+JAIEE	230666	# Journal of the American Institute of Electrical Engineers
+JDisT	50540	# Journal of Display Technology
+JTCAD	216765	# Journal of Technology Computer Aided Design TCAD
+NIPGA	180445	# Newsletter of the IRE Professional Group on Audio
+OJCS	463002	# IEEE Open Journal of Control Systems
+OJCmS	373660	# IEEE Open Journal of the Computer Society
+PAIEE	234687	# Proceedings of the American Institute of Electrical Engineers
+TAIAI	193986	# Transactions of the American Institute of Electrical Engineers, Part II: Applications and Industry
+TAICE	193985	# Transactions of the American Institute of Electrical Engineers, Part I: Communication and Electronics
+TAIEE	83846	# Transactions of the American Institute of Electrical Engineers
+TAIPA	74898	# Transactions of the American Institute of Electrical Engineers. Part III: Power Apparatus and Systems
+TeSoc	211406	# Technology and Society
+TIGAP	180685	# Transactions of the IRE Professional Group on Antennas and Propagation
+TIPAE	180709	# Transactions of the IRE Professional Group on Airborne Electronics
+TIPAN	180707	# Transactions of the IRE Professional Group on Aeronautical and Navigational Electronics
+TIPBT	180705	# Transactions of the IRE Professional Group on Broadcast and Television Receivers
+TIPCP	26582	# Transactions of the IRE Professional Group on Component Parts
+TIPCT	84225	# Transactions of the IRE Professional Group on Circuit Theory
+TIPEM	85505	# Transactions of the IRE Professional Group on Engineering Management
+TIPGA	181185	# Transactions of the IRE Professional Group on Audio
+TIPGC	26577	# Transactions of the IRE Professional Group on Communications Systems
+TIPGE	79085	# Transactions of the IRE Professional Group on Electron Devices
+TIPGI	180713	# Transactions of the IRE Professional Group on Instrumentation
+TIPIE	181965	# Transactions of the IRE Professional Group on Industrial Electronics
+TIPIT	180706	# Transactions of the IRE Professional Group on Information Theory
+TIPME	180712	# Transactions of the IRE Professional Group on Medical Electronics
+TIPQC	180708	# Transactions of the IRE Professional Group on Quality Control
+TIPRQ	178985	# Transactions of the IRE Professional Group on Reliability and Quality Control
+TIPUE	76641	# Transactions of the IRE Professional Group on Ultrasonic Engineering
+TIPVC	310924	# Transactions of the IRE Professional Group on Vehicular Communications
+ICD	5377	# IEEE Circuits &amp; Devices	
+ILCS	317101	# IEEE Letters of the Computer Society
+ILCSM	5433	# IEEE LCS Magazine
+ITCSE	184566	# IEEE Transactions on Circuits and Systems II: Express Briefs
+ITCSR	24701	# IEEE Transactions on Circuits and Systems I: Regular Papers
+RvIAL	49598	# Revista IEEE America Latina
+TIPEC	180711	# Transactions of the I.R.E. Professional Group on Electronic Computers

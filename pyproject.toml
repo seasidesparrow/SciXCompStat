@@ -19,8 +19,8 @@ packages = [
 ]
 
 dependencies = [
-    'confluent-kafka==2.15.1',
-    'fastavro==1.12.1',
+    'confluent-kafka==1.9.2',
+    'fastavro==1.7.2',
     'avro==1.11.1',
     'redis==4.5.4',
     'alembic==1.8.1',

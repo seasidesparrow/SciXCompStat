@@ -23,19 +23,32 @@ def get_args():
                         default=False,
                         help="Load stem2set.tab into postgres setidents table.")
 
+    parser.add_argument("-h",
+                        "--harvest-one",
+                        dest="harvest_one",
+                        action="store",
+                        default=None,
+                        help="Harvest one bibstem from crossref and write to master table."
+
     return parser.parse_args()
 
                        
 def main():
     args = get_args()
     if args.load_sets:
-        local_stem2set = config.get("SET_FILE", "./new_stem2set.tab")
+        local_stem2set = config.get("SET_FILE", "./tests/stubdata/input/new_stem2set.tab")
         stem2set_dict = utils.read_stem2set(local_stem2set)
         print("I have this many bibstems to write: %s" % len(stem2set_dict.keys()))
         try:
             compstat.write_stem2set_setidents(stem2set_dict)
         except Exception as err:
-            logger.error("Well, shit: %s" % err)
+            logger.error("Failed to write stem2set data: %s" % err)
+
+    if args.harvest_one:
+        try:
+            compstat.harvest_one(args.harvest_one)
+        except Exception as err:
+            logger.error("Failed to harvest bibstem %s: %s" % (args.harvest_one, err))
 
 if __name__ == "__main__":
     main()

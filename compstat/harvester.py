@@ -3,7 +3,10 @@ from time import sleep
 
 import requests
 from SciXPipelineUtils import utils
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
+
+from lxml import etree
+import io
 
 proj_home = os.path.realpath(os.path.join(os.path.dirname(__file__), "../"))
 conf = utils.load_config(proj_home=proj_home)
@@ -34,14 +37,24 @@ class OAIHarvest(object):
         if response.status_code == 200:
             # fetch records from server and create bs4 object
             data = response._content
+            """
             soup = BeautifulSoup(data, "lxml-xml")
             newRecords = soup.findAll("record")
-            # newRecords = [str(x) for x in soup.findAll("record")]
+            """
+            # new parsing using lxml for speed
+            newRecords = []
+            OAI = "{http://www.openarchives.org/OAI/2.0/}"
+            for _, rec in etree.iterparse(io.BytesIO(data) events=("end",), tag=OAI + "record"):
+                doi = rec.findtext(f"{OAI}header/{OAI}identifier")
+                newRecords.append(rec)
+                rec.clear()
+                while rec.getprevious() is not None:
+                    del rec.getparent()[0]
             if self.verbose:
                 logger.debug("Found %s records." % len(newRecords))
             self.allRecords.extend(newRecords)
             try:
-                self.startToken = soup.find("resumptionToken").text
+                self.startToken = etree.fromstring(data).findtext(".//+OAI+"resumptionToken")
             except Exception as noop:
                 self.startToken = None
                 if self.verbose:
@@ -66,7 +79,6 @@ class OAIHarvest(object):
             if self.verbose:
                 logger.warning("Error: got unexpected HTTP response %s" % response.status_code)
                 self.loop = False
-        sleep(self.sleep)
 
     def do_harvest(self, headers={}):
         if not (self.host and self.verb):

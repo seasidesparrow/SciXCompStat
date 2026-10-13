@@ -36,7 +36,7 @@ class OAIHarvest(object):
             data = response._content
             soup = BeautifulSoup(data, "lxml-xml")
             newRecords = soup.findAll("record")
-            # newRecords = soup.findAll('set')
+            # newRecords = [str(x) for x in soup.findAll("record")]
             if self.verbose:
                 logger.debug("Found %s records." % len(newRecords))
             self.allRecords.extend(newRecords)

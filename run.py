@@ -23,12 +23,12 @@ def get_args():
                         default=False,
                         help="Load stem2set.tab into postgres setidents table.")
 
-    parser.add_argument("-h",
+    parser.add_argument("-o",
                         "--harvest-one",
                         dest="harvest_one",
                         action="store",
                         default=None,
-                        help="Harvest one bibstem from crossref and write to master table."
+                        help="Harvest one bibstem from crossref and write to master table.")
 
     return parser.parse_args()
 

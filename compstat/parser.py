@@ -1,6 +1,12 @@
 import json
 from ingestparser.parsers.crossref import CrossrefParser
 
+class FailedParsingException(Exception):
+    pass
+
+class EmptyRecordException(Exception):
+    pass
+
 def generate_simple_meta(idm_record):
     # idm_record is in ingest_data_model format
     simple_record = {}

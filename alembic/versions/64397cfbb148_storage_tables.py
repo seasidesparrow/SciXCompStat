@@ -40,11 +40,10 @@ def upgrade():
     op.create_table(
         "master",
         sa.Column("masterid", sa.Integer(), autoincrement=True, nullable=False),
-        sa.Column("input_file", sa.String(), nullable=False),
         sa.Column("doi", sa.String(), nullable=False),
         sa.Column("journalid", sa.JSON(), nullable=True),
         sa.Column("origin", sa.String(), nullable=False),
-        sa.Column("metadata", sa.JSON(), nullable=False),
+        sa.Column("crmetadata", sa.JSON(), nullable=False),
         sa.Column("bibcode", sa.String(), nullable=True),
         sa.Column("scix_id", sa.String(), nullable=True),
         sa.Column("is_valid", sa.Boolean(), default=False, nullable=False),

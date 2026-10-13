@@ -71,7 +71,7 @@ def harvest_one(bibstem):
     app = CompStat_APP(proj_home)
     with app.session_scope() as session:
         try:
-            ident = session.query(setidents.doi_prefix, setidents.xr_journalid).filter(setidents.bibstem=bibstem).first()
+            ident = session.query(setidents.doi_prefix, setidents.xr_journalid).filter(setidents.bibstem==bibstem).first()
             identifier = ":".join(ident)
             qparams = {
                 "metadataPrefix": "cr_unixml",
@@ -80,24 +80,35 @@ def harvest_one(bibstem):
             }
 
             harvester = OAIHarvest(qparams=qparams)
-            harvester.do_harvest(config.get("HEADER", "{}"))
+            harvester.do_harvest(config.get("HEADER", {}))
             write_records(harvester.allRecords)
         except Exception as err:
             logger.error("Unable to harvest %s: %s" % (bibstem, err))
 
 def write_records(records):
     master_rows = []
+    app = CompStat_APP(proj_home)
     try:
         for rec in records:
-            doi = rec.get("doi", None)
-            origin = "CROSSREF"
-            master_rows.append({"doi": doi, "origin": origin, "crmetadata": rec})
+            try:
+                simple = simpleparser.parse_record_to_simple_meta(str(rec))
+                doi = simple.get("doi", None)
+                master_rows.append({"doi": doi,
+                                    "origin": "CROSSREF",
+                                    "crmetadata": simple,
+                                    "is_valid": False,
+                                    "doi_found": False,
+                                    "meta_found": False})
+            except Exception as err:
+                logger.info("Parsing failed: %s" % err)
         if master_rows:
             with app.session_scope() as session:
-            try:
-                session.bulk_insert_mappings(master, master_rows)
-                session.commit()
-            except Exception as err:
-                session.rollback()
-                session.flush()
-                logger.error("Failed to write records to master: %s" % err)
+                try:
+                    session.bulk_insert_mappings(master, master_rows)
+                    session.commit()
+                except Exception as err:
+                    session.rollback()
+                    session.flush()
+                    logger.error("Failed to write records to master: %s" % err)
+    except Exception as err:
+        logger.error("Failed to write records: %s" % err)

@@ -54,7 +54,7 @@ class OAIHarvest(object):
                 logger.debug("Found %s records." % len(newRecords))
             self.allRecords.extend(newRecords)
             try:
-                self.startToken = etree.fromstring(data).findtext(".//+OAI+"resumptionToken")
+                self.startToken = etree.fromstring(data).findtext(".//+OAI"+"resumptionToken")
             except Exception as noop:
                 self.startToken = None
                 if self.verbose:

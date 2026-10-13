@@ -44,7 +44,7 @@ class OAIHarvest(object):
             # new parsing using lxml for speed
             newRecords = []
             OAI = "{http://www.openarchives.org/OAI/2.0/}"
-            for _, rec in etree.iterparse(io.BytesIO(data) events=("end",), tag=OAI + "record"):
+            for _, rec in etree.iterparse(io.BytesIO(data), events=("end",), tag=OAI + "record"):
                 doi = rec.findtext(f"{OAI}header/{OAI}identifier")
                 newRecords.append(rec)
                 rec.clear()
